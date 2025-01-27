@@ -70,7 +70,7 @@ function renderTopScorerChart(data, selectedGames = []) {
                 backgroundColor: '#4e73df',
                 borderColor: '#4e73df',
                 borderWidth: 1,
-                barThickness: 20,
+                barThickness: 10,
             }]
         },
         options: {
