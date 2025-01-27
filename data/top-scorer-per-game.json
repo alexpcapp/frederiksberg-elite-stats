@@ -1,0 +1,282 @@
+[
+    {
+        "player": "Alex",
+        "match": "avk-frb",
+        "total-earned": 0
+    },
+    {
+        "player": "Alex",
+        "match": "frb-dtu",
+        "total-earned": 0
+    },
+    {
+        "player": "Alex",
+        "match": "frb-gentofte",
+        "total-earned": 0
+    },
+    {
+        "player": "Alex",
+        "match": "frb-vli",
+        "total-earned": 0
+    },
+    {
+        "player": "Ando",
+        "match": "avk-frb",
+        "total-earned": 0
+    },
+    {
+        "player": "Ando",
+        "match": "frb-dtu",
+        "total-earned": 0
+    },
+    {
+        "player": "Ando",
+        "match": "frb-gentofte",
+        "total-earned": 0
+    },
+    {
+        "player": "Ando",
+        "match": "frb-vli",
+        "total-earned": 0
+    },
+    {
+        "player": "Bo",
+        "match": "avk-frb",
+        "total-earned": 4
+    },
+    {
+        "player": "Bo",
+        "match": "frb-dtu",
+        "total-earned": 11
+    },
+    {
+        "player": "Bo",
+        "match": "frb-gentofte",
+        "total-earned": 0
+    },
+    {
+        "player": "Bo",
+        "match": "frb-vli",
+        "total-earned": 1
+    },
+    {
+        "player": "Boerme",
+        "match": "avk-frb",
+        "total-earned": 14
+    },
+    {
+        "player": "Boerme",
+        "match": "frb-dtu",
+        "total-earned": 2
+    },
+    {
+        "player": "Boerme",
+        "match": "frb-gentofte",
+        "total-earned": 4
+    },
+    {
+        "player": "Boerme",
+        "match": "frb-vli",
+        "total-earned": 11
+    },
+    {
+        "player": "Bosse",
+        "match": "avk-frb",
+        "total-earned": 0
+    },
+    {
+        "player": "Bosse",
+        "match": "frb-dtu",
+        "total-earned": 0
+    },
+    {
+        "player": "Bosse",
+        "match": "frb-gentofte",
+        "total-earned": 0
+    },
+    {
+        "player": "Bosse",
+        "match": "frb-vli",
+        "total-earned": 2
+    },
+    {
+        "player": "Gustav",
+        "match": "avk-frb",
+        "total-earned": 10
+    },
+    {
+        "player": "Gustav",
+        "match": "frb-dtu",
+        "total-earned": 0
+    },
+    {
+        "player": "Gustav",
+        "match": "frb-gentofte",
+        "total-earned": 9
+    },
+    {
+        "player": "Gustav",
+        "match": "frb-vli",
+        "total-earned": 18
+    },
+    {
+        "player": "Kristian",
+        "match": "avk-frb",
+        "total-earned": 2
+    },
+    {
+        "player": "Kristian",
+        "match": "frb-dtu",
+        "total-earned": 4
+    },
+    {
+        "player": "Kristian",
+        "match": "frb-gentofte",
+        "total-earned": 3
+    },
+    {
+        "player": "Kristian",
+        "match": "frb-vli",
+        "total-earned": 2
+    },
+    {
+        "player": "Lasse",
+        "match": "avk-frb",
+        "total-earned": 3
+    },
+    {
+        "player": "Lasse",
+        "match": "frb-dtu",
+        "total-earned": 11
+    },
+    {
+        "player": "Lasse",
+        "match": "frb-gentofte",
+        "total-earned": 3
+    },
+    {
+        "player": "Lasse",
+        "match": "frb-vli",
+        "total-earned": 10
+    },
+    {
+        "player": "Mads",
+        "match": "avk-frb",
+        "total-earned": 3
+    },
+    {
+        "player": "Mads",
+        "match": "frb-dtu",
+        "total-earned": 0
+    },
+    {
+        "player": "Mads",
+        "match": "frb-gentofte",
+        "total-earned": 0
+    },
+    {
+        "player": "Mads",
+        "match": "frb-vli",
+        "total-earned": 0
+    },
+    {
+        "player": "Martin",
+        "match": "avk-frb",
+        "total-earned": 14
+    },
+    {
+        "player": "Martin",
+        "match": "frb-dtu",
+        "total-earned": 0
+    },
+    {
+        "player": "Martin",
+        "match": "frb-gentofte",
+        "total-earned": 12
+    },
+    {
+        "player": "Martin",
+        "match": "frb-vli",
+        "total-earned": 0
+    },
+    {
+        "player": "Nico",
+        "match": "avk-frb",
+        "total-earned": 0
+    },
+    {
+        "player": "Nico",
+        "match": "frb-dtu",
+        "total-earned": 0
+    },
+    {
+        "player": "Nico",
+        "match": "frb-gentofte",
+        "total-earned": 0
+    },
+    {
+        "player": "Nico",
+        "match": "frb-vli",
+        "total-earned": 0
+    },
+    {
+        "player": "Nicola",
+        "match": "avk-frb",
+        "total-earned": 13
+    },
+    {
+        "player": "Nicola",
+        "match": "frb-dtu",
+        "total-earned": 18
+    },
+    {
+        "player": "Nicola",
+        "match": "frb-gentofte",
+        "total-earned": 19
+    },
+    {
+        "player": "Nicola",
+        "match": "frb-vli",
+        "total-earned": 19
+    },
+    {
+        "player": "Soeren",
+        "match": "avk-frb",
+        "total-earned": 1
+    },
+    {
+        "player": "Soeren",
+        "match": "frb-dtu",
+        "total-earned": 17
+    },
+    {
+        "player": "Soeren",
+        "match": "frb-gentofte",
+        "total-earned": 10
+    },
+    {
+        "player": "Soeren",
+        "match": "frb-vli",
+        "total-earned": 23
+    },
+    {
+        "player": "Vestbjerg",
+        "match": "avk-frb",
+        "total-earned": 1
+    },
+    {
+        "player": "Vestbjerg",
+        "match": "frb-dtu",
+        "total-earned": 11
+    },
+    {
+        "player": "Vestbjerg",
+        "match": "frb-gentofte",
+        "total-earned": 3
+    },
+    {
+        "player": "Vestbjerg",
+        "match": "frb-vli",
+        "total-earned": 1
+    }
+]
