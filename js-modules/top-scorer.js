@@ -96,7 +96,7 @@ function renderTopScorerChart(data, selectedGames = []) {
 
     // Update bar thickness on resize
     window.addEventListener('resize', () => {
-        myChart.data.datasets[0].barThickness = window.innerWidth < 768 ? 10 : 20;
+        myChart.data.datasets[0].barThickness = window.innerWidth < 768 ? 5 : 20;
         myChart.update();
     });
 
