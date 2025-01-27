@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #f7f7f7;
+    color: #333;
+}
+
+h1 {
+    margin: 20px 0;
+  }
+  
+
+header {
+    background-color: #0047ab;
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+}
+
+header nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 1em;
+}
+
+section {
+    margin: 2em 0;
+    padding: 1em;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #0047ab;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    flex-shrink: 0; 
+}
+
+#chart-container {
+    width: 80%;
+    margin: 0 auto;
+    flex: 1;
+    padding: 20px;
+  }
+
+.container {
+    display: flex;
+    flex-direction: column;   /* Stack the dropdowns vertically */
+    justify-content: center;  /* Center horizontally */
+    align-items: center;      /* Center vertically */
+    height: 15xvh;            /* Full viewport height */
+}
+
+  /* Style for the dropdown menus */
+select {
+    width: 150px; /* Adjust the width as needed */
+    padding: 5px; /* Adds some padding inside the dropdown */
+    font-size: 14px; /* Controls the text size for readability */
+    border: 1px solid #ccc; /* Adds a light border around the dropdown */
+    border-radius: 5px; /* Rounded corners for a softer look */
+    background-color: #f9f9f9; /* Light background color */
+    margin: 10px 0;           /* Adds space between dropdowns vertically */
+}
+
+/* Option styling to make them more compact */
+select option {
+    padding: 10px; /* Adds padding to each option */
+}

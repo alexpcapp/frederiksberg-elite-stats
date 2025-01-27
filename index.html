@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Volleyball Team Stats</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Volleyball Team Stats</h1>
+        <nav>
+            <a href="match_stats/index.html">1. Division</a>
+            <a href="player_stats/index.html">Player Stats</a>
+            <a href="#match-stats">Frederiksberg Stats</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="overall-stats">
+            <h2>Overall Stats</h2>
+            <div id="overall-visualization"></div>
+        </section>
+
+        <section id="player-stats">
+            <h2>Player Stats</h2>
+            <select id="player-select">
+                <option value="all">All Players</option>
+                <!-- Add player options dynamically later -->
+            </select>
+            <div id="player-visualization"></div>
+        </section>
+
+        <section id="match-stats">
+            <h2>Match Stats</h2>
+            <select id="match-select">
+                <option value="all">All Matches</option>
+                <!-- Add match options dynamically later -->
+            </select>
+            <div id="match-visualization"></div>
+        </section>
+    </main>
+
+    <h1>Volleyball Team Stats</h1>
+  <div id="chart-container">
+    <canvas id="statsChart" width="600" height="400"></canvas>
+  </div>
+
+  
+
+    <!-- WIN RATIO -->
+
+    <h1>Frederiksberg Volley Match Stats</h1>
+  
+  <!-- Filters for Season and Game Type -->
+  <label for="season">Season:</label>
+  <select id="season">
+    <option value="all">All Seasons</option>
+    <option value="2024-2025">2024-2025</option>
+    <option value="2023-2024">2023-2024</option>
+    <option value="2022-2023">2022-2023</option>
+    <option value="2021-2022">2021-2022</option>
+  </select>
+
+  <label for="game-type">Game Type:</label>
+  <select id="game-type">
+    <option value="all">All Games</option>
+    <option value="home">Home Games</option>
+    <option value="away">Away Games</option>
+  </select>
+
+  <!-- Canvas to display the chart -->
+  <canvas id="winLossChart" width="400" height="200"></canvas>
+
+  <!-- Script to process and display data -->
+  <script src="main.js"></script>
+
+
+
+
+  <!-- footer from here on -->
+
+    <footer>
+        <p>&copy; 2024 Volleyball Team</p>
+    </footer>
+
+    <script src="js/visualizations.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>
+
+</body>
+</html>

@@ -1,0 +1,67 @@
+match_number,date,home_team,away_team,stadium,result,season,time,home_result,away_result,winner,home_sets_won,away_sets_won,number_of_sets,home_game_won,away_game_won,home_sets_lost,away_sets_lost,game_type
+129822,03-10-21,VLI,Frederiksberg Volley,Kedelhallen                ,2 - 3,2021-2022,13:30,2,3,Frederiksberg Volley,2,3,5,0,1,3,2,away
+129830,10-10-21,Frederiksberg Volley,Hvidovre VK.2,Kedelhallen                ,3 - 0,2021-2022,15:30,3,0,Frederiksberg Volley,3,0,3,1,0,0,3,home
+129835,17-10-21,Frederiksberg Volley,Amager VK.2,Bülowsvejhallen                ,3 - 1,2021-2022,12:00,3,1,Frederiksberg Volley,3,1,4,1,0,1,3,home
+129860,31-10-21,Frederiksberg Volley,Farum-Holte,Bülowsvejhallen                ,3 - 0,2021-2022,10:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3,home
+129868,06-11-21,DTU Volley,Frederiksberg Volley,Engelsborghallen                ,0 - 3,2021-2022,14:30,0,3,Frederiksberg Volley,0,3,3,0,1,3,0,away
+129878,27-11-21,Team Køge,Frederiksberg Volley,Spar Nord Arena                ,0 - 3,2021-2022,13:30,0,3,Frederiksberg Volley,0,3,3,0,1,3,0,away
+129924,05-12-21,Frederiksberg Volley,Gentofte Volley.2,Bülowsvejhallen                ,3 - 1,2021-2022,12:00,3,1,Frederiksberg Volley,3,1,4,1,0,1,3,home
+129888,09-01-22,Frederiksberg Volley,VLI,Bülowsvejhallen                ,3 - 0,2021-2022,10:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3,home
+129926,11-01-22,Farum-Holte,Frederiksberg Volley,Ny Holtehal                ,0 - 3,2021-2022,18:30,0,3,Frederiksberg Volley,0,3,3,0,1,3,0,away
+129841,13-01-22,Grøndal EV,Frederiksberg Volley,Hillerødgades Sportssal                ,0 - 3,2021-2022,20:00,0,3,Frederiksberg Volley,0,3,3,0,1,3,0,away
+129890,16-01-22,Frederiksberg Volley,KV 61,Bülowsvejhallen                ,3 - 0,2021-2022,10:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3,home
+129872,19-01-22,Frederiksberg Volley,Ishøj Volley,Bülowsvejhallen                ,3 - 0,2021-2022,19:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3,home
+129901,03-02-22,Amager VK.2,Frederiksberg Volley,Sundbyhal 2                ,3 - 0,2021-2022,19:00,3,0,Amager VK.2,3,0,3,1,0,0,3,away
+129896,17-02-22,Hvidovre VK.2,Frederiksberg Volley,Frihedens Idrætscenter                ,1 - 3,2021-2022,20:30,1,3,Frederiksberg Volley,1,3,4,0,1,3,1,away
+129934,23-02-22,Frederiksberg Volley,DTU Volley,Bülowsvejhallen                ,3 - 0,2021-2022,19:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3,home
+129938,01-03-22,Ishøj Volley,Frederiksberg Volley,Ishøj Idrætscenter                Hal 3 - ,0 - 3,2021-2022,19:00,0,3,Frederiksberg Volley,0,3,3,0,1,3,0,away
+129858,13-03-22,Gentofte Volley.2,Frederiksberg Volley,Kildeskovshal                 ,3 - 0,2021-2022,12:00,3,0,Gentofte Volley.2,3,0,3,1,0,0,3,away
+129907,20-03-22,Frederiksberg Volley,Grøndal EV,Bülowsvejhallen                ,3 - 2,2021-2022,12:00,3,2,Frederiksberg Volley,3,2,5,1,0,2,3,home
+129944,27-03-22,Frederiksberg Volley,Team Køge,Bülowsvejhallen                ,3 - 0,2021-2022,10:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3,home
+129824,03-04-22,KV 61,Frederiksberg Volley,Idrætshuset                ,0 - 3,2021-2022,12:00,0,3,Frederiksberg Volley,0,3,3,0,1,3,0,away
+134637,01-10-22,Frederiksberg Volley,Gentofte Volley.2,Bülowsvejhallen                ,3 - 0,2022-2023,14:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3,home
+134645,08-10-22,Frederiksberg Volley,Farum-Holte,Bülowsvejhallen                ,3 - 0,2022-2023,14:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3,home
+134651,16-10-22,Grøndal EV,Frederiksberg Volley,Hillerødgades Sportssal                ,3 - 1,2022-2023,13:00,3,1,Grøndal EV,3,1,4,1,0,1,3,away
+134664,05-11-22,DTU Volley,Frederiksberg Volley,Engelsborghallen                ,0 - 3,2022-2023,14:30,0,3,Frederiksberg Volley,0,3,3,0,1,3,0,away
+134670,13-11-22,Hvidovre VK.2,Frederiksberg Volley,Frihedens Idrætscenter                ,0 - 3,2022-2023,13:30,0,3,Frederiksberg Volley,0,3,3,0,1,3,0,away
+134656,22-11-22,Frederiksberg Volley,KSV,Kedelhallen                ,3 - 0,2022-2023,19:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3,home
+134676,27-11-22,VLI,Frederiksberg Volley,Kedelhallen                ,2 - 3,2022-2023,13:30,2,3,Frederiksberg Volley,2,3,5,0,1,3,2,away
+134658,03-12-22,Frederiksberg Volley,VK Holbæk,Bülowsvejhallen                ,3 - 0,2022-2023,14:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3,home
+134681,11-12-22,Amager VK.2,Frederiksberg Volley,Sundbyhal 2                ,3 - 2,2022-2023,12:00,3,2,Amager VK.2,3,2,5,1,0,2,3,away
+134682,15-01-23,Gentofte Volley.2,Frederiksberg Volley,Kildeskovshal                 ,0 - 3,2022-2023,12:00,0,3,Frederiksberg Volley,0,3,3,0,1,3,0,away
+134690,21-01-23,Farum-Holte,Frederiksberg Volley,Ny Holtehal                ,3 - 2,2022-2023,17:00,3,2,Farum-Holte,3,2,5,1,0,2,3,away
+134696,29-01-23,Frederiksberg Volley,Grøndal EV,Bülowsvejhallen                ,3 - 1,2022-2023,12:00,3,1,Frederiksberg Volley,3,1,4,1,0,1,3,home
+134701,05-02-23,KSV,Frederiksberg Volley,Hillerødgades Sportssal                ,0 - 3,2022-2023,12:00,0,3,Frederiksberg Volley,0,3,3,0,1,3,0,away
+134703,25-02-23,VK Holbæk,Frederiksberg Volley,Bjergmarkshallen                ,0 - 3,2022-2023,10:00,0,3,Frederiksberg Volley,0,3,3,0,1,3,0,away
+134709,07-03-23,Frederiksberg Volley,DTU Volley,Kedelhallen                ,3 - 1,2022-2023,19:30,3,1,Frederiksberg Volley,3,1,4,1,0,1,3,home
+134715,18-03-23,Frederiksberg Volley,Hvidovre VK.2,Bülowsvejhallen                ,2 - 3,2022-2023,16:00,2,3,Hvidovre VK.2,2,3,5,0,1,3,2,home
+134721,22-03-23,Frederiksberg Volley,VLI,Bülowsvejhallen                ,2 - 3,2022-2023,19:00,2,3,VLI,2,3,5,0,1,3,2,home
+134726,01-04-23,Frederiksberg Volley,Amager VK.2,Bülowsvejhallen                ,1 - 3,2022-2023,16:00,1,3,Amager VK.2,1,3,4,0,1,3,1,home
+137699,30-09-23,Team Køge,Frederiksberg Volley,Spar Nord Arena                ,0 - 3,2023-2024,15:30,0,3,Frederiksberg Volley,0,3,3,0,1,3,0,away
+137705,08-10-23,Frederiksberg Volley,Hvidovre VK,Bülowsvejhallen                ,1 - 3,2023-2024,12:00,1,3,Hvidovre VK,1,3,4,0,1,3,1,home
+137710,15-10-23,Frederiksberg Volley,DTU Volley,Bülowsvejhallen                ,3 - 1,2023-2024,12:00,3,1,Frederiksberg Volley,3,1,4,1,0,1,3,home
+137713,28-10-23,Farum-Holte,Frederiksberg Volley,Ny Holtehal                ,0 - 3,2023-2024,16:00,0,3,Frederiksberg Volley,0,3,3,0,1,3,0,away
+137719,05-11-23,Frederiksberg Volley,RS Rødovre,Bülowsvejhallen                ,3 - 0,2023-2024,14:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3,home
+137725,19-11-23,Amager VK.2,Frederiksberg Volley,Sundbyhal                 ,3 - 1,2023-2024,14:00,3,1,Amager VK.2,3,1,4,1,0,1,3,away
+137726,26-11-23,Frederiksberg Volley,Gentofte Volley.2,Bülowsvejhallen                ,3 - 0,2023-2024,14:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3,home
+137732,03-12-23,VLI,Frederiksberg Volley,Kedelhallen                ,3 - 1,2023-2024,13:30,3,1,VLI,3,1,4,1,0,1,3,away
+137738,10-12-23,Frederiksberg Volley,Grøndal EV,Kedelhallen                ,2 - 3,2023-2024,13:30,2,3,Grøndal EV,2,3,5,0,1,3,2,home
+137744,14-01-24,Frederiksberg Volley,Team Køge,Bülowsvejhallen                ,3 - 0,2023-2024,14:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3,home
+137750,21-01-24,Hvidovre VK,Frederiksberg Volley,Frihedens Idrætscenter                ,3 - 0,2023-2024,12:00,3,0,Hvidovre VK,3,0,3,1,0,0,3,away
+137755,27-01-24,DTU Volley,Frederiksberg Volley,Engelsborghallen                ,3 - 1,2023-2024,14:30,3,1,DTU Volley,3,1,4,1,0,1,3,away
+137758,04-02-24,Frederiksberg Volley,Farum-Holte,Bülowsvejhallen                ,3 - 2,2023-2024,14:00,3,2,Frederiksberg Volley,3,2,5,1,0,2,3,home
+137770,10-03-24,Frederiksberg Volley,Amager VK.2,Bülowsvejhallen                ,3 - 1,2023-2024,12:00,3,1,Frederiksberg Volley,3,1,4,1,0,1,3,home
+137771,13-03-24,Gentofte Volley.2,Frederiksberg Volley,Byens Hus                ,3 - 2,2023-2024,20:30,3,2,Gentofte Volley.2,3,2,5,1,0,2,3,away
+137777,24-03-24,Frederiksberg Volley,VLI,Bülowsvejhallen                ,3 - 0,2023-2024,10:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3,home
+137764,03-04-24,RS Rødovre,Frederiksberg Volley,Rødovrehallen                4 - Hal 2 (LB),0 - 3,2023-2024,20:00,0,3,Frederiksberg Volley,0,3,3,0,1,3,0,away
+137783,07-04-24,Grøndal EV,Frederiksberg Volley,Hillerødgades Sportssal                ,3 - 2,2023-2024,14:00,3,2,Grøndal EV,3,2,5,1,0,2,3,away
+141063,29-09-24,Gentofte Volley.2,Frederiksberg Volley,Kildeskovshal                 ,3 - 2,2024-2025,10:00,3,2,Gentofte Volley.2,3,2,5,1,0,2,3,away
+141067,06-10-24,Frederiksberg Volley,KV 61,Bülowsvejhallen                ,3 - 0,2024-2025,18:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3,home
+141074,13-10-24,Frederiksberg Volley,Amager Volley.2,Kedelhallen                ,0 - 3,2024-2025,14:00,0,3,Amager Volley.2,0,3,3,0,1,3,0,home
+141078,27-10-24,VLI,Frederiksberg Volley,Kedelhallen                ,3 - 0,2024-2025,11:30,3,0,VLI,3,0,3,1,0,0,3,away
+141089,02-11-24,Frederiksberg Volley,Team Køge,Bülowsvejhallen                ,3 - 0,2024-2025,18:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3,home
+141094,16-11-24,DTU Volley,Frederiksberg Volley,Engelsborghallen                ,2 - 3,2024-2025,14:30,2,3,Frederiksberg Volley,2,3,5,0,1,3,2,away
+141099,23-11-24,Frederiksberg Volley,Hvidovre VK.2,Bülowsvejhallen                ,2 - 3,2024-2025,14:00,2,3,Hvidovre VK.2,2,3,5,0,1,3,2,home
+141104,01-12-24,Grøndal EV,Frederiksberg Volley,Hillerødgades Sportssal                ,0 - 3,2024-2025,14:00,0,3,Frederiksberg Volley,0,3,3,0,1,3,0,away
+141108,08-12-24,Frederiksberg Volley,Gentofte Volley.2,Bülowsvejhallen                ,3 - 1,2024-2025,18:00,3,1,Frederiksberg Volley,3,1,4,1,0,1,3,home
+141119,12-01-25,Amager Volley.2,Frederiksberg Volley,Sundbyhal                 ,3 - 2,2024-2025,12:00,3,2,Amager Volley.2,3,2,5,1,0,2,3,away

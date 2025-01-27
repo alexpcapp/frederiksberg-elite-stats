@@ -1,0 +1,340 @@
+match_number,date,home_team,away_team,stadium,result,season,time,home_result,away_result,winner,home_sets_won,away_sets_won,number_of_sets,home_game_won,away_game_won,home_sets_lost,away_sets_lost
+129818,02-10-21,DTU Volley,Team Køge,Engelsborghallen                ,3 - 0,2021-2022,14:30,3,0,DTU Volley,3,0,3,1,0,0,3
+129819,02-10-21,Hvidovre VK.2,Farum-Holte,Frihedens Idrætscenter                ,0 - 3,2021-2022,15:00,0,3,Farum-Holte,0,3,3,0,1,3,0
+129820,03-10-21,Gentofte Volley.2,KV 61,Kildeskovshal                 ,3 - 0,2021-2022,12:00,3,0,Gentofte Volley.2,3,0,3,1,0,0,3
+129822,03-10-21,VLI,Frederiksberg Volley,Kedelhallen                ,2 - 3,2021-2022,13:30,2,3,Frederiksberg Volley,2,3,5,0,1,3,2
+129817,03-10-21,Ishøj Volley,Grøndal EV,Strandgårdskolens sportshal                ,3 - 1,2021-2022,16:00,3,1,Ishøj Volley,3,1,4,1,0,1,3
+129833,06-10-21,Ishøj Volley,Farum-Holte,Strandgårdskolens sportshal                ,2 - 3,2021-2022,19:00,2,3,Farum-Holte,2,3,5,0,1,3,2
+129834,09-10-21,DTU Volley,Amager VK.2,Engelsborghallen                ,3 - 0,2021-2022,16:30,3,0,DTU Volley,3,0,3,1,0,0,3
+129829,10-10-21,Grøndal EV,Gentofte Volley.2,Hillerødgades Sportssal                ,1 - 3,2021-2022,14:00,1,3,Gentofte Volley.2,1,3,4,0,1,3,1
+129830,10-10-21,Frederiksberg Volley,Hvidovre VK.2,Kedelhallen                ,3 - 0,2021-2022,15:30,3,0,Frederiksberg Volley,3,0,3,1,0,0,3
+129832,12-10-21,Team Køge,KV 61,Spar Nord Arena                ,3 - 2,2021-2022,20:30,3,2,Team Køge,3,2,5,1,0,2,3
+129835,17-10-21,Frederiksberg Volley,Amager VK.2,Bülowsvejhallen                ,3 - 1,2021-2022,12:00,3,1,Frederiksberg Volley,3,1,4,1,0,1,3
+129838,17-10-21,Hvidovre VK.2,Grøndal EV,Frihedens Idrætscenter                ,0 - 3,2021-2022,12:00,0,3,Grøndal EV,0,3,3,0,1,3,0
+129839,17-10-21,Gentofte Volley.2,DTU Volley,Kildeskovshal                 ,3 - 0,2021-2022,12:00,3,0,Gentofte Volley.2,3,0,3,1,0,0,3
+129840,17-10-21,VLI,Team Køge,Kedelhallen                ,3 - 1,2021-2022,13:30,3,1,VLI,3,1,4,1,0,1,3
+129860,31-10-21,Frederiksberg Volley,Farum-Holte,Bülowsvejhallen                ,3 - 0,2021-2022,10:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3
+129864,31-10-21,VLI,KV 61,Kedelhallen                ,3 - 0,2021-2022,11:30,3,0,VLI,3,0,3,1,0,0,3
+129863,31-10-21,Amager VK.2,Hvidovre VK.2,Sundbyhal 2                ,3 - 0,2021-2022,15:00,3,0,Amager VK.2,3,0,3,1,0,0,3
+129859,31-10-21,Grøndal EV,DTU Volley,Hillerødgades Sportssal                ,2 - 3,2021-2022,16:00,2,3,DTU Volley,2,3,5,0,1,3,2
+129862,31-10-21,Ishøj Volley,Gentofte Volley.2,Ishøj Idrætscenter                Hal 3 - ,2 - 3,2021-2022,16:00,2,3,Gentofte Volley.2,2,3,5,0,1,3,2
+129868,06-11-21,DTU Volley,Frederiksberg Volley,Engelsborghallen                ,0 - 3,2021-2022,14:30,0,3,Frederiksberg Volley,0,3,3,0,1,3,0
+129866,06-11-21,Farum-Holte,Grøndal EV,Birkerød Idrætscenter                ,3 - 0,2021-2022,15:00,3,0,Farum-Holte,3,0,3,1,0,0,3
+129870,07-11-21,Gentofte Volley.2,Team Køge,Kildeskovshal                 ,3 - 0,2021-2022,10:00,3,0,Gentofte Volley.2,3,0,3,1,0,0,3
+129865,07-11-21,KV 61,Amager VK.2,Idrætshuset                ,3 - 2,2021-2022,12:00,3,2,KV 61,3,2,5,1,0,2,3
+129867,07-11-21,Ishøj Volley,VLI,Ishøj Idrætscenter                Hal 3 - ,1 - 3,2021-2022,16:00,1,3,VLI,1,3,4,0,1,3,1
+129843,21-11-21,Farum-Holte,Team Køge,Birkerød Idrætscenter                ,3 - 1,2021-2022,10:00,3,1,Farum-Holte,3,1,4,1,0,1,3
+129846,21-11-21,Amager VK.2,VLI,Sundbyhal 2                ,3 - 1,2021-2022,12:00,3,1,Amager VK.2,3,1,4,1,0,1,3
+129844,21-11-21,Ishøj Volley,DTU Volley,Ishøj Idrætscenter                Hal 3 - ,2 - 3,2021-2022,16:00,2,3,DTU Volley,2,3,5,0,1,3,2
+129877,27-11-21,Farum-Holte,Gentofte Volley.2,Birkerød Idrætscenter                ,0 - 3,2021-2022,10:00,0,3,Gentofte Volley.2,0,3,3,0,1,3,0
+129878,27-11-21,Team Køge,Frederiksberg Volley,Spar Nord Arena                ,0 - 3,2021-2022,13:30,0,3,Frederiksberg Volley,0,3,3,0,1,3,0
+129880,27-11-21,DTU Volley,KV 61,Engelsborghallen                ,3 - 2,2021-2022,16:30,3,2,DTU Volley,3,2,5,1,0,2,3
+129882,28-11-21,Amager VK.2,Grøndal EV,Sundbyhal 2                ,3 - 1,2021-2022,10:00,3,1,Amager VK.2,3,1,4,1,0,1,3
+129881,28-11-21,Hvidovre VK.2,VLI,Frihedens Idrætscenter                ,3 - 1,2021-2022,12:00,3,1,Hvidovre VK.2,3,1,4,1,0,1,3
+129919,30-11-21,KV 61,Grøndal EV,Idrætshuset                ,0 - 3,2021-2022,20:00,0,3,Grøndal EV,0,3,3,0,1,3,0
+129836,04-12-21,Ishøj Volley,KV 61,Ishøj Idrætscenter                Hal 3 - ,3 - 0,2021-2022,13:00,3,0,Ishøj Volley,3,0,3,1,0,0,3
+129922,05-12-21,Amager VK.2,Team Køge,Sundbyhal 2                ,1 - 3,2021-2022,12:00,1,3,Team Køge,1,3,4,0,1,3,1
+129924,05-12-21,Frederiksberg Volley,Gentofte Volley.2,Bülowsvejhallen                ,3 - 1,2021-2022,12:00,3,1,Frederiksberg Volley,3,1,4,1,0,1,3
+129921,05-12-21,VLI,Farum-Holte,Kedelhallen                ,3 - 0,2021-2022,13:30,3,0,VLI,3,0,3,1,0,0,3
+129923,05-12-21,Ishøj Volley,Hvidovre VK.2,Ishøj Idrætscenter                Hal 3 - ,3 - 0,2021-2022,16:00,3,0,Ishøj Volley,3,0,3,1,0,0,3
+129925,11-12-21,DTU Volley,Grøndal EV,Engelsborghallen                ,3 - 1,2021-2022,14:30,3,1,DTU Volley,3,1,4,1,0,1,3
+129929,11-12-21,Hvidovre VK.2,Amager VK.2,Frihedens Idrætscenter                ,0 - 3,2021-2022,17:00,0,3,Amager VK.2,0,3,3,0,1,3,0
+129930,12-12-21,KV 61,VLI,Idrætshuset                ,3 - 0,2021-2022,12:00,3,0,KV 61,3,0,3,1,0,0,3
+129928,12-12-21,Gentofte Volley.2,Ishøj Volley,Kildeskovshal                 ,3 - 0,2021-2022,14:00,3,0,Gentofte Volley.2,3,0,3,1,0,0,3
+129845,05-01-22,Hvidovre VK.2,Gentofte Volley.2,Frihedens Idrætscenter                ,1 - 3,2021-2022,20:30,1,3,Gentofte Volley.2,1,3,4,0,1,3,1
+129885,08-01-22,Farum-Holte,Hvidovre VK.2,Ny Holtehal                ,3 - 2,2021-2022,12:00,3,2,Farum-Holte,3,2,5,1,0,2,3
+129888,09-01-22,Frederiksberg Volley,VLI,Bülowsvejhallen                ,3 - 0,2021-2022,10:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3
+129886,09-01-22,KV 61,Gentofte Volley.2,Idrætshuset                ,1 - 3,2021-2022,12:00,1,3,Gentofte Volley.2,1,3,4,0,1,3,1
+129884,09-01-22,Team Køge,DTU Volley,Asgård skole                ,2 - 3,2021-2022,14:00,2,3,DTU Volley,2,3,5,0,1,3,2
+129926,11-01-22,Farum-Holte,Frederiksberg Volley,Ny Holtehal                ,0 - 3,2021-2022,18:30,0,3,Frederiksberg Volley,0,3,3,0,1,3,0
+129841,13-01-22,Grøndal EV,Frederiksberg Volley,Hillerødgades Sportssal                ,0 - 3,2021-2022,20:00,0,3,Frederiksberg Volley,0,3,3,0,1,3,0
+129891,15-01-22,DTU Volley,Farum-Holte,Engelsborghallen                ,1 - 3,2021-2022,16:30,1,3,Farum-Holte,1,3,4,0,1,3,1
+129890,16-01-22,Frederiksberg Volley,KV 61,Bülowsvejhallen                ,3 - 0,2021-2022,10:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3
+129894,16-01-22,Gentofte Volley.2,VLI,Kildeskovshal                 ,3 - 0,2021-2022,12:00,3,0,Gentofte Volley.2,3,0,3,1,0,0,3
+129872,19-01-22,Frederiksberg Volley,Ishøj Volley,Bülowsvejhallen                ,3 - 0,2021-2022,19:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3
+129876,19-01-22,VLI,DTU Volley,Kedelhallen                ,0 - 3,2021-2022,20:30,0,3,DTU Volley,0,3,3,0,1,3,0
+129895,23-01-22,Gentofte Volley.2,Grøndal EV,Kildeskovshal                 ,3 - 0,2021-2022,10:00,3,0,Gentofte Volley.2,3,0,3,1,0,0,3
+129900,24-01-22,Amager VK.2,DTU Volley,Sundbyhal 2                ,3 - 0,2021-2022,19:00,3,0,Amager VK.2,3,0,3,1,0,0,3
+129905,29-01-22,DTU Volley,Gentofte Volley.2,Engelsborghallen                ,2 - 3,2021-2022,14:30,2,3,Gentofte Volley.2,2,3,5,0,1,3,2
+129904,30-01-22,Grøndal EV,Hvidovre VK.2,Hillerødgades Sportssal                ,1 - 3,2021-2022,14:00,1,3,Hvidovre VK.2,1,3,4,0,1,3,1
+129849,01-02-22,Team Køge,Ishøj Volley,Asgård skole                ,1 - 3,2021-2022,20:00,1,3,Ishøj Volley,1,3,4,0,1,3,1
+129901,03-02-22,Amager VK.2,Frederiksberg Volley,Sundbyhal 2                ,3 - 0,2021-2022,19:00,3,0,Amager VK.2,3,0,3,1,0,0,3
+129848,05-02-22,KV 61,Farum-Holte,Idrætshuset                ,2 - 3,2021-2022,16:00,2,3,Farum-Holte,2,3,5,0,1,3,2
+129850,05-02-22,DTU Volley,Hvidovre VK.2,Engelsborghallen                ,3 - 2,2021-2022,16:30,3,2,DTU Volley,3,2,5,1,0,2,3
+129893,06-02-22,Ishøj Volley,Amager VK.2,Ishøj Idrætscenter                Hal 3 - ,1 - 3,2021-2022,16:00,1,3,Amager VK.2,1,3,4,0,1,3,1
+129892,08-02-22,Hvidovre VK.2,Team Køge,Frihedens Idrætscenter                ,3 - 0,2021-2022,20:30,3,0,Hvidovre VK.2,3,0,3,1,0,0,3
+129852,09-02-22,VLI,Grøndal EV,Kedelhallen                ,3 - 1,2021-2022,20:30,3,1,VLI,3,1,4,1,0,1,3
+129936,12-02-22,Team Køge,Gentofte Volley.2,Spar Nord Arena                ,1 - 3,2021-2022,15:30,1,3,Gentofte Volley.2,1,3,4,0,1,3,1
+129883,13-02-22,Grøndal EV,Ishøj Volley,Hillerødgades Sportssal                ,1 - 3,2021-2022,14:00,1,3,Ishøj Volley,1,3,4,0,1,3,1
+129896,17-02-22,Hvidovre VK.2,Frederiksberg Volley,Frihedens Idrætscenter                ,1 - 3,2021-2022,20:30,1,3,Frederiksberg Volley,1,3,4,0,1,3,1
+129933,20-02-22,VLI,Ishøj Volley,Kedelhallen                ,3 - 1,2021-2022,11:30,3,1,VLI,3,1,4,1,0,1,3
+129931,22-02-22,Amager VK.2,KV 61,Sundbyhal 2                ,3 - 0,2021-2022,19:00,3,0,Amager VK.2,3,0,3,1,0,0,3
+129899,22-02-22,Farum-Holte,Ishøj Volley,Bybækhallen                ,1 - 3,2021-2022,20:00,1,3,Ishøj Volley,1,3,4,0,1,3,1
+129934,23-02-22,Frederiksberg Volley,DTU Volley,Bülowsvejhallen                ,3 - 0,2021-2022,19:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3
+129932,24-02-22,Grøndal EV,Farum-Holte,Hillerødgades Sportssal                ,2 - 3,2021-2022,20:15,2,3,Farum-Holte,2,3,5,0,1,3,2
+129871,27-02-22,Grøndal EV,Team Køge,Hillerødgades Sportssal                ,3 - 0,2021-2022,16:00,3,0,Grøndal EV,3,0,3,1,0,0,3
+129938,01-03-22,Ishøj Volley,Frederiksberg Volley,Ishøj Idrætscenter                Hal 3 - ,0 - 3,2021-2022,19:00,0,3,Frederiksberg Volley,0,3,3,0,1,3,0
+129906,01-03-22,Team Køge,VLI,Spar Nord Arena                ,1 - 3,2021-2022,19:45,1,3,VLI,1,3,4,0,1,3,1
+129874,01-03-22,KV 61,Hvidovre VK.2,Idrætshuset                ,0 - 3,2021-2022,20:00,0,3,Hvidovre VK.2,0,3,3,0,1,3,0
+129937,03-03-22,Team Køge,Grøndal EV,Asgård skole                ,3 - 2,2021-2022,18:15,3,2,Team Køge,3,2,5,1,0,2,3
+129875,03-03-22,Amager VK.2,Farum-Holte,Sundbyhal 2                ,3 - 0,2021-2022,18:30,3,0,Amager VK.2,3,0,3,1,0,0,3
+129940,06-03-22,Hvidovre VK.2,KV 61,Frihedens Idrætscenter                ,3 - 0,2021-2022,12:00,3,0,Hvidovre VK.2,3,0,3,1,0,0,3
+129942,06-03-22,DTU Volley,VLI,Polythallen                ,1 - 3,2021-2022,13:30,1,3,VLI,1,3,4,0,1,3,1
+129898,08-03-22,KV 61,Team Køge,Idrætshuset                ,2 - 3,2021-2022,19:45,2,3,Team Køge,2,3,5,0,1,3,2
+129902,11-03-22,Ishøj Volley,KV 61,Ishøj Idrætscenter                Hal 3 - ,3 - 0,2021-2022,19:00,3,0,Ishøj Volley,3,0,3,1,0,0,3
+129855,12-03-22,Farum-Holte,VLI,Ny Holtehal                ,2 - 3,2021-2022,15:00,2,3,VLI,2,3,5,0,1,3,2
+129856,12-03-22,Team Køge,Amager VK.2,Spar Nord Arena                ,2 - 3,2021-2022,15:30,2,3,Amager VK.2,2,3,5,0,1,3,2
+129857,13-03-22,Hvidovre VK.2,Ishøj Volley,Frihedens Idrætscenter                ,1 - 3,2021-2022,12:00,1,3,Ishøj Volley,1,3,4,0,1,3,1
+129858,13-03-22,Gentofte Volley.2,Frederiksberg Volley,Kildeskovshal                 ,3 - 0,2021-2022,12:00,3,0,Gentofte Volley.2,3,0,3,1,0,0,3
+129853,13-03-22,Grøndal EV,KV 61,Hillerødgades Sportssal                ,3 - 1,2021-2022,16:00,3,1,Grøndal EV,3,1,4,1,0,1,3
+129941,15-03-22,Farum-Holte,Amager VK.2,Bybækhallen                ,0 - 3,2021-2022,19:30,0,3,Amager VK.2,0,3,3,0,1,3,0
+129909,19-03-22,Team Køge,Farum-Holte,Asgård skole                ,1 - 3,2021-2022,14:00,1,3,Farum-Holte,1,3,4,0,1,3,1
+129910,19-03-22,DTU Volley,Ishøj Volley,Engelsborghallen                ,0 - 3,2021-2022,16:30,0,3,Ishøj Volley,0,3,3,0,1,3,0
+129911,20-03-22,Gentofte Volley.2,Hvidovre VK.2,Kildeskovshal                 ,3 - 0,2021-2022,12:00,3,0,Gentofte Volley.2,3,0,3,1,0,0,3
+129907,20-03-22,Frederiksberg Volley,Grøndal EV,Bülowsvejhallen                ,3 - 2,2021-2022,12:00,3,2,Frederiksberg Volley,3,2,5,1,0,2,3
+129912,20-03-22,VLI,Amager VK.2,Kedelhallen                ,0 - 3,2021-2022,13:30,0,3,Amager VK.2,0,3,3,0,1,3,0
+129851,22-03-22,Gentofte Volley.2,Amager VK.2,Gentoftehallen                 - Hal B,3 - 0,2021-2022,18:00,3,0,Gentofte Volley.2,3,0,3,1,0,0,3
+129944,27-03-22,Frederiksberg Volley,Team Køge,Bülowsvejhallen                ,3 - 0,2021-2022,10:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3
+129946,27-03-22,KV 61,DTU Volley,Idrætshuset                ,1 - 3,2021-2022,10:00,1,3,DTU Volley,1,3,4,0,1,3,1
+129947,27-03-22,VLI,Hvidovre VK.2,Kedelhallen                ,3 - 0,2021-2022,11:30,3,0,VLI,3,0,3,1,0,0,3
+129943,27-03-22,Gentofte Volley.2,Farum-Holte,Kildeskovshal                 ,3 - 0,2021-2022,12:00,3,0,Gentofte Volley.2,3,0,3,1,0,0,3
+129948,27-03-22,Grøndal EV,Amager VK.2,Hillerødgades Sportssal                ,0 - 3,2021-2022,14:00,0,3,Amager VK.2,0,3,3,0,1,3,0
+129826,02-04-22,Team Køge,Hvidovre VK.2,Spar Nord Arena                ,0 - 3,2021-2022,13:30,0,3,Hvidovre VK.2,0,3,3,0,1,3,0
+129827,03-04-22,Amager VK.2,Ishøj Volley,Sundbyhal 2                ,0 - 3,2021-2022,10:00,0,3,Ishøj Volley,0,3,3,0,1,3,0
+129825,03-04-22,Farum-Holte,DTU Volley,Ny Holtehal                ,1 - 3,2021-2022,10:00,1,3,DTU Volley,1,3,4,0,1,3,1
+129824,03-04-22,KV 61,Frederiksberg Volley,Idrætshuset                ,0 - 3,2021-2022,12:00,0,3,Frederiksberg Volley,0,3,3,0,1,3,0
+129828,03-04-22,VLI,Gentofte Volley.2,Kedelhallen                ,1 - 3,2021-2022,13:30,1,3,Gentofte Volley.2,1,3,4,0,1,3,1
+129916,10-04-22,Hvidovre VK.2,DTU Volley,Frihedens Idrætscenter                ,3 - 2,2021-2022,12:00,3,2,Hvidovre VK.2,3,2,5,1,0,2,3
+129917,10-04-22,Amager VK.2,Gentofte Volley.2,Sundbyhal 2                ,1 - 3,2021-2022,12:00,1,3,Gentofte Volley.2,1,3,4,0,1,3,1
+129914,10-04-22,Farum-Holte,KV 61,Ny Holtehal                ,3 - 2,2021-2022,13:00,3,2,Farum-Holte,3,2,5,1,0,2,3
+129915,10-04-22,Ishøj Volley,Team Køge,Ishøj Idrætscenter                Hal 3 - ,3 - 1,2021-2022,16:00,3,1,Ishøj Volley,3,1,4,1,0,1,3
+129918,10-04-22,Grøndal EV,VLI,Hillerødgades Sportssal                ,3 - 2,2021-2022,16:00,3,2,Grøndal EV,3,2,5,1,0,2,3
+134638,24-09-22,VK Holbæk,DTU Volley,Bjergmarkshallen                ,3 - 2,2022-2023,12:00,3,2,VK Holbæk,3,2,5,1,0,2,3
+134637,01-10-22,Frederiksberg Volley,Gentofte Volley.2,Bülowsvejhallen                ,3 - 0,2022-2023,14:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3
+134640,02-10-22,Amager VK.2,Grøndal EV,Sundbyhal 2                ,3 - 0,2022-2023,10:00,3,0,Amager VK.2,3,0,3,1,0,0,3
+134639,02-10-22,VLI,KSV,Kedelhallen                ,3 - 0,2022-2023,13:30,3,0,VLI,3,0,3,1,0,0,3
+134641,02-10-22,Farum-Holte,Hvidovre VK.2,Ny Holtehal                ,2 - 3,2022-2023,16:00,2,3,Hvidovre VK.2,2,3,5,0,1,3,2
+134645,08-10-22,Frederiksberg Volley,Farum-Holte,Bülowsvejhallen                ,3 - 0,2022-2023,14:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3
+134642,08-10-22,DTU Volley,Gentofte Volley.2,Engelsborghallen                ,2 - 3,2022-2023,14:30,2,3,Gentofte Volley.2,2,3,5,0,1,3,2
+134643,08-10-22,Hvidovre VK.2,VK Holbæk,Frihedens Idrætscenter                ,0 - 3,2022-2023,17:00,0,3,VK Holbæk,0,3,3,0,1,3,0
+134644,09-10-22,Amager VK.2,VLI,Sundbyhal 2                ,3 - 1,2022-2023,12:00,3,1,Amager VK.2,3,1,4,1,0,1,3
+134646,09-10-22,Grøndal EV,KSV,Hillerødgades Sportssal                ,3 - 1,2022-2023,15:00,3,1,Grøndal EV,3,1,4,1,0,1,3
+134648,15-10-22,VK Holbæk,VLI,Stenhus Gymnasium                ,0 - 3,2022-2023,10:00,0,3,VLI,0,3,3,0,1,3,0
+134647,15-10-22,Gentofte Volley.2,Hvidovre VK.2,Kildeskovshal                 ,3 - 0,2022-2023,14:00,3,0,Gentofte Volley.2,3,0,3,1,0,0,3
+134651,16-10-22,Grøndal EV,Frederiksberg Volley,Hillerødgades Sportssal                ,3 - 1,2022-2023,13:00,3,1,Grøndal EV,3,1,4,1,0,1,3
+134650,16-10-22,KSV,Amager VK.2,Hillerødgades Sportssal                ,0 - 3,2022-2023,15:00,0,3,Amager VK.2,0,3,3,0,1,3,0
+134652,29-10-22,Gentofte Volley.2,VK Holbæk,Kildeskovshal                 ,3 - 0,2022-2023,14:00,3,0,Gentofte Volley.2,3,0,3,1,0,0,3
+134655,29-10-22,Farum-Holte,Amager VK.2,Ny Holtehal                ,3 - 2,2022-2023,14:00,3,2,Farum-Holte,3,2,5,1,0,2,3
+134654,29-10-22,Hvidovre VK.2,Grøndal EV,Frihedens Idrætscenter                ,0 - 3,2022-2023,17:00,0,3,Grøndal EV,0,3,3,0,1,3,0
+134653,30-10-22,VLI,DTU Volley,Kedelhallen                ,1 - 3,2022-2023,13:30,1,3,DTU Volley,1,3,4,0,1,3,1
+134666,05-11-22,Farum-Holte,Grøndal EV,Ny Holtehal                ,3 - 2,2022-2023,12:00,3,2,Farum-Holte,3,2,5,1,0,2,3
+134663,05-11-22,VK Holbæk,Amager VK.2,Stenhus Gymnasium                ,1 - 3,2022-2023,14:30,1,3,Amager VK.2,1,3,4,0,1,3,1
+134664,05-11-22,DTU Volley,Frederiksberg Volley,Engelsborghallen                ,0 - 3,2022-2023,14:30,0,3,Frederiksberg Volley,0,3,3,0,1,3,0
+134665,05-11-22,Hvidovre VK.2,VLI,Frihedens Idrætscenter                ,0 - 3,2022-2023,17:00,0,3,VLI,0,3,3,0,1,3,0
+134662,06-11-22,Gentofte Volley.2,KSV,Kildeskovshal                 ,3 - 0,2022-2023,12:00,3,0,Gentofte Volley.2,3,0,3,1,0,0,3
+134649,11-11-22,DTU Volley,Farum-Holte,Polythallen                ,3 - 2,2022-2023,18:00,3,2,DTU Volley,3,2,5,1,0,2,3
+134669,13-11-22,Amager VK.2,DTU Volley,Sundbyhal 2                ,3 - 1,2022-2023,10:00,3,1,Amager VK.2,3,1,4,1,0,1,3
+134668,13-11-22,VK Holbæk,KSV,Stenhus Gymnasium                ,3 - 2,2022-2023,12:00,3,2,VK Holbæk,3,2,5,1,0,2,3
+134670,13-11-22,Hvidovre VK.2,Frederiksberg Volley,Frihedens Idrætscenter                ,0 - 3,2022-2023,13:30,0,3,Frederiksberg Volley,0,3,3,0,1,3,0
+134671,13-11-22,VLI,Farum-Holte,Kedelhallen                ,1 - 3,2022-2023,13:30,1,3,Farum-Holte,1,3,4,0,1,3,1
+134667,13-11-22,Grøndal EV,Gentofte Volley.2,Hillerødgades Sportssal                ,3 - 2,2022-2023,15:00,3,2,Grøndal EV,3,2,5,1,0,2,3
+134684,20-11-22,KSV,VLI,Hillerødgades Sportssal                ,0 - 3,2022-2023,14:00,0,3,VLI,0,3,3,0,1,3,0
+134656,22-11-22,Frederiksberg Volley,KSV,Kedelhallen                ,3 - 0,2022-2023,19:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3
+134673,26-11-22,VK Holbæk,Grøndal EV,Stenhus Gymnasium                ,2 - 3,2022-2023,10:00,2,3,Grøndal EV,2,3,5,0,1,3,2
+134674,26-11-22,DTU Volley,KSV,Engelsborghallen                ,3 - 2,2022-2023,16:30,3,2,DTU Volley,3,2,5,1,0,2,3
+134672,27-11-22,Gentofte Volley.2,Farum-Holte,Kildeskovshal                 ,3 - 2,2022-2023,10:00,3,2,Gentofte Volley.2,3,2,5,1,0,2,3
+134675,27-11-22,Hvidovre VK.2,Amager VK.2,Frihedens Idrætscenter                ,2 - 3,2022-2023,13:30,2,3,Amager VK.2,2,3,5,0,1,3,2
+134676,27-11-22,VLI,Frederiksberg Volley,Kedelhallen                ,2 - 3,2022-2023,13:30,2,3,Frederiksberg Volley,2,3,5,0,1,3,2
+134658,03-12-22,Frederiksberg Volley,VK Holbæk,Bülowsvejhallen                ,3 - 0,2022-2023,14:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3
+134659,03-12-22,DTU Volley,Hvidovre VK.2,Engelsborghallen                ,3 - 0,2022-2023,14:30,3,0,DTU Volley,3,0,3,1,0,0,3
+134657,03-12-22,Amager VK.2,Gentofte Volley.2,Sundbyhal 2                ,3 - 1,2022-2023,16:30,3,1,Amager VK.2,3,1,4,1,0,1,3
+134660,04-12-22,Grøndal EV,VLI,Hillerødgades Sportssal                ,3 - 1,2022-2023,13:00,3,1,Grøndal EV,3,1,4,1,0,1,3
+134678,11-12-22,Farum-Holte,VK Holbæk,Ny Holtehal                ,3 - 0,2022-2023,12:00,3,0,Farum-Holte,3,0,3,1,0,0,3
+134681,11-12-22,Amager VK.2,Frederiksberg Volley,Sundbyhal 2                ,3 - 2,2022-2023,12:00,3,2,Amager VK.2,3,2,5,1,0,2,3
+134677,11-12-22,VLI,Gentofte Volley.2,Kedelhallen                ,3 - 1,2022-2023,13:30,3,1,VLI,3,1,4,1,0,1,3
+134679,11-12-22,Grøndal EV,DTU Volley,Hillerødgades Sportssal                ,3 - 2,2022-2023,15:00,3,2,Grøndal EV,3,2,5,1,0,2,3
+134683,14-01-23,DTU Volley,VK Holbæk,Engelsborghallen                ,2 - 3,2022-2023,16:30,2,3,VK Holbæk,2,3,5,0,1,3,2
+134686,14-01-23,Hvidovre VK.2,Farum-Holte,Frihedens Idrætscenter                ,0 - 3,2022-2023,17:00,0,3,Farum-Holte,0,3,3,0,1,3,0
+134682,15-01-23,Gentofte Volley.2,Frederiksberg Volley,Kildeskovshal                 ,0 - 3,2022-2023,12:00,0,3,Frederiksberg Volley,0,3,3,0,1,3,0
+134685,15-01-23,Grøndal EV,Amager VK.2,Hillerødgades Sportssal                ,2 - 3,2022-2023,13:00,2,3,Amager VK.2,2,3,5,0,1,3,2
+134688,21-01-23,VK Holbæk,Hvidovre VK.2,Bjergmarkshallen                ,1 - 3,2022-2023,12:00,1,3,Hvidovre VK.2,1,3,4,0,1,3,1
+134690,21-01-23,Farum-Holte,Frederiksberg Volley,Ny Holtehal                ,3 - 2,2022-2023,17:00,3,2,Farum-Holte,3,2,5,1,0,2,3
+134687,22-01-23,Gentofte Volley.2,DTU Volley,Kildeskovshal                 ,3 - 1,2022-2023,12:00,3,1,Gentofte Volley.2,3,1,4,1,0,1,3
+134689,22-01-23,VLI,Amager VK.2,Kedelhallen                ,3 - 1,2022-2023,13:30,3,1,VLI,3,1,4,1,0,1,3
+134691,22-01-23,KSV,Grøndal EV,Hillerødgades Sportssal                ,1 - 3,2022-2023,16:00,1,3,Grøndal EV,1,3,4,0,1,3,1
+134692,28-01-23,Hvidovre VK.2,Gentofte Volley.2,Frihedens Idrætscenter                ,2 - 3,2022-2023,17:00,2,3,Gentofte Volley.2,2,3,5,0,1,3,2
+134695,29-01-23,Amager VK.2,KSV,Sundbyhal 2                ,3 - 0,2022-2023,12:00,3,0,Amager VK.2,3,0,3,1,0,0,3
+134696,29-01-23,Frederiksberg Volley,Grøndal EV,Bülowsvejhallen                ,3 - 1,2022-2023,12:00,3,1,Frederiksberg Volley,3,1,4,1,0,1,3
+134693,29-01-23,VLI,VK Holbæk,Kedelhallen                ,3 - 0,2022-2023,13:30,3,0,VLI,3,0,3,1,0,0,3
+134694,29-01-23,Farum-Holte,DTU Volley,Ny Holtehal                ,3 - 0,2022-2023,18:00,3,0,Farum-Holte,3,0,3,1,0,0,3
+134701,05-02-23,KSV,Frederiksberg Volley,Hillerødgades Sportssal                ,0 - 3,2022-2023,12:00,0,3,Frederiksberg Volley,0,3,3,0,1,3,0
+134700,05-02-23,Amager VK.2,Farum-Holte,Sundbyhal 2                ,3 - 0,2022-2023,14:00,3,0,Amager VK.2,3,0,3,1,0,0,3
+134699,09-02-23,Grøndal EV,Hvidovre VK.2,Hillerødgades Sportssal                ,1 - 3,2022-2023,18:45,1,3,Hvidovre VK.2,1,3,4,0,1,3,1
+134698,11-02-23,DTU Volley,VLI,Engelsborghallen                ,1 - 3,2022-2023,14:30,1,3,VLI,1,3,4,0,1,3,1
+134680,12-02-23,KSV,Hvidovre VK.2,Hillerødgades Sportssal                ,1 - 3,2022-2023,12:00,1,3,Hvidovre VK.2,1,3,4,0,1,3,1
+134704,22-02-23,Hvidovre VK.2,DTU Volley,Frihedens Idrætscenter                ,3 - 2,2022-2023,20:00,3,2,Hvidovre VK.2,3,2,5,1,0,2,3
+134705,22-02-23,VLI,Grøndal EV,Kedelhallen                ,3 - 1,2022-2023,20:30,3,1,VLI,3,1,4,1,0,1,3
+134702,24-02-23,Gentofte Volley.2,Amager VK.2,Kildeskovshal                 ,3 - 1,2022-2023,20:00,3,1,Gentofte Volley.2,3,1,4,1,0,1,3
+134703,25-02-23,VK Holbæk,Frederiksberg Volley,Bjergmarkshallen                ,0 - 3,2022-2023,10:00,0,3,Frederiksberg Volley,0,3,3,0,1,3,0
+134706,25-02-23,Farum-Holte,KSV,Ny Holtehal                ,3 - 0,2022-2023,17:00,3,0,Farum-Holte,3,0,3,1,0,0,3
+134697,27-02-23,VK Holbæk,Gentofte Volley.2,Bjergmarkshallen                ,1 - 3,2022-2023,20:00,1,3,Gentofte Volley.2,1,3,4,0,1,3,1
+134708,05-03-23,Amager VK.2,VK Holbæk,Sundbyhal 2                ,3 - 1,2022-2023,12:00,3,1,Amager VK.2,3,1,4,1,0,1,3
+134707,05-03-23,KSV,Gentofte Volley.2,Hillerødgades Sportssal                ,0 - 3,2022-2023,14:00,0,3,Gentofte Volley.2,0,3,3,0,1,3,0
+134709,07-03-23,Frederiksberg Volley,DTU Volley,Kedelhallen                ,3 - 1,2022-2023,19:30,3,1,Frederiksberg Volley,3,1,4,1,0,1,3
+134711,09-03-23,Grøndal EV,Farum-Holte,Hillerødgades Sportssal                ,1 - 3,2022-2023,18:45,1,3,Farum-Holte,1,3,4,0,1,3,1
+134661,12-03-23,KSV,Farum-Holte,Hillerødgades Sportssal                ,0 - 3,2022-2023,14:00,0,3,Farum-Holte,0,3,3,0,1,3,0
+134710,12-03-23,VLI,Hvidovre VK.2,Kedelhallen                ,2 - 3,2022-2023,19:30,2,3,Hvidovre VK.2,2,3,5,0,1,3,2
+134716,18-03-23,Farum-Holte,VLI,Ny Holtehal                ,3 - 1,2022-2023,15:00,3,1,Farum-Holte,3,1,4,1,0,1,3
+134715,18-03-23,Frederiksberg Volley,Hvidovre VK.2,Bülowsvejhallen                ,2 - 3,2022-2023,16:00,2,3,Hvidovre VK.2,2,3,5,0,1,3,2
+134714,18-03-23,DTU Volley,Amager VK.2,Engelsborghallen                ,1 - 3,2022-2023,16:30,1,3,Amager VK.2,1,3,4,0,1,3,1
+134712,19-03-23,Gentofte Volley.2,Grøndal EV,Kildeskovshal                 ,3 - 0,2022-2023,14:00,3,0,Gentofte Volley.2,3,0,3,1,0,0,3
+134713,19-03-23,KSV,VK Holbæk,Hillerødgades Sportssal                ,3 - 1,2022-2023,16:00,3,1,KSV,3,1,4,1,0,1,3
+134721,22-03-23,Frederiksberg Volley,VLI,Bülowsvejhallen                ,2 - 3,2022-2023,19:00,2,3,VLI,2,3,5,0,1,3,2
+134720,25-03-23,Amager VK.2,Hvidovre VK.2,Sundbyhal 2                ,3 - 1,2022-2023,16:00,3,1,Amager VK.2,3,1,4,1,0,1,3
+134717,25-03-23,Farum-Holte,Gentofte Volley.2,Ny Holtehal                ,3 - 1,2022-2023,17:00,3,1,Farum-Holte,3,1,4,1,0,1,3
+134718,26-03-23,Grøndal EV,VK Holbæk,Hillerødgades Sportssal                ,3 - 0,2022-2023,12:00,3,0,Grøndal EV,3,0,3,1,0,0,3
+134719,26-03-23,KSV,DTU Volley,Hillerødgades Sportssal                ,0 - 3,2022-2023,18:00,0,3,DTU Volley,0,3,3,0,1,3,0
+134723,01-04-23,VK Holbæk,Farum-Holte,Bjergmarkshallen                ,1 - 3,2022-2023,12:00,1,3,Farum-Holte,1,3,4,0,1,3,1
+134724,01-04-23,DTU Volley,Grøndal EV,Engelsborghallen                ,3 - 0,2022-2023,14:30,3,0,DTU Volley,3,0,3,1,0,0,3
+134726,01-04-23,Frederiksberg Volley,Amager VK.2,Bülowsvejhallen                ,1 - 3,2022-2023,16:00,1,3,Amager VK.2,1,3,4,0,1,3,1
+134722,02-04-23,Gentofte Volley.2,VLI,Kildeskovshal                 ,3 - 2,2022-2023,10:00,3,2,Gentofte Volley.2,3,2,5,1,0,2,3
+134725,02-04-23,Hvidovre VK.2,KSV,Frihedens Idrætscenter                ,3 - 1,2022-2023,12:00,3,1,Hvidovre VK.2,3,1,4,1,0,1,3
+137699,30-09-23,Team Køge,Frederiksberg Volley,Spar Nord Arena                ,0 - 3,2023-2024,15:30,0,3,Frederiksberg Volley,0,3,3,0,1,3,0
+137700,01-10-23,Amager VK.2,Farum-Holte,Sundbyhal 2                ,3 - 0,2023-2024,12:00,3,0,Amager VK.2,3,0,3,1,0,0,3
+137697,01-10-23,VLI,Grøndal EV,Kedelhallen                ,3 - 0,2023-2024,15:30,3,0,VLI,3,0,3,1,0,0,3
+137698,01-10-23,RS Rødovre,Hvidovre VK,Rødovrehallen                7 - Hal 3 (LB),0 - 3,2023-2024,15:30,0,3,Hvidovre VK,0,3,3,0,1,3,0
+137696,04-10-23,Gentofte Volley.2,DTU Volley,Byens Hus                ,3 - 0,2023-2024,20:30,3,0,Gentofte Volley.2,3,0,3,1,0,0,3
+137702,07-10-23,Farum-Holte,VLI,Ny Holtehal                ,0 - 3,2023-2024,14:00,0,3,VLI,0,3,3,0,1,3,0
+137704,07-10-23,DTU Volley,Amager VK.2,Engelsborghallen                ,3 - 2,2023-2024,14:30,3,2,DTU Volley,3,2,5,1,0,2,3
+137703,07-10-23,Team Køge,RS Rødovre,Spar Nord Arena                ,0 - 3,2023-2024,15:30,0,3,RS Rødovre,0,3,3,0,1,3,0
+137705,08-10-23,Frederiksberg Volley,Hvidovre VK,Bülowsvejhallen                ,1 - 3,2023-2024,12:00,1,3,Hvidovre VK,1,3,4,0,1,3,1
+137701,08-10-23,Grøndal EV,Gentofte Volley.2,Hillerødgades Sportssal                ,2 - 3,2023-2024,14:00,2,3,Gentofte Volley.2,2,3,5,0,1,3,2
+137709,10-10-23,Hvidovre VK,Team Køge,Frihedens Idrætscenter                ,3 - 0,2023-2024,20:00,3,0,Hvidovre VK,3,0,3,1,0,0,3
+137710,15-10-23,Frederiksberg Volley,DTU Volley,Bülowsvejhallen                ,3 - 1,2023-2024,12:00,3,1,Frederiksberg Volley,3,1,4,1,0,1,3
+137707,15-10-23,VLI,RS Rødovre,Kedelhallen                ,3 - 0,2023-2024,13:30,3,0,VLI,3,0,3,1,0,0,3
+137708,15-10-23,Grøndal EV,Amager VK.2,Hillerødgades Sportssal                ,2 - 3,2023-2024,16:00,2,3,Amager VK.2,2,3,5,0,1,3,2
+137715,28-10-23,DTU Volley,Hvidovre VK,Engelsborghallen                ,0 - 3,2023-2024,14:30,0,3,Hvidovre VK,0,3,3,0,1,3,0
+137713,28-10-23,Farum-Holte,Frederiksberg Volley,Ny Holtehal                ,0 - 3,2023-2024,16:00,0,3,Frederiksberg Volley,0,3,3,0,1,3,0
+137714,29-10-23,Amager VK.2,Team Køge,Sundbyhal                 ,3 - 0,2023-2024,14:00,3,0,Amager VK.2,3,0,3,1,0,0,3
+137712,29-10-23,RS Rødovre,Grøndal EV,Rødovrehallen                7 - Hal 3 (LB),0 - 3,2023-2024,15:30,0,3,Grøndal EV,0,3,3,0,1,3,0
+137706,01-11-23,Gentofte Volley.2,Farum-Holte,Byens Hus                ,3 - 1,2023-2024,20:30,3,1,Gentofte Volley.2,3,1,4,1,0,1,3
+137717,04-11-23,DTU Volley,VLI,Engelsborghallen                ,3 - 0,2023-2024,14:30,3,0,DTU Volley,3,0,3,1,0,0,3
+137716,04-11-23,Team Køge,Gentofte Volley.2,Spar Nord Arena                ,3 - 2,2023-2024,15:30,3,2,Team Køge,3,2,5,1,0,2,3
+137720,04-11-23,Hvidovre VK,Amager VK.2,Frihedens Idrætscenter                ,3 - 0,2023-2024,16:00,3,0,Hvidovre VK,3,0,3,1,0,0,3
+137719,05-11-23,Frederiksberg Volley,RS Rødovre,Bülowsvejhallen                ,3 - 0,2023-2024,14:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3
+137718,05-11-23,Grøndal EV,Farum-Holte,Hillerødgades Sportssal                ,3 - 2,2023-2024,16:00,3,2,Grøndal EV,3,2,5,1,0,2,3
+137721,19-11-23,Gentofte Volley.2,Hvidovre VK,Kildeskovshal                 ,0 - 3,2023-2024,12:00,0,3,Hvidovre VK,0,3,3,0,1,3,0
+137723,19-11-23,Grøndal EV,DTU Volley,Hillerødgades Sportssal                ,0 - 3,2023-2024,12:00,0,3,DTU Volley,0,3,3,0,1,3,0
+137722,19-11-23,VLI,Team Køge,Kedelhallen                ,3 - 0,2023-2024,13:30,3,0,VLI,3,0,3,1,0,0,3
+137725,19-11-23,Amager VK.2,Frederiksberg Volley,Sundbyhal                 ,3 - 1,2023-2024,14:00,3,1,Amager VK.2,3,1,4,1,0,1,3
+137724,19-11-23,Farum-Holte,RS Rødovre,Ny Holtehal                ,3 - 1,2023-2024,18:00,3,1,Farum-Holte,3,1,4,1,0,1,3
+137733,23-11-23,Grøndal EV,Hvidovre VK,Hillerødgades Sportssal                ,0 - 3,2023-2024,19:00,0,3,Hvidovre VK,0,3,3,0,1,3,0
+137729,25-11-23,DTU Volley,Farum-Holte,Engelsborghallen                ,1 - 3,2023-2024,14:30,1,3,Farum-Holte,1,3,4,0,1,3,1
+137728,25-11-23,Team Køge,Grøndal EV,Spar Nord Arena                ,0 - 3,2023-2024,15:30,0,3,Grøndal EV,0,3,3,0,1,3,0
+137727,25-11-23,Hvidovre VK,VLI,Frihedens Idrætscenter                ,3 - 1,2023-2024,16:00,3,1,Hvidovre VK,3,1,4,1,0,1,3
+137726,26-11-23,Frederiksberg Volley,Gentofte Volley.2,Bülowsvejhallen                ,3 - 0,2023-2024,14:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3
+137730,26-11-23,RS Rødovre,Amager VK.2,Rødovrehallen                7 - Hal 3 (LB),1 - 3,2023-2024,15:30,1,3,Amager VK.2,1,3,4,0,1,3,1
+137711,29-11-23,Gentofte Volley.2,VLI,Byens Hus                ,2 - 3,2023-2024,18:45,2,3,VLI,2,3,5,0,1,3,2
+137734,02-12-23,Farum-Holte,Team Køge,Ny Holtehal                ,3 - 2,2023-2024,14:00,3,2,Farum-Holte,3,2,5,1,0,2,3
+137735,02-12-23,DTU Volley,RS Rødovre,Engelsborghallen                ,3 - 1,2023-2024,14:30,3,1,DTU Volley,3,1,4,1,0,1,3
+137732,03-12-23,VLI,Frederiksberg Volley,Kedelhallen                ,3 - 1,2023-2024,13:30,3,1,VLI,3,1,4,1,0,1,3
+137731,06-12-23,Gentofte Volley.2,Amager VK.2,Byens Hus                ,3 - 0,2023-2024,19:00,3,0,Gentofte Volley.2,3,0,3,1,0,0,3
+137740,09-12-23,Team Køge,DTU Volley,Spar Nord Arena                ,0 - 3,2023-2024,15:30,0,3,DTU Volley,0,3,3,0,1,3,0
+137739,09-12-23,Hvidovre VK,Farum-Holte,Frihedens Idrætscenter                ,3 - 2,2023-2024,16:00,3,2,Hvidovre VK,3,2,5,1,0,2,3
+137737,10-12-23,Amager VK.2,VLI,Sundbyhal 2                ,3 - 1,2023-2024,12:00,3,1,Amager VK.2,3,1,4,1,0,1,3
+137738,10-12-23,Frederiksberg Volley,Grøndal EV,Kedelhallen                ,2 - 3,2023-2024,13:30,2,3,Grøndal EV,2,3,5,0,1,3,2
+137741,13-01-24,DTU Volley,Gentofte Volley.2,Engelsborghallen                ,3 - 2,2023-2024,14:30,3,2,DTU Volley,3,2,5,1,0,2,3
+137743,13-01-24,Hvidovre VK,RS Rødovre,Frihedens Idrætscenter                ,3 - 0,2023-2024,16:00,3,0,Hvidovre VK,3,0,3,1,0,0,3
+137744,14-01-24,Frederiksberg Volley,Team Køge,Bülowsvejhallen                ,3 - 0,2023-2024,14:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3
+137742,14-01-24,Grøndal EV,VLI,Hillerødgades Sportssal                ,2 - 3,2023-2024,14:00,2,3,VLI,2,3,5,0,1,3,2
+137745,14-01-24,Farum-Holte,Amager VK.2,Ny Holtehal                ,2 - 3,2023-2024,16:00,2,3,Amager VK.2,2,3,5,0,1,3,2
+137784,16-01-24,Farum-Holte,Hvidovre VK,Ny Holtehal                ,1 - 3,2023-2024,20:30,1,3,Hvidovre VK,1,3,4,0,1,3,1
+137749,20-01-24,Amager VK.2,DTU Volley,Sundbyhal                 ,3 - 0,2023-2024,14:00,3,0,Amager VK.2,3,0,3,1,0,0,3
+137750,21-01-24,Hvidovre VK,Frederiksberg Volley,Frihedens Idrætscenter                ,3 - 0,2023-2024,12:00,3,0,Hvidovre VK,3,0,3,1,0,0,3
+137746,21-01-24,Gentofte Volley.2,Grøndal EV,Kildeskovshal                 ,3 - 0,2023-2024,12:00,3,0,Gentofte Volley.2,3,0,3,1,0,0,3
+137747,21-01-24,VLI,Farum-Holte,Kedelhallen                ,3 - 0,2023-2024,13:30,3,0,VLI,3,0,3,1,0,0,3
+137736,24-01-24,RS Rødovre,Gentofte Volley.2,Rødovrehallen                4 - Hal 2 (LB),0 - 3,2023-2024,19:00,0,3,Gentofte Volley.2,0,3,3,0,1,3,0
+137748,25-01-24,RS Rødovre,Team Køge,Rødovrehallen                4 - Hal 2 (LB),1 - 3,2023-2024,19:30,1,3,Team Køge,1,3,4,0,1,3,1
+137753,27-01-24,Amager VK.2,Grøndal EV,Sundbyhal                 ,3 - 0,2023-2024,14:00,3,0,Amager VK.2,3,0,3,1,0,0,3
+137755,27-01-24,DTU Volley,Frederiksberg Volley,Engelsborghallen                ,3 - 1,2023-2024,14:30,3,1,DTU Volley,3,1,4,1,0,1,3
+137754,27-01-24,Team Køge,Hvidovre VK,Spar Nord Arena                ,0 - 3,2023-2024,15:30,0,3,Hvidovre VK,0,3,3,0,1,3,0
+137752,28-01-24,RS Rødovre,VLI,Rødovrehallen                7 - Hal 3 (LB),1 - 3,2023-2024,15:30,1,3,VLI,1,3,4,0,1,3,1
+137751,28-01-24,Farum-Holte,Gentofte Volley.2,Ny Holtehal                ,3 - 0,2023-2024,18:00,3,0,Farum-Holte,3,0,3,1,0,0,3
+137758,04-02-24,Frederiksberg Volley,Farum-Holte,Bülowsvejhallen                ,3 - 2,2023-2024,14:00,3,2,Frederiksberg Volley,3,2,5,1,0,2,3
+137759,06-02-24,Team Køge,Amager VK.2,Spar Nord Arena                ,3 - 2,2023-2024,19:15,3,2,Team Køge,3,2,5,1,0,2,3
+137756,07-02-24,VLI,Gentofte Volley.2,Kedelhallen                ,3 - 2,2023-2024,20:30,3,2,VLI,3,2,5,1,0,2,3
+137760,10-02-24,Hvidovre VK,DTU Volley,Frihedens Idrætscenter                ,3 - 0,2023-2024,18:00,3,0,Hvidovre VK,3,0,3,1,0,0,3
+137757,11-02-24,Grøndal EV,RS Rødovre,Hillerødgades Sportssal                ,3 - 1,2023-2024,16:00,3,1,Grøndal EV,3,1,4,1,0,1,3
+137763,20-02-24,Farum-Holte,Grøndal EV,Ny Holtehal                ,2 - 3,2023-2024,18:30,2,3,Grøndal EV,2,3,5,0,1,3,2
+137765,22-02-24,Amager VK.2,Hvidovre VK,Sundbyhal                 ,1 - 3,2023-2024,20:00,1,3,Hvidovre VK,1,3,4,0,1,3,1
+137762,25-02-24,VLI,DTU Volley,Kedelhallen                ,3 - 2,2023-2024,11:30,3,2,VLI,3,2,5,1,0,2,3
+137761,27-02-24,Gentofte Volley.2,Team Køge,Kildeskovshal                 ,3 - 0,2023-2024,18:30,3,0,Gentofte Volley.2,3,0,3,1,0,0,3
+137767,05-03-24,Team Køge,VLI,Spar Nord Arena                ,0 - 3,2023-2024,19:15,0,3,VLI,0,3,3,0,1,3,0
+137769,06-03-24,RS Rødovre,Farum-Holte,Rødovrehallen                4 - Hal 2 (LB),2 - 3,2023-2024,20:00,2,3,Farum-Holte,2,3,5,0,1,3,2
+137768,09-03-24,DTU Volley,Grøndal EV,Engelsborghallen                ,3 - 1,2023-2024,14:30,3,1,DTU Volley,3,1,4,1,0,1,3
+137766,09-03-24,Hvidovre VK,Gentofte Volley.2,Frihedens Idrætscenter                ,3 - 0,2023-2024,16:00,3,0,Hvidovre VK,3,0,3,1,0,0,3
+137770,10-03-24,Frederiksberg Volley,Amager VK.2,Bülowsvejhallen                ,3 - 1,2023-2024,12:00,3,1,Frederiksberg Volley,3,1,4,1,0,1,3
+137771,13-03-24,Gentofte Volley.2,Frederiksberg Volley,Byens Hus                ,3 - 2,2023-2024,20:30,3,2,Gentofte Volley.2,3,2,5,1,0,2,3
+137775,16-03-24,Amager VK.2,RS Rødovre,Sundbyhal                 ,3 - 0,2023-2024,14:00,3,0,Amager VK.2,3,0,3,1,0,0,3
+137772,17-03-24,VLI,Hvidovre VK,Kedelhallen                ,1 - 3,2023-2024,11:30,1,3,Hvidovre VK,1,3,4,0,1,3,1
+137773,17-03-24,Grøndal EV,Team Køge,Hillerødgades Sportssal                ,3 - 0,2023-2024,12:00,3,0,Grøndal EV,3,0,3,1,0,0,3
+137774,17-03-24,Farum-Holte,DTU Volley,Ny Holtehal                ,3 - 2,2023-2024,16:00,3,2,Farum-Holte,3,2,5,1,0,2,3
+137781,20-03-24,Gentofte Volley.2,RS Rødovre,Byens Hus                ,3 - 1,2023-2024,18:45,3,1,Gentofte Volley.2,3,1,4,1,0,1,3
+137779,23-03-24,Team Køge,Farum-Holte,Spar Nord Arena                ,0 - 3,2023-2024,13:30,0,3,Farum-Holte,0,3,3,0,1,3,0
+137778,23-03-24,Hvidovre VK,Grøndal EV,Frihedens Idrætscenter                ,3 - 0,2023-2024,16:00,3,0,Hvidovre VK,3,0,3,1,0,0,3
+137777,24-03-24,Frederiksberg Volley,VLI,Bülowsvejhallen                ,3 - 0,2023-2024,10:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3
+137776,24-03-24,Amager VK.2,Gentofte Volley.2,Sundbyhal 2                ,3 - 2,2023-2024,12:00,3,2,Amager VK.2,3,2,5,1,0,2,3
+137780,24-03-24,RS Rødovre,DTU Volley,Rødovrehallen                7 - Hal 3 (LB),3 - 2,2023-2024,15:30,3,2,RS Rødovre,3,2,5,1,0,2,3
+137764,03-04-24,RS Rødovre,Frederiksberg Volley,Rødovrehallen                4 - Hal 2 (LB),0 - 3,2023-2024,20:00,0,3,Frederiksberg Volley,0,3,3,0,1,3,0
+137785,06-04-24,DTU Volley,Team Køge,Engelsborghallen                ,3 - 2,2023-2024,14:30,3,2,DTU Volley,3,2,5,1,0,2,3
+137782,07-04-24,VLI,Amager VK.2,Kedelhallen                ,1 - 3,2023-2024,11:30,1,3,Amager VK.2,1,3,4,0,1,3,1
+137783,07-04-24,Grøndal EV,Frederiksberg Volley,Hillerødgades Sportssal                ,3 - 2,2023-2024,14:00,3,2,Grøndal EV,3,2,5,1,0,2,3
+141064,29-09-24,VLI,Hvidovre VK.2,Kedelhallen                ,3 - 0,2024-2025,09:30,3,0,VLI,3,0,3,1,0,0,3
+141062,29-09-24,KV 61,Team Køge,Idrætshuset                ,0 - 3,2024-2025,10:00,0,3,Team Køge,0,3,3,0,1,3,0
+141063,29-09-24,Gentofte Volley.2,Frederiksberg Volley,Kildeskovshal                 ,3 - 2,2024-2025,10:00,3,2,Gentofte Volley.2,3,2,5,1,0,2,3
+141066,29-09-24,Amager Volley.2,Farum-Holte,Sundbyhal                 ,3 - 1,2024-2025,11:00,3,1,Amager Volley.2,3,1,4,1,0,1,3
+141065,29-09-24,DTU Volley,Grøndal EV,Engelsborghallen                ,1 - 3,2024-2025,14:30,1,3,Grøndal EV,1,3,4,0,1,3,1
+141068,05-10-24,Farum-Holte,Gentofte Volley.2,Ny Holtehal                ,0 - 3,2024-2025,13:00,0,3,Gentofte Volley.2,0,3,3,0,1,3,0
+141069,05-10-24,DTU Volley,VLI,Engelsborghallen                ,2 - 3,2024-2025,14:30,2,3,VLI,2,3,5,0,1,3,2
+141070,05-10-24,Team Køge,Amager Volley.2,Spar Nord Arena                ,0 - 3,2024-2025,15:30,0,3,Amager Volley.2,0,3,3,0,1,3,0
+141071,06-10-24,Grøndal EV,Hvidovre VK.2,Hillerødgades Sportssal                ,3 - 1,2024-2025,14:00,3,1,Grøndal EV,3,1,4,1,0,1,3
+141067,06-10-24,Frederiksberg Volley,KV 61,Bülowsvejhallen                ,3 - 0,2024-2025,18:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3
+141076,10-10-24,Grøndal EV,Team Køge,Hillerødgades Sportssal                ,3 - 0,2024-2025,19:00,3,0,Grøndal EV,3,0,3,1,0,0,3
+141072,12-10-24,KV 61,Farum-Holte,Idrætshuset                ,3 - 2,2024-2025,16:00,3,2,KV 61,3,2,5,1,0,2,3
+141073,13-10-24,Gentofte Volley.2,VLI,Gentoftehallen,1 - 3,2024-2025,14:00,1,3,VLI,1,3,4,0,1,3,1
+141074,13-10-24,Frederiksberg Volley,Amager Volley.2,Kedelhallen                ,0 - 3,2024-2025,14:00,0,3,Amager Volley.2,0,3,3,0,1,3,0
+141080,27-10-24,Amager Volley.2,DTU Volley,Sundbyhal                 ,3 - 1,2024-2025,11:00,3,1,Amager Volley.2,3,1,4,1,0,1,3
+141078,27-10-24,VLI,Frederiksberg Volley,Kedelhallen                ,3 - 0,2024-2025,11:30,3,0,VLI,3,0,3,1,0,0,3
+141079,27-10-24,Farum-Holte,Grøndal EV,Ny Holtehal                ,3 - 0,2024-2025,15:00,3,0,Farum-Holte,3,0,3,1,0,0,3
+141077,29-10-24,KV 61,Gentofte Volley.2,Idrætshuset                ,0 - 3,2024-2025,20:00,0,3,Gentofte Volley.2,0,3,3,0,1,3,0
+141090,02-11-24,Farum-Holte,VLI,Ny Holtehal                ,1 - 3,2024-2025,13:00,1,3,VLI,1,3,4,0,1,3,1
+141091,02-11-24,Amager Volley.2,Grøndal EV,Sundbyhal 2                ,3 - 2,2024-2025,14:30,3,2,Amager Volley.2,3,2,5,1,0,2,3
+141089,02-11-24,Frederiksberg Volley,Team Køge,Bülowsvejhallen                ,3 - 0,2024-2025,18:00,3,0,Frederiksberg Volley,3,0,3,1,0,0,3
+141087,03-11-24,KV 61,Hvidovre VK.2,Idrætshuset                ,0 - 3,2024-2025,10:00,0,3,Hvidovre VK.2,0,3,3,0,1,3,0
+141088,03-11-24,Gentofte Volley.2,DTU Volley,Kildeskovshal                 ,1 - 3,2024-2025,12:00,1,3,DTU Volley,1,3,4,0,1,3,1
+141081,05-11-24,Team Køge,Hvidovre VK.2,Spar Nord Arena                ,1 - 3,2024-2025,20:15,1,3,Hvidovre VK.2,1,3,4,0,1,3,1
+141095,09-11-24,Team Køge,Farum-Holte,Spar Nord Arena                ,2 - 3,2024-2025,15:30,2,3,Farum-Holte,2,3,5,0,1,3,2
+141093,09-11-24,Hvidovre VK.2,Gentofte Volley.2,Frihedens Idrætscenter                ,3 - 1,2024-2025,17:30,3,1,Hvidovre VK.2,3,1,4,1,0,1,3
+141096,10-11-24,VLI,Amager Volley.2,Kedelhallen                ,1 - 3,2024-2025,13:30,1,3,Amager Volley.2,1,3,4,0,1,3,1
+141092,10-11-24,Grøndal EV,KV 61,Hillerødgades Sportssal                ,3 - 0,2024-2025,14:00,3,0,Grøndal EV,3,0,3,1,0,0,3
+141094,16-11-24,DTU Volley,Frederiksberg Volley,Engelsborghallen                ,2 - 3,2024-2025,14:30,2,3,Frederiksberg Volley,2,3,5,0,1,3,2
+141101,23-11-24,Team Køge,VLI,Spar Nord Arena                ,1 - 3,2024-2025,13:30,1,3,VLI,1,3,4,0,1,3,1
+141099,23-11-24,Frederiksberg Volley,Hvidovre VK.2,Bülowsvejhallen                ,2 - 3,2024-2025,14:00,2,3,Hvidovre VK.2,2,3,5,0,1,3,2
+141097,24-11-24,KV 61,Amager Volley.2,Idrætshuset                ,0 - 3,2024-2025,10:00,0,3,Amager Volley.2,0,3,3,0,1,3,0
+141098,24-11-24,Gentofte Volley.2,Grøndal EV,Kildeskovshal                 ,2 - 3,2024-2025,16:00,2,3,Grøndal EV,2,3,5,0,1,3,2
+141100,24-11-24,Farum-Holte,DTU Volley,Ny Holtehal                ,3 - 1,2024-2025,16:00,3,1,Farum-Holte,3,1,4,1,0,1,3
+141106,30-11-24,DTU Volley,Team Køge,Engelsborghallen                ,3 - 2,2024-2025,14:30,3,2,DTU Volley,3,2,5,1,0,2,3
+141103,30-11-24,Amager Volley.2,Gentofte Volley.2,Sundbyhal 2                ,3 - 1,2024-2025,16:30,3,1,Amager Volley.2,3,1,4,1,0,1,3
+141105,30-11-24,Hvidovre VK.2,Farum-Holte,Frihedens Idrætscenter                ,1 - 3,2024-2025,17:30,1,3,Farum-Holte,1,3,4,0,1,3,1
+141104,01-12-24,Grøndal EV,Frederiksberg Volley,Hillerødgades Sportssal                ,0 - 3,2024-2025,14:00,0,3,Frederiksberg Volley,0,3,3,0,1,3,0
+141102,01-12-24,VLI,KV 61,Kedelhallen                ,3 - 0,2024-2025,15:30,3,0,VLI,3,0,3,1,0,0,3
+141109,07-12-24,Hvidovre VK.2,VLI,Frihedens Idrætscenter                ,2 - 3,2024-2025,17:30,2,3,VLI,2,3,5,0,1,3,2
+141110,08-12-24,Grøndal EV,DTU Volley,Hillerødgades Sportssal                ,1 - 3,2024-2025,14:00,1,3,DTU Volley,1,3,4,0,1,3,1
+141111,08-12-24,Farum-Holte,Amager Volley.2,Ny Holtehal                ,2 - 3,2024-2025,16:00,2,3,Amager Volley.2,2,3,5,0,1,3,2
+141108,08-12-24,Frederiksberg Volley,Gentofte Volley.2,Bülowsvejhallen                ,3 - 1,2024-2025,18:00,3,1,Frederiksberg Volley,3,1,4,1,0,1,3
+141107,17-12-24,Team Køge,KV 61,Spar Nord Arena                ,3 - 1,2024-2025,19:00,3,1,Team Køge,3,1,4,1,0,1,3
+141117,11-01-25,Farum-Holte,KV 61,Ny Holtehal                ,3 - 0,2024-2025,11:00,3,0,Farum-Holte,3,0,3,1,0,0,3
+141121,11-01-25,Team Køge,Grøndal EV,Spar Nord Arena                ,2 - 3,2024-2025,13:30,2,3,Grøndal EV,2,3,5,0,1,3,2
+141120,11-01-25,DTU Volley,Hvidovre VK.2,Engelsborghallen                ,2 - 3,2024-2025,14:30,2,3,Hvidovre VK.2,2,3,5,0,1,3,2
+141118,12-01-25,VLI,Gentofte Volley.2,Kedelhallen                ,3 - 1,2024-2025,11:30,3,1,VLI,3,1,4,1,0,1,3
+141119,12-01-25,Amager Volley.2,Frederiksberg Volley,Sundbyhal                 ,3 - 2,2024-2025,12:00,3,2,Amager Volley.2,3,2,5,1,0,2,3

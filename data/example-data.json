@@ -1,0 +1,61 @@
+{
+    "overall": {
+      "matches_played": 10,
+      "total_points_scored": 450,
+      "total_points_conceded": 400,
+      "win_percentage": 70
+    },
+    "players": [
+      {
+        "name": "Player 1",
+        "matches_played": 10,
+        "points_scored": 120,
+        "aces": 15,
+        "blocks": 10,
+        "errors": 5
+      },
+      {
+        "name": "Player 2",
+        "matches_played": 9,
+        "points_scored": 100,
+        "aces": 10,
+        "blocks": 12,
+        "errors": 8
+      },
+      {
+        "name": "Player 3",
+        "matches_played": 8,
+        "points_scored": 80,
+        "aces": 8,
+        "blocks": 7,
+        "errors": 10
+      }
+    ],
+    "matches": [
+      {
+        "match_id": 1,
+        "opponent": "Team A",
+        "date": "2024-01-15",
+        "points_scored": 45,
+        "points_conceded": 40,
+        "win": true
+      },
+      {
+        "match_id": 2,
+        "opponent": "Team B",
+        "date": "2024-01-22",
+        "points_scored": 35,
+        "points_conceded": 50,
+        "win": false
+      },
+      {
+        "match_id": 3,
+        "opponent": "Team C",
+        "date": "2024-02-01",
+        "points_scored": 50,
+        "points_conceded": 45,
+        "win": true
+      }
+    ]
+  }
+  

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Volleyball Team Stats</title>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Frederiksberg Volley</h1>
+        <nav>
+            <a href="../frederiksberg_stats/index.html">Frederiksberg Stats</a>
+            <a href="../player_stats/index.html">Players</a>
+            <a href="../match_stats/index.html">1. Division</a>
+        </nav>
+    </header>
+
+    <main>
+        
+    </main>
+
+
+
+    <!-- WIN RATIO -->
+
+    <h1>Frederiksberg Volley Results</h1>
+  
+  <!-- Filters for Season and Game Type -->
+  <div class="container">
+
+  <label for="season">Season:</label>
+  <select id="season">
+    <option value="all">All Seasons</option>
+    <option value="2024-2025">2024-2025</option>
+    <option value="2023-2024">2023-2024</option>
+    <option value="2022-2023">2022-2023</option>
+    <option value="2021-2022">2021-2022</option>
+  </select>
+
+  <label for="game-type">Game Type:</label>
+  <select id="game-type">
+    <option value="all">All Games</option>
+    <option value="home">Home Games</option>
+    <option value="away">Away Games</option>
+  </select>
+</div>
+
+
+  <!-- Canvas to display the chart -->
+  <canvas id="winLossChart" width="400" height="200"></canvas>
+
+  <!-- Script to process and display data -->
+  <script src="main.js"></script>
+
+
+
+
+  <!-- footer from here on -->
+
+    <footer>
+        <p>&copy; 2024 Frederiksberg Elite</p>
+    </footer>
+
+    <script src="../js/visualizations_frb.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,72 @@
+[
+    {
+        "player": "Alex",
+        "total-earned": 0,
+        "points": 0
+    },
+    {
+        "player": "Ando",
+        "total-earned": 0,
+        "points": 0
+    },
+    {
+        "player": "Bo",
+        "total-earned": 5,
+        "points": 5
+    },
+    {
+        "player": "Boerme",
+        "total-earned": 29,
+        "points": 29
+    },
+    {
+        "player": "Bosse",
+        "total-earned": 2,
+        "points": 2
+    },
+    {
+        "player": "Gustav",
+        "total-earned": 37,
+        "points": 37
+    },
+    {
+        "player": "Kristian",
+        "total-earned": 7,
+        "points": 7
+    },
+    {
+        "player": "Lasse",
+        "total-earned": 16,
+        "points": 16
+    },
+    {
+        "player": "Mads",
+        "total-earned": 3,
+        "points": 3
+    },
+    {
+        "player": "Martin",
+        "total-earned": 26,
+        "points": 26
+    },
+    {
+        "player": "Nico",
+        "total-earned": 0,
+        "points": 0
+    },
+    {
+        "player": "Nicola",
+        "total-earned": 51,
+        "points": 51
+    },
+    {
+        "player": "Soeren",
+        "total-earned": 34,
+        "points": 34
+    },
+    {
+        "player": "Vestbjerg",
+        "total-earned": 5,
+        "points": 5
+    }
+]
