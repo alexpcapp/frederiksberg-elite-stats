@@ -79,7 +79,7 @@ function renderTopScorerChart(data, selectedGames = []) {
             scales: {
                 x: {
                     beginAtZero: true,
-                    max: globalMaxPoints + 10,
+                    max: globalMaxPoints + 20,
                 },
                 y: {
                     beginAtZero: true,
