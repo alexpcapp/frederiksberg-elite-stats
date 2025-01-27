@@ -70,12 +70,14 @@ function renderTopScorerChart(data, selectedGames = []) {
                 backgroundColor: '#4e73df',
                 borderColor: '#4e73df',
                 borderWidth: 1,
-                barThickness: 10,
+                //barThickness: 10,
+                barThickness: window.innerWidth < 768 ? 10 : 20
             }]
         },
         options: {
             indexAxis: 'y',
             responsive: true,
+            
             scales: {
                 x: {
                     beginAtZero: true,
@@ -90,6 +92,12 @@ function renderTopScorerChart(data, selectedGames = []) {
                 }
             }
         }
+    });
+
+    // Update bar thickness on resize
+    window.addEventListener('resize', () => {
+        myChart.data.datasets[0].barThickness = window.innerWidth < 768 ? 10 : 20;
+        myChart.update();
     });
 
     applyLayoutStyles(chartInstance);
