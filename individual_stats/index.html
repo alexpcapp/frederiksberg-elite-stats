@@ -4,11 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Volleyball Team Stats</title>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+
     <link rel="stylesheet" href="../css/styles.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script type="module" src="../js-modules/layout.js" defer></script>
     <script type="module"src="../js-modules/top-scorer.js" defer></script>
+    <script type="module"src="../js-modules/player-offense-summary.js" defer></script>
 
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" defer></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js" defer></script>
 </head>
 <body>
     <header>
@@ -23,15 +28,34 @@
     <main>
     </main>
 
-    <h1>Top-scorer</h1>
+    <section class="thematic-section">
+        <h1>Top scorer</h1>
 
+        Here, all point contributions are combined. In general three categories are counted - serve points, hitting points, and block points. Notice that when a block with more than one blocker is awarded a point, each player receives a whole point.
 
-    <p id="dropdown-explanation">Filter games with the menu:</p>
-        <div id="gameFilters">
-            <!-- Dropdown menu for game selection will be populated dynamically -->
-        </div>
+        <p id="dropdown-explanation">Filter games with the menu:</p>
+            <div id="gameFilters">
+                <!-- Dropdown menu for game selection will be populated dynamically -->
+            </div>
 
-    <canvas id="topScorerChart"></canvas>
+        <canvas id="topScorerChart"></canvas>
+    </section>
+
+    <section class="thematic-section">
+
+        <h1>Player offense</h1>
+
+        The player offense statistics are based on attacking attempts, attacking points, and attacking errors. The kill and error percentage divides the number of kills or errors with the number of attacking attempts. The kill efficiency substracts the number of errors from the number of kills, and then divides with the number of attacking attempts.
+
+        <table id="dataTable" class="display">
+            <thead>
+              <tr id="table-header"></tr>
+            </thead>
+            <tbody id="table-body"></tbody>
+          </table>
+
+    </section>
+
 
     
 
