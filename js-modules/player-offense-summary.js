@@ -26,24 +26,57 @@ async function createTable() {
     const tableHeader = document.getElementById('table-header');
     const tableBody = document.getElementById('table-body');
 
+    const columnRenames = {
+        "player": "Player",
+        "attack_attempts": "Attacks",
+        "total_kills": "Total Kills",
+        "attack_errors": "Attack Errors",
+        "kill_pct": "Kill %",
+        "error_pct": "Error %",
+        "kill_effic": "Kill Efficiency"
+      };
+
     // Clear any existing content
     tableHeader.innerHTML = '';
     tableBody.innerHTML = '';
 
-    // Dynamically create headers
-    const headers = Object.keys(cleanedData[0]);
-    headers.forEach(header => {
+    // Create headers with specific column widths
+    const headers = Object.keys(data[0]);
+
+    headers.forEach((header, index) => {
       const th = document.createElement('th');
-      th.textContent = header;
+      th.textContent = columnRenames[header] || header;
+      th.style.textAlign = "center"; 
+
+
+      // Inline CSS for column width
+      if (index === 0) {
+        th.style.width = '100px';  // First column
+      } 
+
       tableHeader.appendChild(th);
     });
 
     // Populate rows
     cleanedData.forEach(row => {
       const tr = document.createElement('tr');
-      headers.forEach(header => {
+
+      headers.forEach((header, index) => {
         const td = document.createElement('td');
-        td.textContent = row[header];
+        
+        let cellValue = row[header];
+        
+        // Apply formatting to columns 5 and 6 (index 4 and 5)
+        if (index === 4 || index === 5) {
+          // Assuming the value is a decimal (e.g., 0.85 for 85%)
+          cellValue = (cellValue).toFixed(0) + "%";
+        } else if (index === 6) {
+            // For the 6th column, format with no leading zero
+            cellValue = cellValue.toFixed(3).replace(/^0/, '');
+          }
+    
+        td.textContent = cellValue;
+    
         tr.appendChild(td);
       });
       tableBody.appendChild(tr);
@@ -57,6 +90,8 @@ async function createTable() {
         ordering: true,
       });
     }
+
+
 
   } catch (error) {
     console.error("Error fetching or creating the table:", error);

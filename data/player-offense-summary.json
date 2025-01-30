@@ -6,7 +6,7 @@
         "attack_errors": 2,
         "kill_pct": 40,
         "error_pct": 20,
-        "kill_effic": "0.200"
+        "kill_effic": 0.2
     },
     {
         "player": "Boerme",
@@ -15,7 +15,7 @@
         "attack_errors": 11,
         "kill_pct": 44,
         "error_pct": 18,
-        "kill_effic": "0.258"
+        "kill_effic": 0.258
     },
     {
         "player": "Gustav",
@@ -24,7 +24,7 @@
         "attack_errors": 5,
         "kill_pct": 26,
         "error_pct": 13,
-        "kill_effic": "0.128"
+        "kill_effic": 0.128
     },
     {
         "player": "Kristian",
@@ -33,7 +33,7 @@
         "attack_errors": 2,
         "kill_pct": 35,
         "error_pct": 12,
-        "kill_effic": "0.235"
+        "kill_effic": 0.235
     },
     {
         "player": "Lasse",
@@ -42,7 +42,7 @@
         "attack_errors": 1,
         "kill_pct": 48,
         "error_pct": 5,
-        "kill_effic": "0.429"
+        "kill_effic": 0.429
     },
     {
         "player": "Mads",
@@ -51,7 +51,7 @@
         "attack_errors": 0,
         "kill_pct": 100,
         "error_pct": 0,
-        "kill_effic": "1.000"
+        "kill_effic": 1.0
     },
     {
         "player": "Martin",
@@ -60,7 +60,7 @@
         "attack_errors": 7,
         "kill_pct": 48,
         "error_pct": 16,
-        "kill_effic": "0.318"
+        "kill_effic": 0.318
     },
     {
         "player": "Nico",
@@ -69,7 +69,7 @@
         "attack_errors": 0,
         "kill_pct": 0,
         "error_pct": 0,
-        "kill_effic": ".000"
+        "kill_effic": 0.0
     },
     {
         "player": "Nicola",
@@ -78,7 +78,7 @@
         "attack_errors": 19,
         "kill_pct": 46,
         "error_pct": 15,
-        "kill_effic": "0.301"
+        "kill_effic": 0.301
     },
     {
         "player": "Soeren",
@@ -87,7 +87,7 @@
         "attack_errors": 16,
         "kill_pct": 35,
         "error_pct": 15,
-        "kill_effic": "0.196"
+        "kill_effic": 0.196
     },
     {
         "player": "Vestbjerg",
@@ -96,6 +96,6 @@
         "attack_errors": 10,
         "kill_pct": 37,
         "error_pct": 24,
-        "kill_effic": "0.122"
+        "kill_effic": 0.122
     }
 ]
