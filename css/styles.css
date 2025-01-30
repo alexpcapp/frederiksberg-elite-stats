@@ -106,8 +106,8 @@ select option {
     margin-top: 10px;  /* Adds some spacing above */
 }
 
-#table {
-    width: 80%;
+#dataTable {
+    width: 90%;
     /* table-layout: fixed; /* This forces the columns to have fixed widths */
     border-collapse: collapse;
 }

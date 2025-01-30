@@ -43,6 +43,8 @@ async function createTable() {
     // Create headers with specific column widths
     const headers = Object.keys(data[0]);
 
+    
+
     headers.forEach((header, index) => {
       const th = document.createElement('th');
       th.textContent = columnRenames[header] || header;
