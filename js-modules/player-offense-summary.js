@@ -88,6 +88,7 @@ async function createTable() {
         paging: true,
         searching: true,
         ordering: true,
+        order: [[6, 'desc']]
       });
     }
 
