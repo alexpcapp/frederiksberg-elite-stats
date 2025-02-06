@@ -1,39 +1,48 @@
 [
     {
         "player": "Bo",
-        "attack_attempts": 23,
-        "total_kills": 9,
-        "attack_errors": 3,
-        "kill_pct": 39,
-        "error_pct": 13,
-        "kill_effic": 0.261
+        "attack_attempts": 28,
+        "total_kills": 10,
+        "attack_errors": 5,
+        "kill_pct": 36,
+        "error_pct": 18,
+        "kill_effic": 0.179
     },
     {
         "player": "Boerme",
-        "attack_attempts": 91,
-        "total_kills": 37,
-        "attack_errors": 15,
-        "kill_pct": 41,
-        "error_pct": 16,
-        "kill_effic": 0.242
+        "attack_attempts": 110,
+        "total_kills": 44,
+        "attack_errors": 19,
+        "kill_pct": 40,
+        "error_pct": 17,
+        "kill_effic": 0.227
+    },
+    {
+        "player": "Frederik",
+        "attack_attempts": 4,
+        "total_kills": 1,
+        "attack_errors": 1,
+        "kill_pct": 25,
+        "error_pct": 25,
+        "kill_effic": 0.0
     },
     {
         "player": "Gustav",
-        "attack_attempts": 39,
-        "total_kills": 10,
-        "attack_errors": 5,
-        "kill_pct": 26,
-        "error_pct": 13,
-        "kill_effic": 0.128
+        "attack_attempts": 46,
+        "total_kills": 13,
+        "attack_errors": 8,
+        "kill_pct": 28,
+        "error_pct": 17,
+        "kill_effic": 0.109
     },
     {
         "player": "Kristian",
-        "attack_attempts": 30,
-        "total_kills": 11,
+        "attack_attempts": 32,
+        "total_kills": 12,
         "attack_errors": 2,
-        "kill_pct": 37,
-        "error_pct": 7,
-        "kill_effic": 0.3
+        "kill_pct": 38,
+        "error_pct": 6,
+        "kill_effic": 0.312
     },
     {
         "player": "Lasse",
@@ -55,12 +64,12 @@
     },
     {
         "player": "Martin",
-        "attack_attempts": 89,
-        "total_kills": 38,
-        "attack_errors": 14,
-        "kill_pct": 43,
-        "error_pct": 16,
-        "kill_effic": 0.27
+        "attack_attempts": 110,
+        "total_kills": 48,
+        "attack_errors": 19,
+        "kill_pct": 44,
+        "error_pct": 17,
+        "kill_effic": 0.264
     },
     {
         "player": "Nico",
@@ -82,20 +91,20 @@
     },
     {
         "player": "Soeren",
-        "attack_attempts": 112,
-        "total_kills": 38,
+        "attack_attempts": 117,
+        "total_kills": 39,
         "attack_errors": 16,
-        "kill_pct": 34,
+        "kill_pct": 33,
         "error_pct": 14,
-        "kill_effic": 0.196
+        "kill_effic": 0.197
     },
     {
         "player": "Vestbjerg",
-        "attack_attempts": 69,
-        "total_kills": 21,
-        "attack_errors": 15,
-        "kill_pct": 30,
-        "error_pct": 22,
-        "kill_effic": 0.087
+        "attack_attempts": 85,
+        "total_kills": 27,
+        "attack_errors": 16,
+        "kill_pct": 32,
+        "error_pct": 19,
+        "kill_effic": 0.129
     }
 ]

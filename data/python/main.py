@@ -10,3 +10,6 @@ if __name__ == "__main__":
 
 if __name__ == "__main__":
     convert_data_top_scorer.fetch_and_process_data()
+
+
+print("Running main.py")

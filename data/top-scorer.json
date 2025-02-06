@@ -11,13 +11,13 @@
     },
     {
         "player": "Bo",
-        "total-earned": 27,
-        "points": 27
+        "total-earned": 31,
+        "points": 31
     },
     {
         "player": "Boerme",
-        "total-earned": 43,
-        "points": 43
+        "total-earned": 50,
+        "points": 50
     },
     {
         "player": "Bosse",
@@ -26,18 +26,18 @@
     },
     {
         "player": "Frederik",
-        "total-earned": 0,
-        "points": 0
+        "total-earned": 2,
+        "points": 2
     },
     {
         "player": "Gustav",
-        "total-earned": 37,
-        "points": 37
+        "total-earned": 45,
+        "points": 45
     },
     {
         "player": "Kristian",
-        "total-earned": 21,
-        "points": 21
+        "total-earned": 22,
+        "points": 22
     },
     {
         "player": "Lasse",
@@ -51,8 +51,8 @@
     },
     {
         "player": "Martin",
-        "total-earned": 47,
-        "points": 47
+        "total-earned": 62,
+        "points": 62
     },
     {
         "player": "Mikkel",
@@ -71,12 +71,12 @@
     },
     {
         "player": "Soeren",
-        "total-earned": 53,
-        "points": 53
+        "total-earned": 55,
+        "points": 55
     },
     {
         "player": "Vestbjerg",
-        "total-earned": 24,
-        "points": 24
+        "total-earned": 30,
+        "points": 30
     }
 ]
