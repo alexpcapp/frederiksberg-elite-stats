@@ -28,6 +28,13 @@
         "max-earned": 0
     },
     {
+        "player": "Alex",
+        "match": "gentofte-frb",
+        "total-earned": 0,
+        "points": 0,
+        "max-earned": 0
+    },
+    {
         "player": "Ando",
         "match": "avk-frb",
         "total-earned": 0,
@@ -56,60 +63,81 @@
         "max-earned": 0
     },
     {
+        "player": "Ando",
+        "match": "gentofte-frb",
+        "total-earned": 0,
+        "points": 0,
+        "max-earned": 0
+    },
+    {
         "player": "Bo",
         "match": "avk-frb",
         "total-earned": 4,
         "points": 4,
-        "max-earned": 16
+        "max-earned": 27
     },
     {
         "player": "Bo",
         "match": "frb-dtu",
         "total-earned": 11,
         "points": 11,
-        "max-earned": 16
+        "max-earned": 27
     },
     {
         "player": "Bo",
         "match": "frb-gentofte",
         "total-earned": 0,
         "points": 0,
-        "max-earned": 16
+        "max-earned": 27
     },
     {
         "player": "Bo",
         "match": "frb-vli",
         "total-earned": 1,
         "points": 1,
-        "max-earned": 16
+        "max-earned": 27
+    },
+    {
+        "player": "Bo",
+        "match": "gentofte-frb",
+        "total-earned": 11,
+        "points": 11,
+        "max-earned": 27
     },
     {
         "player": "Boerme",
         "match": "avk-frb",
         "total-earned": 14,
         "points": 14,
-        "max-earned": 31
+        "max-earned": 43
     },
     {
         "player": "Boerme",
         "match": "frb-dtu",
         "total-earned": 2,
         "points": 2,
-        "max-earned": 31
+        "max-earned": 43
     },
     {
         "player": "Boerme",
         "match": "frb-gentofte",
         "total-earned": 4,
         "points": 4,
-        "max-earned": 31
+        "max-earned": 43
     },
     {
         "player": "Boerme",
         "match": "frb-vli",
         "total-earned": 11,
         "points": 11,
-        "max-earned": 31
+        "max-earned": 43
+    },
+    {
+        "player": "Boerme",
+        "match": "gentofte-frb",
+        "total-earned": 12,
+        "points": 12,
+        "max-earned": 43
     },
     {
         "player": "Bosse",
@@ -138,6 +166,20 @@
         "total-earned": 2,
         "points": 2,
         "max-earned": 2
+    },
+    {
+        "player": "Bosse",
+        "match": "gentofte-frb",
+        "total-earned": 0,
+        "points": 0,
+        "max-earned": 2
+    },
+    {
+        "player": "Frederik",
+        "match": "gentofte-frb",
+        "total-earned": 0,
+        "points": 0,
+        "max-earned": 0
     },
     {
         "player": "Gustav",
@@ -168,60 +210,81 @@
         "max-earned": 37
     },
     {
+        "player": "Gustav",
+        "match": "gentofte-frb",
+        "total-earned": 0,
+        "points": 0,
+        "max-earned": 37
+    },
+    {
         "player": "Kristian",
         "match": "avk-frb",
         "total-earned": 2,
         "points": 2,
-        "max-earned": 11
+        "max-earned": 21
     },
     {
         "player": "Kristian",
         "match": "frb-dtu",
         "total-earned": 4,
         "points": 4,
-        "max-earned": 11
+        "max-earned": 21
     },
     {
         "player": "Kristian",
         "match": "frb-gentofte",
         "total-earned": 3,
         "points": 3,
-        "max-earned": 11
+        "max-earned": 21
     },
     {
         "player": "Kristian",
         "match": "frb-vli",
         "total-earned": 2,
         "points": 2,
-        "max-earned": 11
+        "max-earned": 21
+    },
+    {
+        "player": "Kristian",
+        "match": "gentofte-frb",
+        "total-earned": 10,
+        "points": 10,
+        "max-earned": 21
     },
     {
         "player": "Lasse",
         "match": "avk-frb",
         "total-earned": 3,
         "points": 3,
-        "max-earned": 27
+        "max-earned": 42
     },
     {
         "player": "Lasse",
         "match": "frb-dtu",
         "total-earned": 11,
         "points": 11,
-        "max-earned": 27
+        "max-earned": 42
     },
     {
         "player": "Lasse",
         "match": "frb-gentofte",
         "total-earned": 3,
         "points": 3,
-        "max-earned": 27
+        "max-earned": 42
     },
     {
         "player": "Lasse",
         "match": "frb-vli",
         "total-earned": 10,
         "points": 10,
-        "max-earned": 27
+        "max-earned": 42
+    },
+    {
+        "player": "Lasse",
+        "match": "gentofte-frb",
+        "total-earned": 15,
+        "points": 15,
+        "max-earned": 42
     },
     {
         "player": "Mads",
@@ -247,6 +310,13 @@
     {
         "player": "Mads",
         "match": "frb-vli",
+        "total-earned": 0,
+        "points": 0,
+        "max-earned": 3
+    },
+    {
+        "player": "Mads",
+        "match": "gentofte-frb",
         "total-earned": 0,
         "points": 0,
         "max-earned": 3
@@ -256,28 +326,42 @@
         "match": "avk-frb",
         "total-earned": 14,
         "points": 14,
-        "max-earned": 26
+        "max-earned": 47
     },
     {
         "player": "Martin",
         "match": "frb-dtu",
         "total-earned": 0,
         "points": 0,
-        "max-earned": 26
+        "max-earned": 47
     },
     {
         "player": "Martin",
         "match": "frb-gentofte",
         "total-earned": 12,
         "points": 12,
-        "max-earned": 26
+        "max-earned": 47
     },
     {
         "player": "Martin",
         "match": "frb-vli",
         "total-earned": 0,
         "points": 0,
-        "max-earned": 26
+        "max-earned": 47
+    },
+    {
+        "player": "Martin",
+        "match": "gentofte-frb",
+        "total-earned": 21,
+        "points": 21,
+        "max-earned": 47
+    },
+    {
+        "player": "Mikkel",
+        "match": "gentofte-frb",
+        "total-earned": 0,
+        "points": 0,
+        "max-earned": 0
     },
     {
         "player": "Nico",
@@ -303,6 +387,13 @@
     {
         "player": "Nico",
         "match": "frb-vli",
+        "total-earned": 0,
+        "points": 0,
+        "max-earned": 0
+    },
+    {
+        "player": "Nico",
+        "match": "gentofte-frb",
         "total-earned": 0,
         "points": 0,
         "max-earned": 0
@@ -312,83 +403,104 @@
         "match": "avk-frb",
         "total-earned": 13,
         "points": 13,
-        "max-earned": 69
+        "max-earned": 74
     },
     {
         "player": "Nicola",
         "match": "frb-dtu",
         "total-earned": 18,
         "points": 18,
-        "max-earned": 69
+        "max-earned": 74
     },
     {
         "player": "Nicola",
         "match": "frb-gentofte",
         "total-earned": 19,
         "points": 19,
-        "max-earned": 69
+        "max-earned": 74
     },
     {
         "player": "Nicola",
         "match": "frb-vli",
         "total-earned": 19,
         "points": 19,
-        "max-earned": 69
+        "max-earned": 74
+    },
+    {
+        "player": "Nicola",
+        "match": "gentofte-frb",
+        "total-earned": 5,
+        "points": 5,
+        "max-earned": 74
     },
     {
         "player": "Soeren",
         "match": "avk-frb",
         "total-earned": 1,
         "points": 1,
-        "max-earned": 51
+        "max-earned": 53
     },
     {
         "player": "Soeren",
         "match": "frb-dtu",
         "total-earned": 17,
         "points": 17,
-        "max-earned": 51
+        "max-earned": 53
     },
     {
         "player": "Soeren",
         "match": "frb-gentofte",
         "total-earned": 10,
         "points": 10,
-        "max-earned": 51
+        "max-earned": 53
     },
     {
         "player": "Soeren",
         "match": "frb-vli",
         "total-earned": 23,
         "points": 23,
-        "max-earned": 51
+        "max-earned": 53
+    },
+    {
+        "player": "Soeren",
+        "match": "gentofte-frb",
+        "total-earned": 2,
+        "points": 2,
+        "max-earned": 53
     },
     {
         "player": "Vestbjerg",
         "match": "avk-frb",
         "total-earned": 1,
         "points": 1,
-        "max-earned": 16
+        "max-earned": 24
     },
     {
         "player": "Vestbjerg",
         "match": "frb-dtu",
         "total-earned": 11,
         "points": 11,
-        "max-earned": 16
+        "max-earned": 24
     },
     {
         "player": "Vestbjerg",
         "match": "frb-gentofte",
         "total-earned": 3,
         "points": 3,
-        "max-earned": 16
+        "max-earned": 24
     },
     {
         "player": "Vestbjerg",
         "match": "frb-vli",
         "total-earned": 1,
         "points": 1,
-        "max-earned": 16
+        "max-earned": 24
+    },
+    {
+        "player": "Vestbjerg",
+        "match": "gentofte-frb",
+        "total-earned": 8,
+        "points": 8,
+        "max-earned": 24
     }
 ]
