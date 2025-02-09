@@ -101,6 +101,7 @@ async function createTable() {
     if (tableContainer) {
       $(tableContainer).DataTable({
         "lengthChange": false,  // Disables the entries dropdown
+        "searching": false,
         //paging: true,
         //searching: true,
         ordering: true,
