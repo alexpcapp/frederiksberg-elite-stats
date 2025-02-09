@@ -101,7 +101,7 @@ async function createTable() {
     if (tableContainer) {
       $(tableContainer).DataTable({
         paging: true,
-        searching: true,
+        //searching: true,
         ordering: true,
         order: [[5, 'desc']]
       });
