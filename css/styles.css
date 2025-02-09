@@ -126,3 +126,37 @@ select option {
     border-radius: 8px;    /* Rounded corners */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Soft shadow for design */
 }
+
+/* ********** TABS ********** */
+/* Container for tabs */
+.tab-container {
+    display: flex;
+    border-bottom: 2px solid #ccc;
+  }
+
+  /* Tab buttons */
+  .tab {
+    padding: 10px 20px;
+    cursor: pointer;
+    background: #f1f1f1;
+    border: none;
+    outline: none;
+    margin-right: 5px;
+    transition: background 0.3s;
+  }
+
+  .tab.active {
+    background: #ddd;
+    font-weight: bold;
+  }
+
+  /* Tab content sections */
+  .tab-content {
+    display: none;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+
+  .tab-content.active {
+    display: block;
+  }

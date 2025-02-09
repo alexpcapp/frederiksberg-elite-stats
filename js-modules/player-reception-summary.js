@@ -1,5 +1,5 @@
 // Table creation module
-const tableContainer = document.querySelector("#dataTableOffenseSummary");
+const tableContainer = document.querySelector("#dataTableReceptionSummary");
 
 
 function cleanData(data) {
@@ -16,24 +16,23 @@ function cleanData(data) {
 // Function to fetch data and create a table
 async function createTable() {
   try {
-    const response = await fetch('../data/player-offense-summary.json'); // Adjust path as needed
+    const response = await fetch('../data/player-passing-summary.json'); // Adjust path as needed
     const data = await response.json();
 
     if (!data.length) return;
 
     const cleanedData = cleanData(data);
 
-    const tableHeader = document.getElementById('offense-table-header');
-    const tableBody = document.getElementById('offense-table-body');
+    const tableHeader = document.getElementById('reception-table-header');
+    const tableBody = document.getElementById('reception-table-body');
 
     const columnRenames = {
         "player": "Player",
-        "attack_attempts": "Attacks",
-        "total_kills": "Total Kills",
-        "attack_errors": "Attack Errors",
-        "kill_pct": "Kill %",
-        "error_pct": "Error %",
-        "kill_effic": "Kill Efficiency"
+        "pass-attempt": "Number of passes",
+        "positive_percentage": "Positive %",
+        "perfect_percentage": "Perfect %",
+        "average_pass_rating": "Pass Rating",
+        "error_percentage": "Error %"
       };
 
     // Clear any existing content
@@ -54,10 +53,11 @@ async function createTable() {
       // Inline CSS for column width
       if (index === 0) {
         th.style.width = '100px';  // First column
-        
       } 
 
-      
+      if (index === 1) {
+        th.style.width = '100px';  // First column
+      } 
 
       tableHeader.appendChild(th);
     });
@@ -72,16 +72,22 @@ async function createTable() {
         let cellValue = row[header];
 
         if (index === 0) {
-          td.style.textAlign = "left"; // Align player names to the left
-        }
+            td.style.textAlign = "left"; // Align player names to the left
+          }
+
+        if (index === 1) {
+            td.style.textAlign = "right"; // Align values right
+          }
         
         // Apply formatting to columns 5 and 6 (index 4 and 5)
-        if (index === 4 || index === 5) {
+        if (index === 2 || index === 3|| index === 4) {
           // Assuming the value is a decimal (e.g., 0.85 for 85%)
           cellValue = (cellValue).toFixed(0) + "%";
-        } else if (index === 6) {
+        } else if (index === 5) {
             // For the 6th column, format with no leading zero
-            cellValue = cellValue.toFixed(3).replace(/^0/, '');
+            //cellValue = cellValue.toFixed(2).replace(/^0/, '');
+            cellValue = cellValue.toFixed(2);
+
           }
     
         td.textContent = cellValue;
@@ -97,7 +103,7 @@ async function createTable() {
         paging: true,
         searching: true,
         ordering: true,
-        order: [[6, 'desc']]
+        order: [[4, 'desc']]
       });
     }
 
