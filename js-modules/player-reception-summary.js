@@ -100,7 +100,8 @@ async function createTable() {
     // Dynamic table with DataTables features
     if (tableContainer) {
       $(tableContainer).DataTable({
-        paging: true,
+        "lengthChange": false,  // Disables the entries dropdown
+        //paging: true,
         //searching: true,
         ordering: true,
         order: [[5, 'desc']]
