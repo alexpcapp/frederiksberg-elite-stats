@@ -103,7 +103,7 @@ async function createTable() {
         paging: true,
         searching: true,
         ordering: true,
-        order: [[4, 'desc']]
+        order: [[5, 'desc']]
       });
     }
 
