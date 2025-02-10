@@ -73,13 +73,13 @@ function renderTopScorerChart(data, selectedGames = []) {
                 borderColor: '#4e73df',
                 borderWidth: 1,
                 //barThickness: 10,
-                barThickness: window.innerWidth < 768 ? 10 : 20
+                barThickness: isMobile ? 10 : 20 // Dynamic bar thickness for mobile
             }]
         },
         options: {
             indexAxis: 'y',
             responsive: true,
-            
+            maintainAspectRatio: true,
             scales: {
                 x: {
                     beginAtZero: true,
@@ -89,7 +89,7 @@ function renderTopScorerChart(data, selectedGames = []) {
                     beginAtZero: true,
                     ticks: {
                         autoSkip: false,
-                        padding: 20,
+                        padding: isMobile ? 5 : 20,
                     }
                 }
             }
