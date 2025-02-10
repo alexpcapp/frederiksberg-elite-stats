@@ -89,7 +89,7 @@ function renderTopScorerChart(data, selectedGames = []) {
                     beginAtZero: true,
                     ticks: {
                         autoSkip: false,
-                        padding: window.innerWidth < 700 ? 40 : 20,
+                        padding: window.innerWidth < 800 ? 1 : 20,
                     }
                 }
             }
