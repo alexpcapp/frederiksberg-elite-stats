@@ -67,7 +67,7 @@ function renderTopScorerChart(data, selectedGames = []) {
         data: {
             labels: labels,
             datasets: [{
-                label: 'Total Points',
+                label: 'Total Pointsss',
                 data: points,
                 backgroundColor: '#4e73df',
                 borderColor: '#4e73df',
