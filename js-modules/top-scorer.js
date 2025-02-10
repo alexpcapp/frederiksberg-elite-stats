@@ -43,7 +43,7 @@ function getGlobalMaxPoints(data) {
 
 
 function renderTopScorerChart(data, selectedGames = []) {
-    const isMobile = window.innerWidth < 600; // Detect mobile screen size
+    const isMobile = window.innerWidth < 375; // Detect mobile screen size
 
     const aggregatedData = aggregateData(data, selectedGames);
     const labels = aggregatedData.map(item => item.player);
