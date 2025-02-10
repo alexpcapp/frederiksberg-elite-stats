@@ -43,7 +43,7 @@ function getGlobalMaxPoints(data) {
 
 
 function renderTopScorerChart(data, selectedGames = []) {
-    const isMobile = window.innerWidth < 768; // Detect mobile screen size
+    const isMobile = window.innerWidth < 600; // Detect mobile screen size
 
     const aggregatedData = aggregateData(data, selectedGames);
     const labels = aggregatedData.map(item => item.player);
@@ -67,7 +67,7 @@ function renderTopScorerChart(data, selectedGames = []) {
         data: {
             labels: labels,
             datasets: [{
-                label: 'Total Pointsss',
+                label: 'Total Points',
                 data: points,
                 backgroundColor: '#4e73df',
                 borderColor: '#4e73df',
