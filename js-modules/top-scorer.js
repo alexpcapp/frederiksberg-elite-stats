@@ -73,7 +73,7 @@ function renderTopScorerChart(data, selectedGames = []) {
                 borderColor: '#4e73df',
                 borderWidth: 1,
                 //barThickness: 10,
-                barThickness: isMobile ? 5 : 20 // Dynamic bar thickness for mobile
+                barThickness: isMobile ? 2.5 : 20 // Dynamic bar thickness for mobile
             }]
         },
         options: {
