@@ -43,7 +43,7 @@ function getGlobalMaxPoints(data) {
 
 
 function renderTopScorerChart(data, selectedGames = []) {
-    const isMobile = window.innerWidth < 375; // Detect mobile screen size
+    const isMobile = window.innerWidth < 700; // Detect mobile screen size
 
     const aggregatedData = aggregateData(data, selectedGames);
     const labels = aggregatedData.map(item => item.player);
@@ -73,7 +73,7 @@ function renderTopScorerChart(data, selectedGames = []) {
                 borderColor: '#4e73df',
                 borderWidth: 1,
                 //barThickness: 10,
-                barThickness: isMobile ? 10 : 20 // Dynamic bar thickness for mobile
+                barThickness: isMobile ? 5 : 20 // Dynamic bar thickness for mobile
             }]
         },
         options: {
