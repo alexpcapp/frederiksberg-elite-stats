@@ -43,6 +43,8 @@ function getGlobalMaxPoints(data) {
 
 
 function renderTopScorerChart(data, selectedGames = []) {
+    const isMobile = window.innerWidth < 768; // Detect mobile screen size
+
     const aggregatedData = aggregateData(data, selectedGames);
     const labels = aggregatedData.map(item => item.player);
     const points = aggregatedData.map(item => item.points);
@@ -96,8 +98,10 @@ function renderTopScorerChart(data, selectedGames = []) {
 
     // Update bar thickness on resize
     window.addEventListener('resize', () => {
-        myChart.data.datasets[0].barThickness = window.innerWidth < 500 ? 5 : 20;
-        myChart.update();
+        const isMobileResize = window.innerWidth < 768;
+        chartInstance.data.datasets[0].barThickness = isMobileResize ? 10 : 20;
+        chartInstance.options.scales.y.ticks.padding = isMobileResize ? 5 : 20;
+        chartInstance.update();
     });
 
     applyLayoutStyles(chartInstance);
