@@ -12,6 +12,7 @@
     <script type="module"src="../js-modules/top-scorer.js" defer></script>
     <script type="module"src="../js-modules/player-offense-summary.js" defer></script>
     <script type="module"src="../js-modules/player-reception-summary.js" defer></script>
+    <script type="module" src="../js-modules/per-game-tables.js" defer></script>
 
     <script type="module"src="../js-modules/tab-layout.js" defer></script>
 
@@ -35,6 +36,8 @@
         <button class="tab active" onclick="showTab(0)">Top Scorer</button>
         <button class="tab" onclick="showTab(1)">Player Offense</button>
         <button class="tab" onclick="showTab(2)">Reception</button>
+        <button class="tab" onclick="showTab(3)">Stats per game</button>
+
     </div>
     
     <div id="tab-0" class="tab-content active">
@@ -52,7 +55,6 @@
     
             <canvas id="topScorerChart"></canvas>
         </section>
-    
 
     </div>
     
@@ -87,19 +89,30 @@
                 <tbody id="reception-table-body"></tbody>
             </table>
     
-            
-    
         </section>
     </div>
 
+    <div id="tab-3" class="tab-content active">
+        <section class="thematic-section">
+            
+            <h1>Statistics per game</h1>
+
+            <!-- Dropdown to select games -->
+            <label for="games-select"></label>
+            <select id="gameSelector" multiple>
+                <option value="all" selected>All Matches</option>
+            </select>
+
+            <table id="dataTablePerGameAttack" class=""display>
+                <thead>
+                    <tr id="per-game-attack-header"></tr>
+                </thead>
+                <tbody id="per-game-attack-body"></tbody>
+            </table>
 
 
-
-
-    
-
-
-
+        </section>
+    </div>
 
   <!-- footer from here on -->
 
