@@ -1,0 +1,407 @@
+[
+    {
+        "match": "all-matches",
+        "player": "Alex",
+        "pass-attempt": 128,
+        "positive_percentage": 72.65625,
+        "perfect_percentage": 35.15625,
+        "error_percentage": 6.25,
+        "average_pass_rating": 1.9845543345884615
+    },
+    {
+        "match": "all-matches",
+        "player": "Bo",
+        "pass-attempt": 2,
+        "positive_percentage": 50.0,
+        "perfect_percentage": 0.0,
+        "error_percentage": 50.0,
+        "average_pass_rating": 1.0
+    },
+    {
+        "match": "all-matches",
+        "player": "Boerme",
+        "pass-attempt": 73,
+        "positive_percentage": 72.6027397260274,
+        "perfect_percentage": 32.87671232876712,
+        "error_percentage": 8.21917808219178,
+        "average_pass_rating": 2.0719298245105264
+    },
+    {
+        "match": "all-matches",
+        "player": "Bosse",
+        "pass-attempt": 1,
+        "positive_percentage": 100.0,
+        "perfect_percentage": 0.0,
+        "error_percentage": 0.0,
+        "average_pass_rating": 2.0
+    },
+    {
+        "match": "all-matches",
+        "player": "Frederik",
+        "pass-attempt": 7,
+        "positive_percentage": 28.57142857142857,
+        "perfect_percentage": 14.285714285714285,
+        "error_percentage": 28.57142857142857,
+        "average_pass_rating": 1.142857143
+    },
+    {
+        "match": "all-matches",
+        "player": "Gustav",
+        "pass-attempt": 4,
+        "positive_percentage": 75.0,
+        "perfect_percentage": 50.0,
+        "error_percentage": 0.0,
+        "average_pass_rating": 2.25
+    },
+    {
+        "match": "all-matches",
+        "player": "Kristian",
+        "pass-attempt": 3,
+        "positive_percentage": 66.66666666666666,
+        "perfect_percentage": 33.33333333333333,
+        "error_percentage": 0.0,
+        "average_pass_rating": 2.0
+    },
+    {
+        "match": "all-matches",
+        "player": "Nico",
+        "pass-attempt": 4,
+        "positive_percentage": 75.0,
+        "perfect_percentage": 25.0,
+        "error_percentage": 0.0,
+        "average_pass_rating": 2.0
+    },
+    {
+        "match": "all-matches",
+        "player": "Nicola",
+        "pass-attempt": 106,
+        "positive_percentage": 69.81132075471697,
+        "perfect_percentage": 26.41509433962264,
+        "error_percentage": 2.8301886792452833,
+        "average_pass_rating": 1.9702462121
+    },
+    {
+        "match": "all-matches",
+        "player": "Vestbjerg",
+        "pass-attempt": 95,
+        "positive_percentage": 63.1578947368421,
+        "perfect_percentage": 20.0,
+        "error_percentage": 13.684210526315791,
+        "average_pass_rating": 1.7480350379375
+    },
+    {
+        "match": "avk-frb",
+        "player": "Alex",
+        "pass-attempt": 33,
+        "positive_percentage": 72.72727272727273,
+        "perfect_percentage": 36.36363636363637,
+        "error_percentage": 6.0606060606060606,
+        "average_pass_rating": 2.0844444444
+    },
+    {
+        "match": "avk-frb",
+        "player": "Boerme",
+        "pass-attempt": 20,
+        "positive_percentage": 90.0,
+        "perfect_percentage": 50.0,
+        "error_percentage": 0.0,
+        "average_pass_rating": 2.3166666666
+    },
+    {
+        "match": "avk-frb",
+        "player": "Nicola",
+        "pass-attempt": 26,
+        "positive_percentage": 57.692307692307686,
+        "perfect_percentage": 23.076923076923077,
+        "error_percentage": 7.6923076923076925,
+        "average_pass_rating": 1.6875
+    },
+    {
+        "match": "avk-frb",
+        "player": "Vestbjerg",
+        "pass-attempt": 6,
+        "positive_percentage": 50.0,
+        "perfect_percentage": 0.0,
+        "error_percentage": 16.666666666666664,
+        "average_pass_rating": 1.416666667
+    },
+    {
+        "match": "frb-dtu",
+        "player": "Alex",
+        "pass-attempt": 11,
+        "positive_percentage": 90.9090909090909,
+        "perfect_percentage": 54.54545454545454,
+        "error_percentage": 9.090909090909092,
+        "average_pass_rating": 2.27083333325
+    },
+    {
+        "match": "frb-dtu",
+        "player": "Bo",
+        "pass-attempt": 1,
+        "positive_percentage": 100.0,
+        "perfect_percentage": 0.0,
+        "error_percentage": 0.0,
+        "average_pass_rating": 2.0
+    },
+    {
+        "match": "frb-dtu",
+        "player": "Boerme",
+        "pass-attempt": 3,
+        "positive_percentage": 0.0,
+        "perfect_percentage": 0.0,
+        "error_percentage": 33.33333333333333,
+        "average_pass_rating": 0.6666666667
+    },
+    {
+        "match": "frb-dtu",
+        "player": "Kristian",
+        "pass-attempt": 1,
+        "positive_percentage": 100.0,
+        "perfect_percentage": 100.0,
+        "error_percentage": 0.0,
+        "average_pass_rating": 3.0
+    },
+    {
+        "match": "frb-dtu",
+        "player": "Nico",
+        "pass-attempt": 2,
+        "positive_percentage": 50.0,
+        "perfect_percentage": 50.0,
+        "error_percentage": 0.0,
+        "average_pass_rating": 2.0
+    },
+    {
+        "match": "frb-dtu",
+        "player": "Nicola",
+        "pass-attempt": 21,
+        "positive_percentage": 80.95238095238095,
+        "perfect_percentage": 28.57142857142857,
+        "error_percentage": 4.761904761904762,
+        "average_pass_rating": 2.21875
+    },
+    {
+        "match": "frb-dtu",
+        "player": "Vestbjerg",
+        "pass-attempt": 26,
+        "positive_percentage": 53.84615384615385,
+        "perfect_percentage": 15.384615384615385,
+        "error_percentage": 19.230769230769234,
+        "average_pass_rating": 1.54910714275
+    },
+    {
+        "match": "frb-gentofte",
+        "player": "Alex",
+        "pass-attempt": 27,
+        "positive_percentage": 62.96296296296296,
+        "perfect_percentage": 33.33333333333333,
+        "error_percentage": 7.4074074074074066,
+        "average_pass_rating": 1.91666666675
+    },
+    {
+        "match": "frb-gentofte",
+        "player": "Boerme",
+        "pass-attempt": 6,
+        "positive_percentage": 33.33333333333333,
+        "perfect_percentage": 0.0,
+        "error_percentage": 16.666666666666664,
+        "average_pass_rating": 1.1666666664999998
+    },
+    {
+        "match": "frb-gentofte",
+        "player": "Gustav",
+        "pass-attempt": 1,
+        "positive_percentage": 100.0,
+        "perfect_percentage": 0.0,
+        "error_percentage": 0.0,
+        "average_pass_rating": 2.0
+    },
+    {
+        "match": "frb-gentofte",
+        "player": "Nico",
+        "pass-attempt": 2,
+        "positive_percentage": 100.0,
+        "perfect_percentage": 0.0,
+        "error_percentage": 0.0,
+        "average_pass_rating": 2.0
+    },
+    {
+        "match": "frb-gentofte",
+        "player": "Nicola",
+        "pass-attempt": 24,
+        "positive_percentage": 66.66666666666666,
+        "perfect_percentage": 33.33333333333333,
+        "error_percentage": 0.0,
+        "average_pass_rating": 2.01458333325
+    },
+    {
+        "match": "frb-gentofte",
+        "player": "Vestbjerg",
+        "pass-attempt": 8,
+        "positive_percentage": 87.5,
+        "perfect_percentage": 50.0,
+        "error_percentage": 0.0,
+        "average_pass_rating": 2.3666666665
+    },
+    {
+        "match": "frb-kv61",
+        "player": "Alex",
+        "pass-attempt": 14,
+        "positive_percentage": 71.42857142857143,
+        "perfect_percentage": 21.428571428571427,
+        "error_percentage": 7.142857142857142,
+        "average_pass_rating": 1.797619047666667
+    },
+    {
+        "match": "frb-kv61",
+        "player": "Boerme",
+        "pass-attempt": 6,
+        "positive_percentage": 100.0,
+        "perfect_percentage": 33.33333333333333,
+        "error_percentage": 0.0,
+        "average_pass_rating": 2.333333333
+    },
+    {
+        "match": "frb-kv61",
+        "player": "Frederik",
+        "pass-attempt": 7,
+        "positive_percentage": 28.57142857142857,
+        "perfect_percentage": 14.285714285714285,
+        "error_percentage": 28.57142857142857,
+        "average_pass_rating": 1.142857143
+    },
+    {
+        "match": "frb-kv61",
+        "player": "Gustav",
+        "pass-attempt": 1,
+        "positive_percentage": 0.0,
+        "perfect_percentage": 0.0,
+        "error_percentage": 0.0,
+        "average_pass_rating": 1.0
+    },
+    {
+        "match": "frb-kv61",
+        "player": "Kristian",
+        "pass-attempt": 1,
+        "positive_percentage": 0.0,
+        "perfect_percentage": 0.0,
+        "error_percentage": 0.0,
+        "average_pass_rating": 1.0
+    },
+    {
+        "match": "frb-kv61",
+        "player": "Vestbjerg",
+        "pass-attempt": 16,
+        "positive_percentage": 68.75,
+        "perfect_percentage": 12.5,
+        "error_percentage": 12.5,
+        "average_pass_rating": 1.7261904763333333
+    },
+    {
+        "match": "frb-vli",
+        "player": "Alex",
+        "pass-attempt": 15,
+        "positive_percentage": 60.0,
+        "perfect_percentage": 26.666666666666668,
+        "error_percentage": 13.333333333333334,
+        "average_pass_rating": 1.55000000006
+    },
+    {
+        "match": "frb-vli",
+        "player": "Boerme",
+        "pass-attempt": 22,
+        "positive_percentage": 72.72727272727273,
+        "perfect_percentage": 18.181818181818183,
+        "error_percentage": 13.636363636363635,
+        "average_pass_rating": 1.97708333325
+    },
+    {
+        "match": "frb-vli",
+        "player": "Gustav",
+        "pass-attempt": 2,
+        "positive_percentage": 100.0,
+        "perfect_percentage": 100.0,
+        "error_percentage": 0.0,
+        "average_pass_rating": 3.0
+    },
+    {
+        "match": "frb-vli",
+        "player": "Kristian",
+        "pass-attempt": 1,
+        "positive_percentage": 100.0,
+        "perfect_percentage": 0.0,
+        "error_percentage": 0.0,
+        "average_pass_rating": 2.0
+    },
+    {
+        "match": "frb-vli",
+        "player": "Nicola",
+        "pass-attempt": 20,
+        "positive_percentage": 85.0,
+        "perfect_percentage": 25.0,
+        "error_percentage": 0.0,
+        "average_pass_rating": 2.125
+    },
+    {
+        "match": "frb-vli",
+        "player": "Vestbjerg",
+        "pass-attempt": 15,
+        "positive_percentage": 60.0,
+        "perfect_percentage": 20.0,
+        "error_percentage": 13.333333333333334,
+        "average_pass_rating": 1.6363636365
+    },
+    {
+        "match": "gentofte-frb",
+        "player": "Alex",
+        "pass-attempt": 28,
+        "positive_percentage": 82.14285714285714,
+        "perfect_percentage": 39.285714285714285,
+        "error_percentage": 0.0,
+        "average_pass_rating": 2.2566666668
+    },
+    {
+        "match": "gentofte-frb",
+        "player": "Bo",
+        "pass-attempt": 1,
+        "positive_percentage": 0.0,
+        "perfect_percentage": 0.0,
+        "error_percentage": 100.0,
+        "average_pass_rating": 0.0
+    },
+    {
+        "match": "gentofte-frb",
+        "player": "Boerme",
+        "pass-attempt": 16,
+        "positive_percentage": 68.75,
+        "perfect_percentage": 50.0,
+        "error_percentage": 6.25,
+        "average_pass_rating": 2.4416666667999998
+    },
+    {
+        "match": "gentofte-frb",
+        "player": "Bosse",
+        "pass-attempt": 1,
+        "positive_percentage": 100.0,
+        "perfect_percentage": 0.0,
+        "error_percentage": 0.0,
+        "average_pass_rating": 2.0
+    },
+    {
+        "match": "gentofte-frb",
+        "player": "Nicola",
+        "pass-attempt": 15,
+        "positive_percentage": 60.0,
+        "perfect_percentage": 20.0,
+        "error_percentage": 0.0,
+        "average_pass_rating": 1.7045454544999998
+    },
+    {
+        "match": "gentofte-frb",
+        "player": "Vestbjerg",
+        "pass-attempt": 24,
+        "positive_percentage": 66.66666666666666,
+        "perfect_percentage": 25.0,
+        "error_percentage": 12.5,
+        "average_pass_rating": 1.9180555556666665
+    }
+]

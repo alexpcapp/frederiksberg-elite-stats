@@ -13,7 +13,7 @@ function cleanData(data) {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
-    const gameSelect = document.getElementById("gameSelector");
+    //const gameSelect = document.getElementById("gameSelector");
     let jsonData = [];
 
     // Load JSON data
@@ -27,8 +27,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Populate dropdown with unique games
     function populateGameDropdown(data) {
-        const gameSelect = document.getElementById("gameSelector"); // Ensure gameSelect is defined
-        gameSelect.innerHTML = '<option value="all">All Games</option>'; // Reset with default option
+        const gameSelect = document.getElementById("gameSelector");
+        gameSelect.innerHTML = '<option value="all-matches">All Games</option>'; // Reset with default option
 
         const games = [...new Set(data.map(item => item.match))]; // Get unique game names
 
@@ -38,17 +38,21 @@ document.addEventListener("DOMContentLoaded", function () {
             option.textContent = game;
             gameSelect.appendChild(option);
         });
-
-        gameSelect.addEventListener("change", () => updateTables(data)); // Update table on change
     }
+
+    // Attach event listener to dropdown only once
+    const gameSelect = document.getElementById("gameSelector");
+    gameSelect.addEventListener("change", () => updateTables(jsonData)); // Update table on change
 });
 
 // Function to filter and update the table
 function updateTables(data) {
     const selectedGame = document.getElementById("gameSelector").value;
-    
-    // Filter the data based on selected game
-    const filteredData = selectedGame === "all" ? data : data.filter(item => item.match === selectedGame);
+
+    // Filter or show combined data if 'All Games' is selected
+    const filteredData = selectedGame === "all-matches"
+        ? data.filter(item => item.match === "all-matches")
+        : data.filter(item => item.match === selectedGame);
 
     createTable(filteredData);  // Re-render table with filtered data
 }
@@ -64,6 +68,7 @@ async function createTable(filteredData) {
         const tableBody = document.getElementById('per-game-attack-body');
 
         const columnRenames = {
+            "match": "Match",
             "player": "Player",
             "pass-attempt": "Number of passes",
             //"positive_percentage": "Positive %",
@@ -82,7 +87,7 @@ async function createTable(filteredData) {
         headers.forEach((header, index) => {
             const th = document.createElement('th');
             th.textContent = columnRenames[header] || header;
-            th.style.textAlign = "center"; 
+            th.style.textAlign = "center";
 
             // Inline CSS for column width
             if (index === 0) {
@@ -102,33 +107,32 @@ async function createTable(filteredData) {
 
             headers.forEach((header, index) => {
                 const td = document.createElement('td');
-                
+
                 let cellValue = row[header];
 
-                if (index === 0) {
+                if (index === 0 || index === 1) {
                     td.style.textAlign = "left"; // Align player names to the left
                 }
 
-                if (index === 1) {
+                if (index >= 2 && index <= 7) {
                     td.style.textAlign = "right"; // Align values right
                 }
 
                 // Apply formatting to columns 5 and 6 (index 4 and 5)
-                if (index === 2 || index === 3 || index === 4) {
-                    // Assuming the value is a decimal (e.g., 0.85 for 85%)
+                if (index === 5 || index === 6) {
                     cellValue = (cellValue).toFixed(0) + "%";
-                } else if (index === 5) {
-                    cellValue = cellValue.toFixed(2);
+                } else if (index === 7) {
+                    cellValue = cellValue.toFixed(3);
                 }
-        
+
                 td.textContent = cellValue;
-        
+
                 tr.appendChild(td);
             });
             tableBody.appendChild(tr);
         });
 
-        // If DataTable already exists, just reload the data and update it
+        // If DataTable already exists, clear the rows and add new data
         if (dataTableInstance) {
             // Clear existing rows
             dataTableInstance.clear();
@@ -137,12 +141,12 @@ async function createTable(filteredData) {
             // Redraw the table
             dataTableInstance.draw();
         } else {
-            // Initialize the table with DataTables if it's not already initialized
+            // Initialize the table with DataTables
             dataTableInstance = $(tableContainer).DataTable({
                 "lengthChange": false,  // Disables the entries dropdown
                 "searching": false,
                 ordering: true,
-                order: [[5, 'desc']]  // Order by column 5 (0-based)
+                order: [[5, 'desc']],  // Order by column 5 (0-based)
             });
         }
 
@@ -152,5 +156,4 @@ async function createTable(filteredData) {
 }
 
 // Initialize the table creation for the first time
-// This function gets called after data is loaded
 createTable([]);

@@ -12,7 +12,7 @@
     <script type="module"src="../js-modules/top-scorer.js" defer></script>
     <script type="module"src="../js-modules/player-offense-summary.js" defer></script>
     <script type="module"src="../js-modules/player-reception-summary.js" defer></script>
-    <script type="module" src="../js-modules/per-game-tables.js" defer></script>
+    <script type="module" src="../js-modules/per-game-tables2.js" defer></script>
 
     <script type="module"src="../js-modules/tab-layout.js" defer></script>
 
@@ -99,17 +99,29 @@
 
             <!-- Dropdown to select games -->
             <label for="games-select"></label>
-            <select id="gameSelector" multiple>
-                <option value="all" selected>All Matches</option>
-            </select>
+                <select id="gameSelector" multiple>
+                    <option value="all" selected>All Matches</option>
+                </select>
+            
 
-            <table id="dataTablePerGameAttack" class=""display>
-                <thead>
-                    <tr id="per-game-attack-header"></tr>
-                </thead>
-                <tbody id="per-game-attack-body"></tbody>
-            </table>
+            <h2>Offensive stats</h2>
 
+                <table id="dataTablePerGameAttack" class="display">
+                    <thead>
+                        <tr id="per-game-attack-header"></tr>
+                    </thead>
+                    <tbody id="per-game-attack-body"></tbody>
+                </table>
+
+
+            <h2>Passing stats</h2>
+
+                <table id="dataTablePerGamePassing" class="display">
+                    <thead>
+                        <tr id="per-game-passing-header"></tr>
+                    </thead>
+                    <tbody id="per-game-passing-body"></tbody>
+                </table>
 
         </section>
     </div>
