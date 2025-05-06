@@ -5,7 +5,7 @@
         "error_percentage": 6.282722513089005,
         "positive_percentage": 68.06282722513089,
         "perfect_percentage": 31.413612565445025,
-        "average_pass_rating": 1.8943289068189189
+        "average_pass_rating": 1.6688135607690475
     },
     {
         "player": "Boerme",
@@ -13,15 +13,15 @@
         "error_percentage": 8.333333333333332,
         "positive_percentage": 66.66666666666666,
         "perfect_percentage": 30.952380952380953,
-        "average_pass_rating": 1.0295045044783784
+        "average_pass_rating": 0.9069444444214286
     },
     {
         "player": "Bosse",
-        "pass-attempt": 19,
-        "error_percentage": 10.526315789473683,
-        "positive_percentage": 52.63157894736842,
-        "perfect_percentage": 21.052631578947366,
-        "average_pass_rating": 0.21734234235135133
+        "pass-attempt": 21,
+        "error_percentage": 9.523809523809524,
+        "positive_percentage": 52.38095238095239,
+        "perfect_percentage": 23.809523809523807,
+        "average_pass_rating": 0.2867063492142857
     },
     {
         "player": "Frederik",
@@ -29,15 +29,15 @@
         "error_percentage": 28.57142857142857,
         "positive_percentage": 28.57142857142857,
         "perfect_percentage": 14.285714285714285,
-        "average_pass_rating": 0.060150375947368426
+        "average_pass_rating": 0.047619047625
     },
     {
         "player": "Mikkel",
-        "pass-attempt": 36,
-        "error_percentage": 11.11111111111111,
-        "positive_percentage": 61.111111111111114,
-        "perfect_percentage": 16.666666666666664,
-        "average_pass_rating": 0.5179824561578947
+        "pass-attempt": 62,
+        "error_percentage": 6.451612903225806,
+        "positive_percentage": 66.12903225806451,
+        "perfect_percentage": 14.516129032258066,
+        "average_pass_rating": 0.81284722225
     },
     {
         "player": "Nico",
@@ -45,22 +45,22 @@
         "error_percentage": 0.0,
         "positive_percentage": 75.0,
         "perfect_percentage": 25.0,
-        "average_pass_rating": 0.16216216216216217
+        "average_pass_rating": 0.14285714285714285
     },
     {
         "player": "Nicola",
-        "pass-attempt": 132,
-        "error_percentage": 3.787878787878788,
-        "positive_percentage": 67.42424242424242,
-        "perfect_percentage": 23.484848484848484,
-        "average_pass_rating": 1.256959556918919
+        "pass-attempt": 168,
+        "error_percentage": 3.571428571428571,
+        "positive_percentage": 69.04761904761905,
+        "perfect_percentage": 27.380952380952383,
+        "average_pass_rating": 1.3579167525238094
     },
     {
         "player": "Vestbjerg",
-        "pass-attempt": 149,
-        "error_percentage": 12.080536912751679,
-        "positive_percentage": 58.38926174496645,
-        "perfect_percentage": 22.818791946308725,
-        "average_pass_rating": 1.0108697983783783
+        "pass-attempt": 177,
+        "error_percentage": 10.16949152542373,
+        "positive_percentage": 58.19209039548022,
+        "perfect_percentage": 23.728813559322035,
+        "average_pass_rating": 1.0587911427380952
     }
 ]

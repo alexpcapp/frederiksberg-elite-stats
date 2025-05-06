@@ -29,11 +29,11 @@
     {
         "match": "all-matches",
         "player": "Bosse",
-        "pass-attempt": 19,
-        "positive_percentage": 52.63157894736842,
-        "perfect_percentage": 21.052631578947366,
-        "error_percentage": 10.526315789473683,
-        "average_pass_rating": 1.6083333333999998
+        "pass-attempt": 21,
+        "positive_percentage": 52.38095238095239,
+        "perfect_percentage": 23.809523809523807,
+        "error_percentage": 9.523809523809524,
+        "average_pass_rating": 1.7202380952857141
     },
     {
         "match": "all-matches",
@@ -64,12 +64,21 @@
     },
     {
         "match": "all-matches",
+        "player": "Martin",
+        "pass-attempt": 1,
+        "positive_percentage": 100.0,
+        "perfect_percentage": 0.0,
+        "error_percentage": 0.0,
+        "average_pass_rating": 2.0
+    },
+    {
+        "match": "all-matches",
         "player": "Mikkel",
-        "pass-attempt": 36,
-        "positive_percentage": 61.111111111111114,
-        "perfect_percentage": 16.666666666666664,
-        "error_percentage": 11.11111111111111,
-        "average_pass_rating": 1.6402777778333333
+        "pass-attempt": 62,
+        "positive_percentage": 66.12903225806451,
+        "perfect_percentage": 14.516129032258066,
+        "error_percentage": 6.451612903225806,
+        "average_pass_rating": 1.7734848485454544
     },
     {
         "match": "all-matches",
@@ -83,20 +92,20 @@
     {
         "match": "all-matches",
         "player": "Nicola",
-        "pass-attempt": 132,
-        "positive_percentage": 67.42424242424242,
-        "perfect_percentage": 23.484848484848484,
-        "error_percentage": 3.787878787878788,
-        "average_pass_rating": 1.86030014424
+        "pass-attempt": 168,
+        "positive_percentage": 69.04761904761905,
+        "perfect_percentage": 27.380952380952383,
+        "error_percentage": 3.571428571428571,
+        "average_pass_rating": 1.9010834535333332
     },
     {
         "match": "all-matches",
         "player": "Vestbjerg",
-        "pass-attempt": 149,
-        "positive_percentage": 58.38926174496645,
-        "perfect_percentage": 22.818791946308725,
-        "error_percentage": 12.080536912751679,
-        "average_pass_rating": 1.6261818495652174
+        "pass-attempt": 177,
+        "positive_percentage": 58.19209039548022,
+        "perfect_percentage": 23.728813559322035,
+        "error_percentage": 10.16949152542373,
+        "average_pass_rating": 1.6470084442592592
     },
     {
         "match": "avk-frb",
@@ -547,5 +556,50 @@
         "perfect_percentage": 22.22222222222222,
         "error_percentage": 11.11111111111111,
         "average_pass_rating": 1.6564814813333333
+    },
+    {
+        "match": "koge-frb",
+        "player": "Bosse",
+        "pass-attempt": 2,
+        "positive_percentage": 50.0,
+        "perfect_percentage": 50.0,
+        "error_percentage": 0.0,
+        "average_pass_rating": 2.0
+    },
+    {
+        "match": "koge-frb",
+        "player": "Martin",
+        "pass-attempt": 1,
+        "positive_percentage": 100.0,
+        "perfect_percentage": 0.0,
+        "error_percentage": 0.0,
+        "average_pass_rating": 2.0
+    },
+    {
+        "match": "koge-frb",
+        "player": "Mikkel",
+        "pass-attempt": 26,
+        "positive_percentage": 73.07692307692307,
+        "perfect_percentage": 11.538461538461538,
+        "error_percentage": 0.0,
+        "average_pass_rating": 1.9333333334000002
+    },
+    {
+        "match": "koge-frb",
+        "player": "Nicola",
+        "pass-attempt": 36,
+        "positive_percentage": 75.0,
+        "perfect_percentage": 41.66666666666667,
+        "error_percentage": 2.7777777777777777,
+        "average_pass_rating": 2.105
+    },
+    {
+        "match": "koge-frb",
+        "player": "Vestbjerg",
+        "pass-attempt": 28,
+        "positive_percentage": 57.14285714285714,
+        "perfect_percentage": 28.57142857142857,
+        "error_percentage": 0.0,
+        "average_pass_rating": 1.7667613637500001
     }
 ]

@@ -760,6 +760,66 @@
         "kill_effic": 0.036
     },
     {
+        "match": "koge-frb",
+        "player": "Bosse",
+        "attack_attempts": 15,
+        "total_kills": 7,
+        "attack_errors": 2,
+        "kill_pct": 47,
+        "error_pct": 13,
+        "kill_effic": 0.333
+    },
+    {
+        "match": "koge-frb",
+        "player": "Kristian",
+        "attack_attempts": 22,
+        "total_kills": 11,
+        "attack_errors": 3,
+        "kill_pct": 50,
+        "error_pct": 14,
+        "kill_effic": 0.364
+    },
+    {
+        "match": "koge-frb",
+        "player": "Mads",
+        "attack_attempts": 15,
+        "total_kills": 2,
+        "attack_errors": 0,
+        "kill_pct": 13,
+        "error_pct": 0,
+        "kill_effic": 0.133
+    },
+    {
+        "match": "koge-frb",
+        "player": "Martin",
+        "attack_attempts": 45,
+        "total_kills": 16,
+        "attack_errors": 11,
+        "kill_pct": 36,
+        "error_pct": 24,
+        "kill_effic": 0.111
+    },
+    {
+        "match": "koge-frb",
+        "player": "Mikkel",
+        "attack_attempts": 32,
+        "total_kills": 16,
+        "attack_errors": 5,
+        "kill_pct": 50,
+        "error_pct": 16,
+        "kill_effic": 0.344
+    },
+    {
+        "match": "koge-frb",
+        "player": "Nicola",
+        "attack_attempts": 40,
+        "total_kills": 17,
+        "attack_errors": 7,
+        "kill_pct": 42,
+        "error_pct": 18,
+        "kill_effic": 0.25
+    },
+    {
         "match": "all-matches",
         "player": "Ando",
         "attack_attempts": 7,
@@ -792,12 +852,12 @@
     {
         "match": "all-matches",
         "player": "Bosse",
-        "attack_attempts": 12,
-        "total_kills": 2,
-        "attack_errors": 3,
-        "kill_pct": 17,
-        "error_pct": 25,
-        "kill_effic": -0.083
+        "attack_attempts": 27,
+        "total_kills": 9,
+        "attack_errors": 5,
+        "kill_pct": 33,
+        "error_pct": 19,
+        "kill_effic": 0.148
     },
     {
         "match": "all-matches",
@@ -822,12 +882,12 @@
     {
         "match": "all-matches",
         "player": "Kristian",
-        "attack_attempts": 51,
-        "total_kills": 24,
-        "attack_errors": 5,
-        "kill_pct": 47,
-        "error_pct": 10,
-        "kill_effic": 0.373
+        "attack_attempts": 73,
+        "total_kills": 35,
+        "attack_errors": 8,
+        "kill_pct": 48,
+        "error_pct": 11,
+        "kill_effic": 0.37
     },
     {
         "match": "all-matches",
@@ -842,32 +902,32 @@
     {
         "match": "all-matches",
         "player": "Mads",
-        "attack_attempts": 6,
-        "total_kills": 1,
+        "attack_attempts": 21,
+        "total_kills": 3,
         "attack_errors": 0,
-        "kill_pct": 17,
+        "kill_pct": 14,
         "error_pct": 0,
-        "kill_effic": 0.167
+        "kill_effic": 0.143
     },
     {
         "match": "all-matches",
         "player": "Martin",
-        "attack_attempts": 145,
-        "total_kills": 62,
-        "attack_errors": 29,
-        "kill_pct": 43,
-        "error_pct": 20,
-        "kill_effic": 0.228
+        "attack_attempts": 190,
+        "total_kills": 78,
+        "attack_errors": 40,
+        "kill_pct": 41,
+        "error_pct": 21,
+        "kill_effic": 0.2
     },
     {
         "match": "all-matches",
         "player": "Mikkel",
-        "attack_attempts": 32,
-        "total_kills": 12,
-        "attack_errors": 11,
-        "kill_pct": 38,
-        "error_pct": 34,
-        "kill_effic": 0.031
+        "attack_attempts": 64,
+        "total_kills": 28,
+        "attack_errors": 16,
+        "kill_pct": 44,
+        "error_pct": 25,
+        "kill_effic": 0.188
     },
     {
         "match": "all-matches",
@@ -882,12 +942,12 @@
     {
         "match": "all-matches",
         "player": "Nicola",
-        "attack_attempts": 178,
-        "total_kills": 70,
-        "attack_errors": 25,
-        "kill_pct": 39,
-        "error_pct": 14,
-        "kill_effic": 0.253
+        "attack_attempts": 218,
+        "total_kills": 87,
+        "attack_errors": 32,
+        "kill_pct": 40,
+        "error_pct": 15,
+        "kill_effic": 0.252
     },
     {
         "match": "all-matches",
