@@ -1,0 +1,66 @@
+[
+    {
+        "player": "Alex",
+        "pass-attempt": 228,
+        "error_percentage": 7.017543859649122,
+        "positive_percentage": 66.22807017543859,
+        "perfect_percentage": 32.45614035087719,
+        "average_pass_rating": 1.6453776099040816
+    },
+    {
+        "player": "Boerme",
+        "pass-attempt": 84,
+        "error_percentage": 8.333333333333332,
+        "positive_percentage": 66.66666666666666,
+        "perfect_percentage": 30.952380952380953,
+        "average_pass_rating": 0.7773809523612245
+    },
+    {
+        "player": "Bosse",
+        "pass-attempt": 21,
+        "error_percentage": 9.523809523809524,
+        "positive_percentage": 52.38095238095239,
+        "perfect_percentage": 23.809523809523807,
+        "average_pass_rating": 0.2457482993265306
+    },
+    {
+        "player": "Frederik",
+        "pass-attempt": 7,
+        "error_percentage": 28.57142857142857,
+        "positive_percentage": 28.57142857142857,
+        "perfect_percentage": 14.285714285714285,
+        "average_pass_rating": 0.03686635945161291
+    },
+    {
+        "player": "Mikkel",
+        "pass-attempt": 62,
+        "error_percentage": 6.451612903225806,
+        "positive_percentage": 66.12903225806451,
+        "perfect_percentage": 14.516129032258066,
+        "average_pass_rating": 0.6293010752903225
+    },
+    {
+        "player": "Nico",
+        "pass-attempt": 4,
+        "error_percentage": 0.0,
+        "positive_percentage": 75.0,
+        "perfect_percentage": 25.0,
+        "average_pass_rating": 0.12244897959183673
+    },
+    {
+        "player": "Nicola",
+        "pass-attempt": 200,
+        "error_percentage": 3.5000000000000004,
+        "positive_percentage": 69.0,
+        "perfect_percentage": 28.999999999999996,
+        "average_pass_rating": 1.4260763612448981
+    },
+    {
+        "player": "Vestbjerg",
+        "pass-attempt": 226,
+        "error_percentage": 9.29203539823009,
+        "positive_percentage": 59.73451327433629,
+        "perfect_percentage": 22.123893805309734,
+        "average_pass_rating": 1.1562696940408164
+    }
+]

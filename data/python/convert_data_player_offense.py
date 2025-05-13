@@ -6,7 +6,10 @@ from oauth2client.service_account import ServiceAccountCredentials
 import json
 
 
-def load_sheet(sheet_name="frb-volley-game-stats", worksheet_name="player-offense", creds_path="/Users/alexandercappelen/Documents/keys/frb-elite-88e4dcc7ec5c.json"):
+def load_offense_data(sheet_name="frb-volley-game-stats", worksheet_name="player-offense", creds_path="/Users/alexandercappelen/Documents/keys/frb-elite-88e4dcc7ec5c.json"):
+
+    print("Loading offense data...")
+
     scope = [
         "https://www.googleapis.com/auth/spreadsheets.readonly", 
         "https://www.googleapis.com/auth/drive.readonly"
@@ -56,16 +59,7 @@ def load_sheet(sheet_name="frb-volley-game-stats", worksheet_name="player-offens
 
     # Convert DataFrame to JSON
     data = summary.to_dict(orient="records")  # Convert DataFrame rows to list of dictionaries
-    with open("data/test-player-offense-per-game.json", "w") as f:
+    with open("data/player-offense-per-game.json", "w") as f:
         json.dump(data, f, indent=4)
 
-
-
-
-
-
-    
-    
-
-
-
+    print("Offense data loaded and saved to player-offense-per-game.json.")
