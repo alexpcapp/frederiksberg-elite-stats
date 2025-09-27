@@ -3,14 +3,17 @@
 from convert_data_player_offense import load_offense_data
 from convert_data_player_defense import load_defense_data
 from convert_data_top_scorer import load_top_scorer_data
-
+from convert_data_per_game import load_data_per_game
 
 def main():
+    
     load_offense_data()
 
     load_defense_data()
 
     load_top_scorer_data()
+
+    load_data_per_game()
 
 
 if __name__ == "__main__":
