@@ -100,7 +100,7 @@ select option {
 }
 
 #gameFilters select {
-    width: 10%; /* Control the width of the dropdown */
+    width: 50%; /* Control the width of the dropdown */
     font-size: 16px;  /* Ensures the font is readable */
     padding: 10px; /* Adds padding for better usability */
     margin-top: 10px;  /* Adds some spacing above */

@@ -16,7 +16,9 @@ function cleanData(data) {
 // Function to fetch data and create a table
 async function createTable() {
   try {
-    const response = await fetch('../data/player-offense-summary.json'); // Adjust path as needed
+    // const response = await fetch('../data/player-offense-summary.json'); // Adjust path as needed
+    const response = await fetch('../all_time_player_offense.json'); // Adjust path as needed
+
     const data = await response.json();
 
     if (!data.length) return;
@@ -43,8 +45,6 @@ async function createTable() {
     // Create headers with specific column widths
     const headers = Object.keys(data[0]);
 
-    
-
     headers.forEach((header, index) => {
       const th = document.createElement('th');
       th.textContent = columnRenames[header] || header;
@@ -56,8 +56,6 @@ async function createTable() {
         th.style.width = '100px';  // First column
         
       } 
-
-      
 
       tableHeader.appendChild(th);
     });
@@ -95,7 +93,7 @@ async function createTable() {
     if (tableContainer) {
       $(tableContainer).DataTable({
         paging: true,
-        searching: true,
+        searching: false,
         ordering: true,
         order: [[6, 'desc']]
       });

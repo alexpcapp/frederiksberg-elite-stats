@@ -1,136 +1,347 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Volleyball Team Stats</title>
-    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Frederiksberg Elite</title>
 
-    <link rel="stylesheet" href="../css/styles.css">
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script type="module" src="../js-modules/layout.js" defer></script>
-    <script type="module"src="../js-modules/top-scorer.js" defer></script>
-    <script type="module"src="../js-modules/player-offense-summary.js" defer></script>
-    <script type="module"src="../js-modules/player-reception-summary.js" defer></script>
-    <script type="module" src="../js-modules/per-game-tables2.js" defer></script>
+  <!-- DataTables -->
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
 
-    <script type="module"src="../js-modules/tab-layout.js" defer></script>
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js" defer></script>
-    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js" defer></script>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      margin: 20px;
+      background: #fafafa;
+    }
+    h1 {
+      margin-bottom: 10px;
+    }
+    .season-selector {
+      margin-bottom: 20px;
+    }
+    #topScorer {
+      font-weight: 600;
+      margin-bottom: 10px;
+      font-size: 1em;
+    }
+
+    /* Tabs */
+    .tabs {
+      margin-bottom: 15px;
+    }
+    .tab-button {
+      border: none;
+      background: #eee;
+      padding: 8px 16px;
+      margin-right: 5px;
+      cursor: pointer;
+      font-weight: 600;
+      border-radius: 5px;
+    }
+    .tab-button.active {
+      background: #0047ab;;
+      color: white;
+    }
+
+    /* Table styling */
+    #statsTable {
+      font-size: 0.85rem;
+      border-collapse: collapse;
+      width: 80%;
+      table-layout: auto;
+    }
+    #statsTable thead th {
+      font-weight: 600;
+      font-size: 0.8rem;
+      /* text-transform: uppercase; */
+    }
+    #statsTable tbody td {
+      padding: 6px 8px;
+    }
+
+    #statsTable td, #statsTable th {
+        text-align: right; /* all numeric columns */
+    }
+
+    #statsTable td:first-child, #statsTable th:first-child {
+        text-align: left; /* first column (player names) */
+    }
+
+    .stats-container {
+        max-width: 800px;  /* choose a comfortable width */
+        margin: 0 auto;    /* center on the page */
+        padding-bottom: 200px;  /* optional extra space */
+
+    }
+
+    .top-controls {
+        display: flex;
+        flex-direction: column;   /* stack topScorer and tabs vertically */
+        align-items: center;      /* center horizontally */
+        margin-bottom: 20px;
+    }
+
+    #topScorer {
+        font-weight: 600;
+        margin-bottom: 10px;
+        font-size: 1.1em;
+        text-align: center;
+    }
+
+    .tabs {
+        display: flex;
+        gap: 10px;               /* space between buttons */
+        flex-wrap: wrap;          /* wrap on small screens */
+        justify-content: center;  /* center buttons */
+    }
+
+    canvas {
+      margin-top: 20px;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      padding: 10px;
+      width: 100% !important;
+      height: auto !important;
+      max-height: 400px;
+    }
+  </style>
 </head>
 <body>
-    <header>
-        <h1> Frederiksberg Elite <br>  Player Statistics</h1>
-        <nav>
-            <a href="../frederiksberg_stats/index.html">Frederiksberg Stats</a>
-            <a href="../individual_stats/index.html">Players</a>
-            <!-- <a href="../match_stats/index.html">1. Division</a> -->
-        </nav>
-    </header>
+  <h1>Frederiksberg Elite</h1>
 
-    <main>
-    </main>
+  <div class="season-selector">
+    <label for="season">Select season:</label>
+    <select id="season">
+      <option value="2025_2026" selected>2025/2026</option>
+      <option value="2024_2025">2024/2025</option>
+      <option value="all_time">All Time</option>
+    </select>
+  </div>
 
-    <div class="tab-container">
-        <button class="tab active" onclick="showTab(0)">Top Scorer</button>
-        <button class="tab" onclick="showTab(1)">Player Offense</button>
-        <button class="tab" onclick="showTab(2)">Reception</button>
-        <button class="tab" onclick="showTab(3)">Stats per game</button>
+  <div class="top-controls">
 
+  <div class="tabs">
+        <button class="tab-button active" data-stat="top_scorer">Top Scorers</button>
+        <button class="tab-button" data-stat="top_offense">Most Kills</button>
+        <button class="tab-button" data-stat="top_blocker">Most Blocks</button>
+        <button class="tab-button" data-stat="top_digger">Most Digs</button>
+        <button class="tab-button" data-stat="top_server">Most Aces</button>
     </div>
-    
-    <div id="tab-0" class="tab-content active">
-        <h1>Top scorer</h1>
+        <div id="topScorer"></div>
 
-    
-        <section class="thematic-section">
-    
-            <p class="table-description">Here, all point contributions are combined. In general three categories are counted - serve points, hitting points, and block points. Notice that when a block with more than one blocker is awarded a point, each player receives a whole point.</p>
-    
-            <p id="dropdown-explanation">Filter games with the menu:</p>
-                <div id="gameFilters">
-                    <!-- Dropdown menu for game selection will be populated dynamically -->
-                </div>
-    
-            <canvas id="topScorerChart"></canvas>
-        </section>
+  </div>
 
-    </div>
-    
-    <div id="tab-1" class="tab-content" style="overflow-x: auto; width: 100%;">
-        <section class="thematic-section">
-    
-            <h1>Player offense</h1>
-    
-            <p class="table-description">The player offense statistics are based on attacking attempts, attacking points, and attacking errors. The kill and error percentage divides the number of kills or errors with the number of attacking attempts. The kill efficiency substracts the number of errors from the number of kills, and then divides with the number of attacking attempts.</p>
-    
-            <table id="dataTableOffenseSummary" class="display">
-                <thead>
-                  <tr id="offense-table-header"></tr>
-                </thead>
-                <tbody id="offense-table-body"></tbody>
-            </table>
-    
-        </section>
+    <div class="stats-container">
+        <canvas id="pointsChart"></canvas>
+        <table id="statsTable" class="display" style="width:50%">
+            <thead>
+                <tr></tr>
+            </thead>
+            <tbody></tbody>
+        </table>
     </div>
 
-    <div id="tab-2" class="tab-content">
-        <section class="thematic-section">
+  <script>
+
     
-            <h1>Player reception</h1>
+    const seasonSelect = document.getElementById("season");
+    const tabButtons = document.querySelectorAll(".tab-button");
+    const topScorerDiv = document.getElementById("topScorer");
+    let currentSeason = seasonSelect.value;
+    let currentStat = "top_scorer";
+    let dataTable;
+    let chart;
 
-            <p class="table-description">The table shows passing statistics for the passing players (outsides and libero). The error percentage includes serve aces, that happen near the player as well as overpasses, that the opposing team directly kills on the first touch. The positive percentage shows the percentage of the passes of the player, that are counted as either a 2-pass or 3-pass, while the perfect percentage shows the share of 3-passes. Pass rating indicates the average passing rate, ranging from 0 to 3. </p>
+    // Mapping for which columns to show per stat
+    const statColumns = {
+      top_scorer: ["player","total_earned","points_per_set","points_per_match"],
+      top_offense: ["player","total_kills","kill_percentage","hitting_efficiency"],
+      top_blocker: ["player","blocks","blocks_per_set"],
+      top_digger: ["player","digs","digs_per_set"],
+      top_server: ["player","aces","serve_efficiency", "ace_percentage"]
+    };
 
-            <table id="dataTableReceptionSummary" class="display">
-                <thead>
-                  <tr id="reception-table-header"></tr>
-                </thead>
-                <tbody id="reception-table-body"></tbody>
-            </table>
+    // Column headers for table
+    const columnHeaders = {
+      top_scorer: ["Player","Total Points","Points/Set","Points/Match"],
+      top_offense: ["Player","Total Kills","Kill %","Hitting Efficiency"],
+      top_blocker: ["Player","Total Blocks","Blocks/Set"],
+      top_digger: ["Player","Total Digs","Digs/Set"],
+      top_server: ["Player","Total Aces","Serve Efficiency", "Ace %"]
+    };
+
+    function getFilePath(season, stat) {
+      if (season === "all_time") {
+        return `../all_time_${stat}.json`;
+      } else {
+        return `../${season}_${stat}.json`;
+      }
+    }
+
+    function loadStats(season, stat) {
+      const filePath = getFilePath(season, stat);
+      fetch(filePath)
+        .then(resp => resp.json())
+        .then(data => displayStats(data))
+        .catch(err => {
+          console.error("Error loading data", err);
+          topScorerDiv.textContent = "Error loading data.";
+        });
+    }
+
+    function displayStats(data) {
+      // Sort by first numeric column descending (usually total points/blocks/etc)
+      const firstNumericKey = statColumns[currentStat][1];
+      const sorted = data.sort((a,b)=> b[firstNumericKey] - a[firstNumericKey]);
+
+      // Display top player
+
+      const topLabels = {
+            top_scorer: "points",
+            top_blocker: "blocks",
+            top_digger: "digs",
+            top_server: "aces"
+        };
+
+      const label = topLabels[currentStat] || "points";
+
+      const topPlayer = sorted[0];
+      topScorerDiv.textContent = `🏆 Top ${currentStat.replace("top_","").replace("_"," ")}: ${topPlayer.player} — ${topPlayer[firstNumericKey]} ${label}`;
+
+      // Table data
+      const cols = statColumns[currentStat];
+      const headers = columnHeaders[currentStat];
     
-        </section>
-    </div>
-
-    <div id="tab-3" class="tab-content active">
-        <section class="thematic-section">
+    // Define which columns are integers
+        const formatters = {
+            // Count columns → integers
+            total_earned: v => Math.round(v),
+            total_errors: v => Math.round(v),
+            total_blocks: v => Math.round(v),
+            total_digs: v => Math.round(v),
+            total_aces: v => Math.round(v),
             
-            <h1>Statistics per game</h1>
+            // Ratios / averages → 2 decimals
+            points_per_set: v => v.toFixed(2),
+            points_per_match: v => v.toFixed(2),
+            errors_per_set: v => v.toFixed(2),
+            errors_per_match: v => v.toFixed(2),
+            blocks_per_set: v => v.toFixed(2),
+            digs_per_set: v => v.toFixed(2),
+            aces_per_set: v => v.toFixed(2),
 
-            <!-- Dropdown to select games -->
-            <label for="games-select"></label>
-                <select id="gameSelector" multiple>
-                    <option value="all" selected>All Matches</option>
-                </select>
-            
+            // Percentages (example: 0.45 → 45%)
+            ace_percentage: v => (v).toFixed(0) + "%",
+            kill_percentage: v => (v).toFixed(0) + "%",
 
-            <h2>Offensive stats</h2>
+            // Ratios like ".123" → show 3 decimals
+            serve_efficiency: v => v.toFixed(3),
+            hitting_efficiency: v => v.toFixed(3)
+        };
 
-                <table id="dataTablePerGameAttack" class="display">
-                    <thead>
-                        <tr id="per-game-attack-header"></tr>
-                    </thead>
-                    <tbody id="per-game-attack-body"></tbody>
-                </table>
+        const tableData = sorted.map(p =>
+            cols.map(k => {
+                if (typeof p[k] === "number" && formatters[k]) {
+                return formatters[k](p[k]);
+                }
+                return p[k]; // non-numbers stay as-is
+            })
+            );
+
+      // Update table headers
+      const thead = document.querySelector("#statsTable thead tr");
+      thead.innerHTML = "";
+      headers.forEach(h => {
+        const th = document.createElement("th");
+        th.textContent = h;
+        thead.appendChild(th);
+      });
+
+      // Destroy old table
+        const table = $("#statsTable");
+
+        // Completely remove DataTable and all table contents
+        if ($.fn.DataTable.isDataTable(table)) {
+                table.DataTable().clear().destroy();
+            }
+
+        // Clear both <thead> and <tbody>
+        table.find("thead").empty();
+        table.find("tbody").empty();
+
+        
+        
+
+      dataTable = $('#statsTable').DataTable({
+        data: tableData,
+        columns: headers.map(h => ({title:h})),
+        order: [[1,'desc']],
+        paging:false,
+        info:false,
+        searching:false
+      });
 
 
-            <h2>Passing stats</h2>
+      // Chart
+      const labels = sorted.map(p => p.player);
+      const values = sorted.map(p => p[firstNumericKey]);
+      const fontSize = window.innerWidth < 600 ? 12 : 14;
 
-                <table id="dataTablePerGamePassing" class="display">
-                    <thead>
-                        <tr id="per-game-passing-header"></tr>
-                    </thead>
-                    <tbody id="per-game-passing-body"></tbody>
-                </table>
+      if (chart) chart.destroy();
+      const ctx = document.getElementById("pointsChart").getContext("2d");
+      chart = new Chart(ctx, {
+        type:"bar",
+        data:{
+          labels:labels,
+          datasets:[{
+            label: headers[1],
+            data:values,
+            backgroundColor:"#0047ab",
+            borderColor:"#0047ab",
+            borderWidth:1
+          }]
+        },
+        options:{
+          indexAxis:"y",
+          responsive:true,
+          maintainAspectRatio:false,
+          plugins:{
+            legend:{display:false},
+            title:{display:true, text:headers[1] + " by Player", font:{size:fontSize+2}}
+          },
+          scales:{
+            x:{beginAtZero:true, ticks:{font:{size:fontSize}}},
+            y:{ticks:{font:{size:fontSize}, autoSkip:false}}
+          }
+        }
+      });
+    }
 
-        </section>
-    </div>
+    // Tab click handler
+    tabButtons.forEach(btn => {
+      btn.addEventListener("click", () => {
+        tabButtons.forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        currentStat = btn.dataset.stat;
+        loadStats(currentSeason, currentStat);
+      });
+    });
 
-  <!-- footer from here on -->
+    // Season selector handler
+    seasonSelect.addEventListener("change", () => {
+      currentSeason = seasonSelect.value;
+      loadStats(currentSeason, currentStat);
+    });
 
-    <footer>
-        <p>&copy; 2025 FØL</p>
-    </footer>
-
+    // Initial load
+    loadStats(currentSeason, currentStat);
+  </script>
 </body>
 </html>

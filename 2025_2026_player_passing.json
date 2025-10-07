@@ -1,0 +1,26 @@
+[
+  {
+    "player":"Bosse",
+    "pass-attempt":22,
+    "error_pct":4.5454545455,
+    "positive_pct":68.1818181818,
+    "perfect_pct":18.1818181818,
+    "average_pass_rating":1.8
+  },
+  {
+    "player":"Hjorth",
+    "pass-attempt":21,
+    "error_pct":0.0,
+    "positive_pct":85.7142857143,
+    "perfect_pct":57.1428571429,
+    "average_pass_rating":2.43
+  },
+  {
+    "player":"Nicola",
+    "pass-attempt":19,
+    "error_pct":5.2631578947,
+    "positive_pct":84.2105263158,
+    "perfect_pct":21.0526315789,
+    "average_pass_rating":2.0
+  }
+]

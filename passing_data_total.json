@@ -1,0 +1,74 @@
+[
+  {
+    "player":"Nico Lang",
+    "pass-attempt":4,
+    "error_percentage":" 0.0%",
+    "positive_percentage":50.0,
+    "perfect_percentage":" 25.0%",
+    "average_pass_rating":" 2.00"
+  },
+  {
+    "player":"Bosse",
+    "pass-attempt":43,
+    "error_percentage":" 7.0%",
+    "positive_percentage":39.5348837209,
+    "perfect_percentage":" 20.9%",
+    "average_pass_rating":" 1.73"
+  },
+  {
+    "player":"Boerme",
+    "pass-attempt":84,
+    "error_percentage":" 8.3%",
+    "positive_percentage":35.7142857143,
+    "perfect_percentage":" 31.0%",
+    "average_pass_rating":" 1.86"
+  },
+  {
+    "player":"Mikkel",
+    "pass-attempt":65,
+    "error_percentage":" 7.7%",
+    "positive_percentage":50.7692307692,
+    "perfect_percentage":" 13.8%",
+    "average_pass_rating":" 1.71"
+  },
+  {
+    "player":"Frederik",
+    "pass-attempt":7,
+    "error_percentage":" 28.6%",
+    "positive_percentage":14.2857142857,
+    "perfect_percentage":" 14.3%",
+    "average_pass_rating":" 1.14"
+  },
+  {
+    "player":"Nicola",
+    "pass-attempt":219,
+    "error_percentage":" 3.7%",
+    "positive_percentage":42.0091324201,
+    "perfect_percentage":" 28.3%",
+    "average_pass_rating":" 1.94"
+  },
+  {
+    "player":"Vestbjerg",
+    "pass-attempt":227,
+    "error_percentage":" 9.3%",
+    "positive_percentage":37.4449339207,
+    "perfect_percentage":" 22.0%",
+    "average_pass_rating":" 1.69"
+  },
+  {
+    "player":"Alex",
+    "pass-attempt":235,
+    "error_percentage":" 6.8%",
+    "positive_percentage":33.6170212766,
+    "perfect_percentage":" 33.2%",
+    "average_pass_rating":" 1.92"
+  },
+  {
+    "player":"Hjorth",
+    "pass-attempt":21,
+    "error_percentage":" 0.0%",
+    "positive_percentage":28.5714285714,
+    "perfect_percentage":" 57.1%",
+    "average_pass_rating":" 2.43"
+  }
+]

@@ -88,8 +88,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "positive_percentage": "Positive %",
                 "perfect_percentage": "Perfect %",
                 "error_percentage": "Error %",
-                "average_pass_rating": "Average Pass Rating"
-
+                "average_pass_rating": "Pass Rating"
             };
 
             // Rename headers if they exist in the mapping
