@@ -1,5 +1,13 @@
 [
   {
+    "player":"Alex",
+    "pass-attempt":25,
+    "error_pct":12.0,
+    "positive_pct":64.0,
+    "perfect_pct":20.0,
+    "average_pass_rating":1.68
+  },
+  {
     "player":"Bosse",
     "pass-attempt":22,
     "error_pct":4.5454545455,
@@ -17,10 +25,10 @@
   },
   {
     "player":"Nicola",
-    "pass-attempt":19,
-    "error_pct":5.2631578947,
-    "positive_pct":84.2105263158,
-    "perfect_pct":21.0526315789,
-    "average_pass_rating":2.0
+    "pass-attempt":37,
+    "error_pct":2.7027027027,
+    "positive_pct":75.6756756757,
+    "perfect_pct":21.6216216216,
+    "average_pass_rating":1.945
   }
 ]

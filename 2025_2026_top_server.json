@@ -20,6 +20,16 @@
     "points_won_percentage":30.0
   },
   {
+    "player":"Anton",
+    "average_serve_rating":2.24,
+    "aces":2,
+    "points_won_on_serve":10,
+    "serve_efficiency":-0.0476190476,
+    "ace_percentage":9.5238095238,
+    "error_percentage":14.2857142857,
+    "points_won_percentage":47.619047619
+  },
+  {
     "player":"Bo",
     "average_serve_rating":1.0,
     "aces":0,
@@ -31,13 +41,13 @@
   },
   {
     "player":"Bosse",
-    "average_serve_rating":null,
+    "average_serve_rating":2.0,
     "aces":0,
-    "points_won_on_serve":0,
-    "serve_efficiency":null,
-    "ace_percentage":null,
-    "error_percentage":null,
-    "points_won_percentage":null
+    "points_won_on_serve":7,
+    "serve_efficiency":0.0,
+    "ace_percentage":0.0,
+    "error_percentage":0.0,
+    "points_won_percentage":70.0
   },
   {
     "player":"Gustav",
@@ -60,23 +70,53 @@
     "points_won_percentage":30.7692307692
   },
   {
-    "player":"Martin",
-    "average_serve_rating":1.0,
+    "player":"Kristian Krag",
+    "average_serve_rating":1.36,
     "aces":0,
-    "points_won_on_serve":2,
-    "serve_efficiency":-0.5,
+    "points_won_on_serve":3,
+    "serve_efficiency":-0.2727272727,
     "ace_percentage":0.0,
-    "error_percentage":50.0,
-    "points_won_percentage":25.0
+    "error_percentage":27.2727272727,
+    "points_won_percentage":27.2727272727
+  },
+  {
+    "player":"Lasse Nielsen",
+    "average_serve_rating":1.53,
+    "aces":1,
+    "points_won_on_serve":8,
+    "serve_efficiency":-0.1578947368,
+    "ace_percentage":5.2631578947,
+    "error_percentage":21.0526315789,
+    "points_won_percentage":42.1052631579
+  },
+  {
+    "player":"Malthe",
+    "average_serve_rating":1.69,
+    "aces":0,
+    "points_won_on_serve":7,
+    "serve_efficiency":-0.0625,
+    "ace_percentage":0.0,
+    "error_percentage":6.25,
+    "points_won_percentage":43.75
+  },
+  {
+    "player":"Martin",
+    "average_serve_rating":1.135,
+    "aces":0,
+    "points_won_on_serve":5,
+    "serve_efficiency":-0.3157894737,
+    "ace_percentage":0.0,
+    "error_percentage":31.5789473684,
+    "points_won_percentage":26.3157894737
   },
   {
     "player":"Nicola",
-    "average_serve_rating":1.91,
-    "aces":0,
-    "points_won_on_serve":4,
-    "serve_efficiency":-0.0909090909,
-    "ace_percentage":0.0,
-    "error_percentage":9.0909090909,
-    "points_won_percentage":36.3636363636
+    "average_serve_rating":1.92,
+    "aces":1,
+    "points_won_on_serve":11,
+    "serve_efficiency":-0.0384615385,
+    "ace_percentage":3.8461538462,
+    "error_percentage":7.6923076923,
+    "points_won_percentage":42.3076923077
   }
 ]

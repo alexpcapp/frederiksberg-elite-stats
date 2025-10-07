@@ -18,6 +18,15 @@
     "hitting_efficiency":0.5714285714
   },
   {
+    "player":"Anton",
+    "attack_attempts":40,
+    "total_kills":15,
+    "attack_errors":7,
+    "kill_percentage":37.5,
+    "error_pct":17.5,
+    "hitting_efficiency":0.2
+  },
+  {
     "player":"Bo",
     "attack_attempts":37,
     "total_kills":14,
@@ -73,21 +82,21 @@
   },
   {
     "player":"Kristian Krag",
-    "attack_attempts":79,
-    "total_kills":37,
-    "attack_errors":11,
-    "kill_percentage":46.835443038,
-    "error_pct":13.9240506329,
-    "hitting_efficiency":0.3291139241
+    "attack_attempts":98,
+    "total_kills":46,
+    "attack_errors":13,
+    "kill_percentage":46.9387755102,
+    "error_pct":13.2653061224,
+    "hitting_efficiency":0.3367346939
   },
   {
     "player":"Lasse Nielsen",
-    "attack_attempts":56,
-    "total_kills":22,
-    "attack_errors":8,
-    "kill_percentage":39.2857142857,
-    "error_pct":14.2857142857,
-    "hitting_efficiency":0.25
+    "attack_attempts":61,
+    "total_kills":23,
+    "attack_errors":10,
+    "kill_percentage":37.7049180328,
+    "error_pct":16.393442623,
+    "hitting_efficiency":0.2131147541
   },
   {
     "player":"Mads Q",
@@ -99,13 +108,22 @@
     "hitting_efficiency":0.3636363636
   },
   {
+    "player":"Malthe",
+    "attack_attempts":19,
+    "total_kills":9,
+    "attack_errors":5,
+    "kill_percentage":47.3684210526,
+    "error_pct":26.3157894737,
+    "hitting_efficiency":0.2105263158
+  },
+  {
     "player":"Martin",
-    "attack_attempts":282,
-    "total_kills":122,
-    "attack_errors":51,
-    "kill_percentage":43.2624113475,
-    "error_pct":18.085106383,
-    "hitting_efficiency":0.2517730496
+    "attack_attempts":314,
+    "total_kills":133,
+    "attack_errors":59,
+    "kill_percentage":42.3566878981,
+    "error_pct":18.7898089172,
+    "hitting_efficiency":0.2356687898
   },
   {
     "player":"Mikkel",
@@ -127,12 +145,12 @@
   },
   {
     "player":"Nicola",
-    "attack_attempts":289,
-    "total_kills":118,
-    "attack_errors":41,
-    "kill_percentage":40.830449827,
-    "error_pct":14.1868512111,
-    "hitting_efficiency":0.2664359862
+    "attack_attempts":325,
+    "total_kills":124,
+    "attack_errors":50,
+    "kill_percentage":38.1538461538,
+    "error_pct":15.3846153846,
+    "hitting_efficiency":0.2276923077
   },
   {
     "player":"Soeren",

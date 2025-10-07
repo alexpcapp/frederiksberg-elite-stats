@@ -6,7 +6,7 @@
     "points_per_set":0.0,
     "errors_per_set":1.4090909091,
     "points_per_match":0.0,
-    "errors_per_match":5.1666666667
+    "errors_per_match":5.6363636364
   },
   {
     "player":"Ando",
@@ -14,8 +14,8 @@
     "total_errors":7,
     "points_per_set":1.875,
     "errors_per_set":0.875,
-    "points_per_match":3.75,
-    "errors_per_match":1.75
+    "points_per_match":5.0,
+    "errors_per_match":2.3333333333
   },
   {
     "player":"Bo",
@@ -23,8 +23,8 @@
     "total_errors":34,
     "points_per_set":1.4482758621,
     "errors_per_set":1.1724137931,
-    "points_per_match":4.6666666667,
-    "errors_per_match":3.7777777778
+    "points_per_match":5.25,
+    "errors_per_match":4.25
   },
   {
     "player":"Boerme",
@@ -41,8 +41,8 @@
     "total_errors":18,
     "points_per_set":0.96,
     "errors_per_set":0.72,
-    "points_per_match":2.6666666667,
-    "errors_per_match":2.0
+    "points_per_match":3.0,
+    "errors_per_match":2.25
   },
   {
     "player":"Frederik",
@@ -59,8 +59,8 @@
     "total_errors":33,
     "points_per_set":2.6071428571,
     "errors_per_set":1.1785714286,
-    "points_per_match":9.125,
-    "errors_per_match":4.125
+    "points_per_match":10.4285714286,
+    "errors_per_match":4.7142857143
   },
   {
     "player":"Kristian Krag",
@@ -95,8 +95,8 @@
     "total_errors":95,
     "points_per_set":4.5,
     "errors_per_set":3.1666666667,
-    "points_per_match":13.5,
-    "errors_per_match":9.5
+    "points_per_match":15.0,
+    "errors_per_match":10.5555555556
   },
   {
     "player":"Mikkel",
@@ -122,8 +122,8 @@
     "total_errors":65,
     "points_per_set":3.6052631579,
     "errors_per_set":1.7105263158,
-    "points_per_match":12.4545454545,
-    "errors_per_match":5.9090909091
+    "points_per_match":13.7,
+    "errors_per_match":6.5
   },
   {
     "player":"Soeren",

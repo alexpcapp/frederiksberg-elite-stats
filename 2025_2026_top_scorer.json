@@ -2,11 +2,11 @@
   {
     "player":"Alex",
     "total_earned":2,
-    "total_errors":6,
-    "points_per_set":0.6666666667,
-    "errors_per_set":2.0,
-    "points_per_match":2.0,
-    "errors_per_match":6.0
+    "total_errors":9,
+    "points_per_set":0.25,
+    "errors_per_set":1.125,
+    "points_per_match":1.0,
+    "errors_per_match":4.5
   },
   {
     "player":"Ando",
@@ -16,6 +16,15 @@
     "errors_per_set":0.3333333333,
     "points_per_match":9.0,
     "errors_per_match":1.0
+  },
+  {
+    "player":"Anton",
+    "total_earned":20,
+    "total_errors":10,
+    "points_per_set":4.0,
+    "errors_per_set":2.0,
+    "points_per_match":20.0,
+    "errors_per_match":10.0
   },
   {
     "player":"Bo",
@@ -31,9 +40,9 @@
     "total_earned":0,
     "total_errors":1,
     "points_per_set":0.0,
-    "errors_per_set":0.3333333333,
+    "errors_per_set":0.1428571429,
     "points_per_match":0.0,
-    "errors_per_match":1.0
+    "errors_per_match":0.5
   },
   {
     "player":"Gustav",
@@ -54,21 +63,48 @@
     "errors_per_match":3.0
   },
   {
+    "player":"Kristian Krag",
+    "total_earned":14,
+    "total_errors":5,
+    "points_per_set":2.8,
+    "errors_per_set":1.0,
+    "points_per_match":14.0,
+    "errors_per_match":5.0
+  },
+  {
+    "player":"Lasse Nielsen",
+    "total_earned":6,
+    "total_errors":7,
+    "points_per_set":1.2,
+    "errors_per_set":1.4,
+    "points_per_match":6.0,
+    "errors_per_match":7.0
+  },
+  {
+    "player":"Malthe",
+    "total_earned":12,
+    "total_errors":6,
+    "points_per_set":2.4,
+    "errors_per_set":1.2,
+    "points_per_match":12.0,
+    "errors_per_match":6.0
+  },
+  {
     "player":"Martin",
-    "total_earned":13,
-    "total_errors":10,
-    "points_per_set":4.3333333333,
-    "errors_per_set":3.3333333333,
-    "points_per_match":13.0,
+    "total_earned":29,
+    "total_errors":20,
+    "points_per_set":3.625,
+    "errors_per_set":2.5,
+    "points_per_match":14.5,
     "errors_per_match":10.0
   },
   {
     "player":"Nicola",
-    "total_earned":4,
-    "total_errors":6,
-    "points_per_set":1.3333333333,
+    "total_earned":12,
+    "total_errors":16,
+    "points_per_set":1.5,
     "errors_per_set":2.0,
-    "points_per_match":4.0,
-    "errors_per_match":6.0
+    "points_per_match":6.0,
+    "errors_per_match":8.0
   }
 ]

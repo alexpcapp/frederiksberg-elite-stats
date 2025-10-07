@@ -1,15 +1,21 @@
 [
   {
     "player":"Alex",
-    "digs":6,
-    "digs_per_set":2.0,
-    "digs_per_match":0.5
+    "digs":15,
+    "digs_per_set":1.875,
+    "digs_per_match":1.1538461538
   },
   {
     "player":"Ando",
     "digs":2,
     "digs_per_set":0.6666666667,
     "digs_per_match":0.5
+  },
+  {
+    "player":"Anton",
+    "digs":8,
+    "digs_per_set":1.6,
+    "digs_per_match":8.0
   },
   {
     "player":"Bo",
@@ -19,9 +25,9 @@
   },
   {
     "player":"Bosse",
-    "digs":10,
-    "digs_per_set":3.3333333333,
-    "digs_per_match":1.1111111111
+    "digs":11,
+    "digs_per_set":1.5714285714,
+    "digs_per_match":1.1
   },
   {
     "player":"Gustav",
@@ -36,15 +42,33 @@
     "digs_per_match":6.0
   },
   {
+    "player":"Kristian Krag",
+    "digs":2,
+    "digs_per_set":0.4,
+    "digs_per_match":0.1666666667
+  },
+  {
+    "player":"Lasse Nielsen",
+    "digs":9,
+    "digs_per_set":1.8,
+    "digs_per_match":0.75
+  },
+  {
+    "player":"Malthe",
+    "digs":6,
+    "digs_per_set":1.2,
+    "digs_per_match":6.0
+  },
+  {
     "player":"Martin",
-    "digs":4,
-    "digs_per_set":1.3333333333,
-    "digs_per_match":0.4
+    "digs":12,
+    "digs_per_set":1.5,
+    "digs_per_match":1.0909090909
   },
   {
     "player":"Nicola",
-    "digs":6,
-    "digs_per_set":2.0,
-    "digs_per_match":0.5454545455
+    "digs":10,
+    "digs_per_set":1.25,
+    "digs_per_match":0.8333333333
   }
 ]
