@@ -164,22 +164,22 @@
 
     // Mapping for which columns to show per stat
     const statColumns = {
-      top_scorer: ["player","total_earned","points_per_set","points_per_match"],
+      top_scorer: ["player","total_earned","points_per_set"],
       top_offense: ["player","hitting_efficiency","total_kills","kill_percentage"],
       top_blocker: ["player","blocks","blocks_per_set"],
       top_digger: ["player","digs","digs_per_set"],
       top_server: ["player","aces","serve_efficiency", "ace_percentage"],
-      top_passer: ["player","average_pass_rating","pass-attempt","error_pct","positive_pct","perfect_pct"]
+      top_passer: ["player","average_pass_rating","perfect_pct"]
     };
 
     // Column headers for table
     const columnHeaders = {
-      top_scorer: ["Player","Total Points","Points/Set","Points/Match"],
+      top_scorer: ["Player","Total Points","Points/Set"],
       top_offense: ["Player","Kill Efficiency","Total Kills","Kill %"],
       top_blocker: ["Player","Total Blocks","Blocks/Set"],
       top_digger: ["Player","Total Digs","Digs/Set"],
       top_server: ["Player","Total Aces","Serve Efficiency", "Ace %"],
-      top_passer: ["Player","Pass Rating","Attempts","Error %","Positive %","Perfect %"]
+      top_passer: ["Player","Pass Rating", "Perfect %"]
     };
 
     function getFilePath(season, stat) {
