@@ -133,6 +133,8 @@
         <button class="tab-button" data-stat="top_blocker">Most Blocks</button>
         <button class="tab-button" data-stat="top_digger">Most Digs</button>
         <button class="tab-button" data-stat="top_server">Most Aces</button>
+        <button class="tab-button" data-stat="top_passer">Best Passer</button>
+
     </div>
         <div id="topScorer"></div>
 
@@ -148,8 +150,9 @@
         </table>
     </div>
 
-  <script>
 
+
+  <script>
     
     const seasonSelect = document.getElementById("season");
     const tabButtons = document.querySelectorAll(".tab-button");
@@ -162,19 +165,21 @@
     // Mapping for which columns to show per stat
     const statColumns = {
       top_scorer: ["player","total_earned","points_per_set","points_per_match"],
-      top_offense: ["player","total_kills","kill_percentage","hitting_efficiency"],
+      top_offense: ["player","hitting_efficiency","total_kills","kill_percentage"],
       top_blocker: ["player","blocks","blocks_per_set"],
       top_digger: ["player","digs","digs_per_set"],
-      top_server: ["player","aces","serve_efficiency", "ace_percentage"]
+      top_server: ["player","aces","serve_efficiency", "ace_percentage"],
+      top_passer: ["player","average_pass_rating","pass-attempt","error_pct","positive_pct","perfect_pct"]
     };
 
     // Column headers for table
     const columnHeaders = {
       top_scorer: ["Player","Total Points","Points/Set","Points/Match"],
-      top_offense: ["Player","Total Kills","Kill %","Hitting Efficiency"],
+      top_offense: ["Player","Kill Efficiency","Total Kills","Kill %"],
       top_blocker: ["Player","Total Blocks","Blocks/Set"],
       top_digger: ["Player","Total Digs","Digs/Set"],
-      top_server: ["Player","Total Aces","Serve Efficiency", "Ace %"]
+      top_server: ["Player","Total Aces","Serve Efficiency", "Ace %"],
+      top_passer: ["Player","Pass Rating","Attempts","Error %","Positive %","Perfect %"]
     };
 
     function getFilePath(season, stat) {
@@ -202,18 +207,28 @@
       const sorted = data.sort((a,b)=> b[firstNumericKey] - a[firstNumericKey]);
 
       // Display top player
-
       const topLabels = {
             top_scorer: "points",
             top_blocker: "blocks",
             top_digger: "digs",
-            top_server: "aces"
+            top_server: "aces",
+            top_passer: "rating",
+            top_offense: "efficiency"
         };
 
       const label = topLabels[currentStat] || "points";
 
       const topPlayer = sorted[0];
-      topScorerDiv.textContent = `🏆 Top ${currentStat.replace("top_","").replace("_"," ")}: ${topPlayer.player} — ${topPlayer[firstNumericKey]} ${label}`;
+let displayValue = topPlayer[firstNumericKey];
+
+// For "top_offense", format to .123 (three decimals, no leading zero)
+if (currentStat === "top_offense") {
+  displayValue = displayValue.toFixed(3);
+  // Remove leading zero if present (e.g., 0.123 → .123)
+  if (displayValue.startsWith("0")) displayValue = displayValue.slice(0);
+}
+
+topScorerDiv.textContent = `🏆 Top ${currentStat.replace("top_","").replace("_"," ")}: ${topPlayer.player} — ${displayValue} ${label}`;
 
       // Table data
       const cols = statColumns[currentStat];
@@ -240,9 +255,14 @@
             // Percentages (example: 0.45 → 45%)
             ace_percentage: v => (v).toFixed(0) + "%",
             kill_percentage: v => (v).toFixed(0) + "%",
+            error_pct: v => (v).toFixed(1) + "%",
+            positive_pct: v => (v).toFixed(1) + "%",
+            perfect_pct: v => (v).toFixed(1) + "%",
 
             // Ratios like ".123" → show 3 decimals
             serve_efficiency: v => v.toFixed(3),
+            hitting_efficiency: v => v.toFixed(3),
+            average_pass_rating: v => v.toFixed(2),
             hitting_efficiency: v => v.toFixed(3)
         };
 

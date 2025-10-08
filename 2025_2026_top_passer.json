@@ -1,0 +1,26 @@
+[
+  {
+    "player":"Alex",
+    "average_pass_rating":1.68,
+    "pass-attempt":25,
+    "error_pct":12.0,
+    "positive_pct":64.0,
+    "perfect_pct":20.0
+  },
+  {
+    "player":"Bosse",
+    "average_pass_rating":1.8,
+    "pass-attempt":22,
+    "error_pct":4.5454545455,
+    "positive_pct":68.1818181818,
+    "perfect_pct":18.1818181818
+  },
+  {
+    "player":"Hjorth",
+    "average_pass_rating":2.43,
+    "pass-attempt":21,
+    "error_pct":0.0,
+    "positive_pct":85.7142857143,
+    "perfect_pct":57.1428571429
+  }
+]
