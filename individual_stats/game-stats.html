@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Frederiksberg Elite</title>
+
+  <!-- DataTables -->
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+
+  <!-- JS Chart -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@3.0.1/dist/chartjs-plugin-annotation.min.js"></script>
+
+
+
+
+
+
+  <!-- My custom styles -->
+  <link rel="stylesheet" href="web/styles.css">
+</head>
+
+
+
+
+<body>
+  <h1>Game Stats</h1>
+
+  <!-- Navigation bar (injected by shared.js) -->
+  <script src="web/shared.js"></script>
+
+  <div class="season-selector">
+    <label for="season">Select season:</label>
+    <select id="season">
+      <option value="player" selected>Player stats</option>
+      <option value="team">Team stats</option>
+    </select>
+  </div>
+
+
+<label for="gameSelect">Select a match:</label>
+  <select id="gameSelect">
+    <option value="">-- choose a match --</option>
+  </select>
+
+  <table id="gameTable">
+    <thead><tr></tr></thead>
+    <tbody></tbody>
+  </table>
+
+    <canvas id="passChart"></canvas>
+
+
+  <script src="web/game-stats.js"></script>
+
+
+<!--
+<div id="gameSelector">
+  <label for="games">Select game(s):</label>
+  <select id="games" multiple size="5"></select>
+</div>
+
+<div class="stats-container">
+  <canvas id="gameChart"></canvas>
+  <table id="gameStatsTable">
+    <thead><tr></tr></thead>
+    <tbody></tbody>
+  </table>
+</div>
+
+  <script src="web/game-stats.js"></script>
+-->
+
+
+    <!-- Load Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Load your script -->
+    <script src="web/game_stats.js"></script>
+    
+</body>
+</html>
