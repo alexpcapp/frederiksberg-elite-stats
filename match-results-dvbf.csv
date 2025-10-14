@@ -1,37 +1,38 @@
-kampnr,dato_tid,hjemme,ude,spillested,resultat,result_for_frb,date,match_name,opponent,played,season
-141063,29-09-24 kl. 10:00,Gentofte Volley.2,Frederiksberg Volley,Kildeskovshal 1 1,3 - 2,lost,2024-09-29,gv2-frb,Gentofte Volley.2,yes,2024/2025
-141067,06-10-24 kl. 18:00,Frederiksberg Volley,KV 61,Bülowsvejhallen 1,3 - 0,won,2024-10-06,frb-kv ,KV 61,yes,2024/2025
-141074,13-10-24 kl. 14:00,Frederiksberg Volley,Amager Volley.2,Kedelhallen 1,0 - 3,lost,2024-10-13,frb-avk,Amager Volley.2,yes,2024/2025
-141078,27-10-24 kl. 11:30,VLI,Frederiksberg Volley,Kedelhallen 1,3 - 0,lost,2024-10-27,vli-frb,VLI,yes,2024/2025
-141089,02-11-24 kl. 18:00,Frederiksberg Volley,Team Køge,Bülowsvejhallen 1,3 - 0,won,2024-11-02,frb-tkv,Team Køge,yes,2024/2025
-141094,16-11-24 kl. 14:30,DTU Volley,Frederiksberg Volley,Engelsborghallen 1,2 - 3,won,2024-11-16,dtu-frb,DTU Volley,yes,2024/2025
-141099,23-11-24 kl. 14:00,Frederiksberg Volley,Hvidovre VK.2,Bülowsvejhallen 1,2 - 3,lost,2024-11-23,frb-hv2,Hvidovre VK.2,yes,2024/2025
-141104,01-12-24 kl. 14:00,Grøndal EV,Frederiksberg Volley,Hillerødgades Sportssal 1,0 - 3,won,2024-12-01,grø-frb,Grøndal EV,yes,2024/2025
-141108,08-12-24 kl. 18:00,Frederiksberg Volley,Gentofte Volley.2,Bülowsvejhallen 1,3 - 1,won,2024-12-08,frb-gv2,Gentofte Volley.2,yes,2024/2025
-141119,12-01-25 kl. 12:00,Amager Volley.2,Frederiksberg Volley,Sundbyhal 1 1,3 - 2,lost,2025-01-12,avk-frb,Amager Volley.2,yes,2024/2025
-141123,18-01-25 kl. 18:00,Frederiksberg Volley,VLI,Bülowsvejhallen 1,3 - 2,won,2025-01-18,frb-vli,VLI,yes,2024/2025
-141139,25-01-25 kl. 16:00,Frederiksberg Volley,DTU Volley,Bülowsvejhallen 1,3 - 1,won,2025-01-25,frb-dtu,DTU Volley,yes,2024/2025
-141084,22-02-25 kl. 16:00,Frederiksberg Volley,Farum-Holte,Bülowsvejhallen 1,0 - 3,lost,2025-02-22,frb-fah,Farum-Holte,yes,2024/2025
-141112,08-03-25 kl. 16:00,KV 61,Frederiksberg Volley,Idrætshuset 1,0 - 3,won,2025-03-08,kv -frb,KV 61,yes,2024/2025
-141134,14-03-25 kl. 19:00,Team Køge,Frederiksberg Volley,Spar Nord Arena 1,2 - 3,won,2025-03-14,tkv-frb,Team Køge,yes,2024/2025
-141149,23-03-25 kl. 16:00,Frederiksberg Volley,Grøndal EV,Bülowsvejhallen 1,3 - 1,won,2025-03-23,frb-grø,Grøndal EV,yes,2024/2025
-141144,29-03-25 kl. 17:30,Hvidovre VK.2,Frederiksberg Volley,Frihedens Idrætscenter 1,0 - 3,won,2025-03-29,hv2-frb,Hvidovre VK.2,yes,2024/2025
-141129,06-04-25 kl. 15:00,Farum-Holte,Frederiksberg Volley,Ny Holtehal 1,3 - 1,lost,2025-04-06,fah-frb,Farum-Holte,yes,2024/2025
-144591,27-09-25 kl. 17:00,Amager Volley.2,Frederiksberg Volley,Sundbyhal 1 1,3 - 0,lost,2025-09-27,avk-frb,Amager Volley.2,yes,2025/2026
-144595,04-10-25 kl. 18:00,Hvidovre VK.2,Frederiksberg Volley,Frihedens Idrætscenter 1,2 - 3,won,2025-10-04,hv2-frb,Hvidovre VK.2,yes,2025/2026
-144608,26-10-25 kl. 16:00,Enghave VK,Frederiksberg Volley,Bavnehøjhallen 1,,,2025-10-26,eng-frb,Enghave VK,no,2025/2026
-144610,08-11-25 kl. 14:00,Frederiksberg Volley,Gentofte Volley.2,Bülowsvejhallen 1,,,2025-11-08,frb-gv2,Gentofte Volley.2,no,2025/2026
-144619,23-11-25 kl. 12:00,Grøndal EV,Frederiksberg Volley,Hillerødgades Sportssal 1,,,2025-11-23,grø-frb,Grøndal EV,no,2025/2026
-144620,30-11-25 kl. 09:30,VLI,Frederiksberg Volley,Kedelhallen 1,,,2025-11-30,vli-frb,VLI,no,2025/2026
-144604,07-12-25 kl. 13:30,Frederiksberg Volley,Team Køge,Kedelhallen 1,,,2025-12-07,frb-tkv,Team Køge,no,2025/2026
-144625,14-12-25 kl. 15:30,Frederiksberg Volley,Farum-Holte,Kedelhallen 1,,,2025-12-14,frb-fah,Farum-Holte,no,2025/2026
-144631,11-01-26 kl. 16:30,Gentofte Volley.2,Frederiksberg Volley,Kildeskovshal 1 1,,,2026-01-11,gv2-frb,Gentofte Volley.2,no,2025/2026
-144635,17-01-26 kl. 16:30,DTU Volley,Frederiksberg Volley,Engelsborghallen 1,,,2026-01-17,dtu-frb,DTU Volley,no,2025/2026
-144643,25-01-26 kl. 14:00,Frederiksberg Volley,VLI,Kedelhallen 1,,,2026-01-25,frb-vli,VLI,no,2025/2026
-144647,07-02-26 kl. 14:00,Frederiksberg Volley,Grøndal EV,Bülowsvejhallen 1,,,2026-02-07,frb-grø,Grøndal EV,no,2025/2026
-144651,22-02-26 kl. 16:30,Farum-Holte,Frederiksberg Volley,Ny Holtehal 1,,,2026-02-22,fah-frb,Farum-Holte,no,2025/2026
-144657,01-03-26 kl. 15:30,Frederiksberg Volley,Enghave VK,Kedelhallen 1,,,2026-03-01,frb-eng,Enghave VK,no,2025/2026
-144662,15-03-26 kl. 11:30,Frederiksberg Volley,Hvidovre VK.2,Kedelhallen 1,,,2026-03-15,frb-hv2,Hvidovre VK.2,no,2025/2026
-144667,28-03-26 kl. 13:30,Team Køge,Frederiksberg Volley,Spar Nord Arena 1,,,2026-03-28,tkv-frb,Team Køge,no,2025/2026
-144670,12-04-26 kl. 09:30,Frederiksberg Volley,Amager Volley.2,Kedelhallen 1,,,2026-04-12,frb-avk,Amager Volley.2,no,2025/2026
-144675,19-04-26 kl. 15:30,Frederiksberg Volley,DTU Volley,Kedelhallen 1,,,2026-04-19,frb-dtu,DTU Volley,no,2025/2026
+season,kampnr,dato_tid,hjemme,ude,spillested,resultat,result_for_frb,date,match_name,opponent,played
+2024/2025,141063,29-09-24 kl. 10:00,Gentofte Volley.2,Frederiksberg Volley,Kildeskovshal 1 1,3 - 2,lost,2024-09-29,gv2-frb,Gentofte Volley.2,yes
+2024/2025,141067,06-10-24 kl. 18:00,Frederiksberg Volley,KV 61,Bülowsvejhallen 1,3 - 0,won,2024-10-06,frb-kv ,KV 61,yes
+2024/2025,141074,13-10-24 kl. 14:00,Frederiksberg Volley,Amager Volley.2,Kedelhallen 1,0 - 3,lost,2024-10-13,frb-avk,Amager Volley.2,yes
+2024/2025,141078,27-10-24 kl. 11:30,VLI,Frederiksberg Volley,Kedelhallen 1,3 - 0,lost,2024-10-27,vli-frb,VLI,yes
+2024/2025,141089,02-11-24 kl. 18:00,Frederiksberg Volley,Team Køge,Bülowsvejhallen 1,3 - 0,won,2024-11-02,frb-tkv,Team Køge,yes
+2024/2025,141094,16-11-24 kl. 14:30,DTU Volley,Frederiksberg Volley,Engelsborghallen 1,2 - 3,won,2024-11-16,dtu-frb,DTU Volley,yes
+2024/2025,141099,23-11-24 kl. 14:00,Frederiksberg Volley,Hvidovre VK.2,Bülowsvejhallen 1,2 - 3,lost,2024-11-23,frb-hv2,Hvidovre VK.2,yes
+2024/2025,141104,01-12-24 kl. 14:00,Grøndal EV,Frederiksberg Volley,Hillerødgades Sportssal 1,0 - 3,won,2024-12-01,grø-frb,Grøndal EV,yes
+2024/2025,141108,08-12-24 kl. 18:00,Frederiksberg Volley,Gentofte Volley.2,Bülowsvejhallen 1,3 - 1,won,2024-12-08,frb-gv2,Gentofte Volley.2,yes
+2024/2025,141119,12-01-25 kl. 12:00,Amager Volley.2,Frederiksberg Volley,Sundbyhal 1 1,3 - 2,lost,2025-01-12,avk-frb,Amager Volley.2,yes
+2024/2025,141123,18-01-25 kl. 18:00,Frederiksberg Volley,VLI,Bülowsvejhallen 1,3 - 2,won,2025-01-18,frb-vli,VLI,yes
+2024/2025,141139,25-01-25 kl. 16:00,Frederiksberg Volley,DTU Volley,Bülowsvejhallen 1,3 - 1,won,2025-01-25,frb-dtu,DTU Volley,yes
+2024/2025,141084,22-02-25 kl. 16:00,Frederiksberg Volley,Farum-Holte,Bülowsvejhallen 1,0 - 3,lost,2025-02-22,frb-fah,Farum-Holte,yes
+2024/2025,141112,08-03-25 kl. 16:00,KV 61,Frederiksberg Volley,Idrætshuset 1,0 - 3,won,2025-03-08,kv -frb,KV 61,yes
+2024/2025,141134,14-03-25 kl. 19:00,Team Køge,Frederiksberg Volley,Spar Nord Arena 1,2 - 3,won,2025-03-14,tkv-frb,Team Køge,yes
+2024/2025,141149,23-03-25 kl. 16:00,Frederiksberg Volley,Grøndal EV,Bülowsvejhallen 1,3 - 1,won,2025-03-23,frb-grø,Grøndal EV,yes
+2024/2025,141144,29-03-25 kl. 17:30,Hvidovre VK.2,Frederiksberg Volley,Frihedens Idrætscenter 1,0 - 3,won,2025-03-29,hv2-frb,Hvidovre VK.2,yes
+2024/2025,141129,06-04-25 kl. 15:00,Farum-Holte,Frederiksberg Volley,Ny Holtehal 1,3 - 1,lost,2025-04-06,fah-frb,Farum-Holte,yes
+2025/2026,144591,27-09-25 kl. 17:00,Amager Volley.2,Frederiksberg Volley,Sundbyhal 1 1,3 - 0,lost,2025-09-27,avk-frb,Amager Volley.2,yes
+2025/2026,144595,04-10-25 kl. 18:00,Hvidovre VK.2,Frederiksberg Volley,Frihedens Idrætscenter 1,2 - 3,won,2025-10-04,hv2-frb,Hvidovre VK.2,yes
+2025/2026,147434,12-10-25 kl. 13:00,Hvidovre VK.2,Frederiksberg Volley,Frihedens Idrætscenter 1,0 - 3,won,2025-10-12,hv2-frb,Hvidovre VK.2,yes
+2025/2026,144608,26-10-25 kl. 16:00,Enghave VK,Frederiksberg Volley,Bavnehøjhallen 1,,,2025-10-26,eng-frb,Enghave VK,no
+2025/2026,144610,08-11-25 kl. 14:00,Frederiksberg Volley,Gentofte Volley.2,Bülowsvejhallen 1,,,2025-11-08,frb-gv2,Gentofte Volley.2,no
+2025/2026,144619,23-11-25 kl. 12:00,Grøndal EV,Frederiksberg Volley,Hillerødgades Sportssal 1,,,2025-11-23,grø-frb,Grøndal EV,no
+2025/2026,144620,30-11-25 kl. 09:30,VLI,Frederiksberg Volley,Kedelhallen 1,,,2025-11-30,vli-frb,VLI,no
+2025/2026,144604,07-12-25 kl. 13:30,Frederiksberg Volley,Team Køge,Kedelhallen 1,,,2025-12-07,frb-tkv,Team Køge,no
+2025/2026,144625,14-12-25 kl. 15:30,Frederiksberg Volley,Farum-Holte,Kedelhallen 1,,,2025-12-14,frb-fah,Farum-Holte,no
+2025/2026,144631,11-01-26 kl. 16:30,Gentofte Volley.2,Frederiksberg Volley,Kildeskovshal 1 1,,,2026-01-11,gv2-frb,Gentofte Volley.2,no
+2025/2026,144635,17-01-26 kl. 16:30,DTU Volley,Frederiksberg Volley,Engelsborghallen 1,,,2026-01-17,dtu-frb,DTU Volley,no
+2025/2026,144643,25-01-26 kl. 14:00,Frederiksberg Volley,VLI,Kedelhallen 1,,,2026-01-25,frb-vli,VLI,no
+2025/2026,144647,07-02-26 kl. 14:00,Frederiksberg Volley,Grøndal EV,Bülowsvejhallen 1,,,2026-02-07,frb-grø,Grøndal EV,no
+2025/2026,144651,22-02-26 kl. 16:30,Farum-Holte,Frederiksberg Volley,Ny Holtehal 1,,,2026-02-22,fah-frb,Farum-Holte,no
+2025/2026,144657,01-03-26 kl. 15:30,Frederiksberg Volley,Enghave VK,Kedelhallen 1,,,2026-03-01,frb-eng,Enghave VK,no
+2025/2026,144662,15-03-26 kl. 11:30,Frederiksberg Volley,Hvidovre VK.2,Kedelhallen 1,,,2026-03-15,frb-hv2,Hvidovre VK.2,no
+2025/2026,144667,28-03-26 kl. 13:30,Team Køge,Frederiksberg Volley,Spar Nord Arena 1,,,2026-03-28,tkv-frb,Team Køge,no
+2025/2026,144670,12-04-26 kl. 09:30,Frederiksberg Volley,Amager Volley.2,Kedelhallen 1,,,2026-04-12,frb-avk,Amager Volley.2,no
+2025/2026,144675,19-04-26 kl. 15:30,Frederiksberg Volley,DTU Volley,Kedelhallen 1,,,2026-04-19,frb-dtu,DTU Volley,no

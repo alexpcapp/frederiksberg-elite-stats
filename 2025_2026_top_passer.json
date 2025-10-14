@@ -1,11 +1,19 @@
 [
   {
     "player":"Alex",
-    "average_pass_rating":1.68,
-    "pass-attempt":25,
-    "error_pct":12.0,
-    "positive_pct":64.0,
-    "perfect_pct":20.0
+    "average_pass_rating":1.63,
+    "pass-attempt":37,
+    "error_pct":13.5135135135,
+    "positive_pct":64.8648648649,
+    "perfect_pct":16.2162162162
+  },
+  {
+    "player":"Anton",
+    "average_pass_rating":2.13,
+    "pass-attempt":59,
+    "error_pct":1.6949152542,
+    "positive_pct":77.9661016949,
+    "perfect_pct":35.593220339
   },
   {
     "player":"Bosse",
@@ -17,10 +25,26 @@
   },
   {
     "player":"Hjorth",
-    "average_pass_rating":2.43,
-    "pass-attempt":21,
+    "average_pass_rating":2.405,
+    "pass-attempt":29,
     "error_pct":0.0,
-    "positive_pct":85.7142857143,
-    "perfect_pct":57.1428571429
+    "positive_pct":89.6551724138,
+    "perfect_pct":51.724137931
+  },
+  {
+    "player":"Martin",
+    "average_pass_rating":2.0,
+    "pass-attempt":1,
+    "error_pct":0.0,
+    "positive_pct":100.0,
+    "perfect_pct":0.0
+  },
+  {
+    "player":"Nicola",
+    "average_pass_rating":1.82,
+    "pass-attempt":44,
+    "error_pct":4.5454545455,
+    "positive_pct":72.7272727273,
+    "perfect_pct":20.4545454545
   }
 ]
