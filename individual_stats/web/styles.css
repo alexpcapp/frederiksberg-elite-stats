@@ -147,3 +147,34 @@ h1 { margin-bottom: 10px; }
     text-align: center;
     margin: 20px 0;
 }
+
+
+/* Styling for theme tabs in game stats section */
+
+.theme-tabs {
+  margin-top: 1rem;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.theme-tab {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 6px;
+  background-color: #ddd;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.2s;
+}
+
+.theme-tab:hover {
+  background-color: #ccc;
+}
+
+.theme-tab.active {
+  background-color: #0047ab;
+  color: white;
+  font-weight: 600;
+}
+
+

@@ -2,47 +2,47 @@
   {
     "player":"Alex",
     "total_earned":2,
-    "total_errors":9,
-    "points_per_set":0.25,
-    "errors_per_set":1.125,
-    "points_per_match":1.0,
-    "errors_per_match":4.5
+    "total_errors":13,
+    "points_per_set":0.1428571429,
+    "errors_per_set":0.9285714286,
+    "points_per_match":0.5,
+    "errors_per_match":3.25
   },
   {
     "player":"Ando",
-    "total_earned":9,
-    "total_errors":1,
-    "points_per_set":3.0,
-    "errors_per_set":0.3333333333,
-    "points_per_match":9.0,
+    "total_earned":13,
+    "total_errors":2,
+    "points_per_set":2.6,
+    "errors_per_set":0.4,
+    "points_per_match":6.5,
     "errors_per_match":1.0
   },
   {
     "player":"Anton",
-    "total_earned":20,
-    "total_errors":10,
-    "points_per_set":4.0,
+    "total_earned":35,
+    "total_errors":22,
+    "points_per_set":3.1818181818,
     "errors_per_set":2.0,
-    "points_per_match":20.0,
-    "errors_per_match":10.0
+    "points_per_match":11.6666666667,
+    "errors_per_match":7.3333333333
   },
   {
     "player":"Bo",
-    "total_earned":0,
-    "total_errors":0,
-    "points_per_set":0.0,
-    "errors_per_set":0.0,
-    "points_per_match":0.0,
-    "errors_per_match":0.0
+    "total_earned":3,
+    "total_errors":5,
+    "points_per_set":0.5,
+    "errors_per_set":0.8333333333,
+    "points_per_match":1.0,
+    "errors_per_match":1.6666666667
   },
   {
     "player":"Bosse",
-    "total_earned":0,
-    "total_errors":1,
-    "points_per_set":0.0,
-    "errors_per_set":0.1428571429,
-    "points_per_match":0.0,
-    "errors_per_match":0.5
+    "total_earned":1,
+    "total_errors":2,
+    "points_per_set":0.1,
+    "errors_per_set":0.2,
+    "points_per_match":0.3333333333,
+    "errors_per_match":0.6666666667
   },
   {
     "player":"Gustav",
@@ -55,30 +55,48 @@
   },
   {
     "player":"Hjorth",
-    "total_earned":14,
-    "total_errors":3,
-    "points_per_set":4.6666666667,
-    "errors_per_set":1.0,
-    "points_per_match":14.0,
+    "total_earned":31,
+    "total_errors":20,
+    "points_per_set":3.4444444444,
+    "errors_per_set":2.2222222222,
+    "points_per_match":10.3333333333,
+    "errors_per_match":6.6666666667
+  },
+  {
+    "player":"Jonas",
+    "total_earned":0,
+    "total_errors":0,
+    "points_per_set":0.0,
+    "errors_per_set":0.0,
+    "points_per_match":0.0,
+    "errors_per_match":0.0
+  },
+  {
+    "player":"Kristian",
+    "total_earned":25,
+    "total_errors":9,
+    "points_per_set":2.5,
+    "errors_per_set":0.9,
+    "points_per_match":8.3333333333,
     "errors_per_match":3.0
   },
   {
-    "player":"Kristian Krag",
-    "total_earned":14,
-    "total_errors":5,
-    "points_per_set":2.8,
-    "errors_per_set":1.0,
-    "points_per_match":14.0,
+    "player":"Lasse",
+    "total_earned":9,
+    "total_errors":10,
+    "points_per_set":1.125,
+    "errors_per_set":1.25,
+    "points_per_match":4.5,
     "errors_per_match":5.0
   },
   {
-    "player":"Lasse Nielsen",
-    "total_earned":6,
-    "total_errors":7,
-    "points_per_set":1.2,
-    "errors_per_set":1.4,
-    "points_per_match":6.0,
-    "errors_per_match":7.0
+    "player":"Mads",
+    "total_earned":5,
+    "total_errors":1,
+    "points_per_set":1.6666666667,
+    "errors_per_set":0.3333333333,
+    "points_per_match":5.0,
+    "errors_per_match":1.0
   },
   {
     "player":"Malthe",
@@ -91,20 +109,20 @@
   },
   {
     "player":"Martin",
-    "total_earned":29,
-    "total_errors":20,
-    "points_per_set":3.625,
-    "errors_per_set":2.5,
-    "points_per_match":14.5,
-    "errors_per_match":10.0
+    "total_earned":43,
+    "total_errors":29,
+    "points_per_set":3.3076923077,
+    "errors_per_set":2.2307692308,
+    "points_per_match":10.75,
+    "errors_per_match":7.25
   },
   {
     "player":"Nicola",
-    "total_earned":12,
-    "total_errors":16,
+    "total_earned":18,
+    "total_errors":21,
     "points_per_set":1.5,
-    "errors_per_set":2.0,
-    "points_per_match":6.0,
-    "errors_per_match":8.0
+    "errors_per_set":1.75,
+    "points_per_match":4.5,
+    "errors_per_match":5.25
   }
 ]

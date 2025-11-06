@@ -1,27 +1,27 @@
 [
   {
     "player":"Alex",
-    "digs":126,
-    "digs_per_set":2.4230769231,
-    "digs_per_match":9.6923076923
+    "digs":134,
+    "digs_per_set":2.3103448276,
+    "digs_per_match":8.9333333333
   },
   {
     "player":"Ando",
-    "digs":5,
-    "digs_per_set":0.4545454545,
-    "digs_per_match":1.25
+    "digs":6,
+    "digs_per_set":0.4615384615,
+    "digs_per_match":1.2
   },
   {
     "player":"Anton",
-    "digs":8,
-    "digs_per_set":1.6,
-    "digs_per_match":8.0
+    "digs":9,
+    "digs_per_set":0.8181818182,
+    "digs_per_match":3.0
   },
   {
     "player":"Bo",
-    "digs":14,
-    "digs_per_set":0.4516129032,
-    "digs_per_match":1.5555555556
+    "digs":15,
+    "digs_per_set":0.4285714286,
+    "digs_per_match":1.3636363636
   },
   {
     "player":"Boerme",
@@ -32,8 +32,8 @@
   {
     "player":"Bosse",
     "digs":18,
-    "digs_per_set":0.5625,
-    "digs_per_match":1.8
+    "digs_per_set":0.5142857143,
+    "digs_per_match":1.6363636364
   },
   {
     "player":"Frederik",
@@ -49,27 +49,33 @@
   },
   {
     "player":"Hjorth",
-    "digs":6,
-    "digs_per_set":2.0,
-    "digs_per_match":6.0
+    "digs":13,
+    "digs_per_set":1.4444444444,
+    "digs_per_match":4.3333333333
   },
   {
-    "player":"Kristian Krag",
+    "player":"Jonas",
+    "digs":0,
+    "digs_per_set":0.0,
+    "digs_per_match":0.0
+  },
+  {
+    "player":"Kristian",
     "digs":23,
-    "digs_per_set":0.575,
-    "digs_per_match":1.9166666667
+    "digs_per_set":0.5111111111,
+    "digs_per_match":1.6428571429
   },
   {
-    "player":"Lasse Nielsen",
-    "digs":88,
-    "digs_per_set":1.9555555556,
-    "digs_per_match":7.3333333333
+    "player":"Lasse",
+    "digs":92,
+    "digs_per_set":1.9166666667,
+    "digs_per_match":7.0769230769
   },
   {
-    "player":"Mads Q",
-    "digs":17,
-    "digs_per_set":0.8095238095,
-    "digs_per_match":3.4
+    "player":"Mads",
+    "digs":23,
+    "digs_per_set":0.9583333333,
+    "digs_per_match":3.8333333333
   },
   {
     "player":"Malthe",
@@ -79,9 +85,9 @@
   },
   {
     "player":"Martin",
-    "digs":56,
-    "digs_per_set":1.4736842105,
-    "digs_per_match":5.0909090909
+    "digs":57,
+    "digs_per_set":1.3255813953,
+    "digs_per_match":4.3846153846
   },
   {
     "player":"Mikkel",
@@ -97,9 +103,9 @@
   },
   {
     "player":"Nicola",
-    "digs":48,
-    "digs_per_set":1.0434782609,
-    "digs_per_match":4.0
+    "digs":51,
+    "digs_per_set":1.02,
+    "digs_per_match":3.6428571429
   },
   {
     "player":"Soeren",

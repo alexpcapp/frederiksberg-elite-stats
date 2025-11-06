@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function() {
   nav.innerHTML = `
     <a href="index.html">🏆 Player Ranking</a>
     <a href="game-stats.html">🏐 Game Stats</a>
-    <a href="team-trends.html">📊 Team Trends</a>
+    <a href="trends-stats.html">📊 Team Trends</a>
   `;
   // <a href="players.html">👤 Players</a>
 

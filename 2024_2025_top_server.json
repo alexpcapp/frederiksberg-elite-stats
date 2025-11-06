@@ -7,7 +7,8 @@
     "serve_efficiency":null,
     "ace_percentage":null,
     "error_percentage":null,
-    "points_won_percentage":null
+    "points_won_percentage":null,
+    "point_scoring_pct":null
   },
   {
     "player":"Ando",
@@ -17,7 +18,8 @@
     "serve_efficiency":-0.0952380952,
     "ace_percentage":4.7619047619,
     "error_percentage":14.2857142857,
-    "points_won_percentage":38.0952380952
+    "points_won_percentage":38.0952380952,
+    "point_scoring_pct":26.2666666667
   },
   {
     "player":"Bo",
@@ -27,7 +29,8 @@
     "serve_efficiency":-0.049382716,
     "ace_percentage":8.6419753086,
     "error_percentage":13.5802469136,
-    "points_won_percentage":39.5061728395
+    "points_won_percentage":39.5061728395,
+    "point_scoring_pct":37.225
   },
   {
     "player":"Boerme",
@@ -37,7 +40,8 @@
     "serve_efficiency":-0.3269230769,
     "ace_percentage":1.9230769231,
     "error_percentage":34.6153846154,
-    "points_won_percentage":34.6153846154
+    "points_won_percentage":34.6153846154,
+    "point_scoring_pct":28.9666666667
   },
   {
     "player":"Bosse",
@@ -47,7 +51,8 @@
     "serve_efficiency":0.0338983051,
     "ace_percentage":13.5593220339,
     "error_percentage":10.1694915254,
-    "points_won_percentage":47.4576271186
+    "points_won_percentage":47.4576271186,
+    "point_scoring_pct":32.6
   },
   {
     "player":"Frederik",
@@ -57,7 +62,8 @@
     "serve_efficiency":0.125,
     "ace_percentage":12.5,
     "error_percentage":0.0,
-    "points_won_percentage":75.0
+    "points_won_percentage":75.0,
+    "point_scoring_pct":75.0
   },
   {
     "player":"Gustav",
@@ -67,37 +73,41 @@
     "serve_efficiency":-0.0348837209,
     "ace_percentage":4.6511627907,
     "error_percentage":8.1395348837,
-    "points_won_percentage":40.6976744186
+    "points_won_percentage":40.6976744186,
+    "point_scoring_pct":35.9428571429
   },
   {
-    "player":"Kristian Krag",
+    "player":"Kristian",
     "average_serve_rating":1.6163636364,
     "aces":5,
     "points_won_on_serve":49,
     "serve_efficiency":-0.0792079208,
     "ace_percentage":4.9504950495,
     "error_percentage":12.8712871287,
-    "points_won_percentage":48.5148514851
+    "points_won_percentage":48.5148514851,
+    "point_scoring_pct":35.9090909091
   },
   {
-    "player":"Lasse Nielsen",
+    "player":"Lasse",
     "average_serve_rating":1.85,
     "aces":12,
     "points_won_on_serve":77,
     "serve_efficiency":-0.0287356322,
     "ace_percentage":6.8965517241,
     "error_percentage":9.7701149425,
-    "points_won_percentage":44.2528735632
+    "points_won_percentage":44.2528735632,
+    "point_scoring_pct":40.1727272727
   },
   {
-    "player":"Mads Q",
+    "player":"Mads",
     "average_serve_rating":1.956,
     "aces":3,
     "points_won_on_serve":31,
     "serve_efficiency":-0.0434782609,
     "ace_percentage":4.347826087,
     "error_percentage":8.6956521739,
-    "points_won_percentage":44.9275362319
+    "points_won_percentage":44.9275362319,
+    "point_scoring_pct":42.64
   },
   {
     "player":"Martin",
@@ -107,7 +117,8 @@
     "serve_efficiency":-0.2686567164,
     "ace_percentage":4.4776119403,
     "error_percentage":31.3432835821,
-    "points_won_percentage":34.328358209
+    "points_won_percentage":34.328358209,
+    "point_scoring_pct":27.6
   },
   {
     "player":"Mikkel",
@@ -117,7 +128,8 @@
     "serve_efficiency":-0.0263157895,
     "ace_percentage":2.6315789474,
     "error_percentage":5.2631578947,
-    "points_won_percentage":50.0
+    "points_won_percentage":50.0,
+    "point_scoring_pct":37.225
   },
   {
     "player":"Nico Lang",
@@ -127,7 +139,8 @@
     "serve_efficiency":-0.0909090909,
     "ace_percentage":0.0,
     "error_percentage":9.0909090909,
-    "points_won_percentage":63.6363636364
+    "points_won_percentage":63.6363636364,
+    "point_scoring_pct":35.0
   },
   {
     "player":"Nicola",
@@ -137,7 +150,8 @@
     "serve_efficiency":-0.0492957746,
     "ace_percentage":2.8169014085,
     "error_percentage":7.7464788732,
-    "points_won_percentage":38.7323943662
+    "points_won_percentage":38.7323943662,
+    "point_scoring_pct":34.93
   },
   {
     "player":"Soeren",
@@ -147,7 +161,8 @@
     "serve_efficiency":-0.0227272727,
     "ace_percentage":9.0909090909,
     "error_percentage":11.3636363636,
-    "points_won_percentage":40.9090909091
+    "points_won_percentage":40.9090909091,
+    "point_scoring_pct":43.22
   },
   {
     "player":"Vestbjerg",
@@ -157,6 +172,7 @@
     "serve_efficiency":-0.1063829787,
     "ace_percentage":2.1276595745,
     "error_percentage":12.7659574468,
-    "points_won_percentage":46.8085106383
+    "points_won_percentage":46.8085106383,
+    "point_scoring_pct":45.2222222222
   }
 ]

@@ -264,5 +264,43 @@
     "match_name":"hv2-frb",
     "opponent":"Hvidovre VK.2",
     "id_opponent_date":"144595 - Hvidovre VK.2 - 2025.10.04"
+  },
+  {
+    "kampnr":147434,
+    "positive_percentage":3.0,
+    "1-pass":5,
+    "2-pass":18,
+    "3-pass":9,
+    "Pass_Rating":1.925,
+    "season":"2025\/2026",
+    "hjemme":"Hvidovre VK.2",
+    "ude":"Frederiksberg Volley",
+    "spillested":"Frihedens Idr\u00e6tscenter 1",
+    "played":"yes",
+    "resultat":"0\u00a0-\u00a03",
+    "result_for_frb":"won",
+    "date":1760227200000,
+    "match_name":"hv2-frb",
+    "opponent":"Hvidovre VK.2",
+    "id_opponent_date":"147434 - Hvidovre VK.2 - 2025.10.12"
+  },
+  {
+    "kampnr":147577,
+    "positive_percentage":3.9,
+    "1-pass":14,
+    "2-pass":27,
+    "3-pass":12,
+    "Pass_Rating":1.6,
+    "season":"2025\/2026",
+    "hjemme":"Frederiksberg Volley",
+    "ude":"Odense Volleyball",
+    "spillested":"B\u00fclowsvejhallen 1",
+    "played":"yes",
+    "resultat":"0\u00a0-\u00a03",
+    "result_for_frb":"lost",
+    "date":1761955200000,
+    "match_name":"frb-ode",
+    "opponent":"Odense Volleyball",
+    "id_opponent_date":"147577 - Odense Volleyball - 2025.11.01"
   }
 ]

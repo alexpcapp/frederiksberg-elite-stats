@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Frederiksberg Elite</title>
+
+  <!-- DataTables -->
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+
+  <!-- JS Chart -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@3.0.1/dist/chartjs-plugin-annotation.min.js"></script>
+
+
+  <!-- My custom styles -->
+  <link rel="stylesheet" href="web/styles.css">
+</head>
+
+
+<body>
+  <h1>Trends</h1>
+
+  <!-- Navigation bar (injected by shared.js) -->
+  <script src="web/shared.js"></script>
+
+  <!-- Buttons to choose Player or Team stats -->
+  <div class="top-controls">
+    <div class="tabs">
+      <button class="tab-button active" data-stat="team">Team Stats</button>
+      <button class="tab-button" data-stat="player">Player Stats</button>
+    </div>
+  </div>
+<label for="statSelect">Choose Stat:</label>
+<select id="statSelect"></select>
+
+<label for="playerSelect" id="playerLabel" style="display:none;">Choose Player:</label>
+<select id="playerSelect" style="display:none;"></select>
+
+
+<canvas id="passChart"></canvas>
+<table id="trendTable">
+  <thead><tr></tr></thead>
+  <tbody></tbody>
+</table>
+
+  <!-- Table to show trend stats -->
+  <table id="trendTable">
+    <thead><tr></tr></thead>
+    <tbody></tbody>
+  </table>
+
+  <!-- Chart -->
+  <canvas id="passChart"></canvas>
+
+  <!-- Your JavaScript -->
+  <script src="web/trends-stats.js"></script>
+
+  <!-- Load Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="web/trends-stats.js"></script>
+</body>
+
+</html>

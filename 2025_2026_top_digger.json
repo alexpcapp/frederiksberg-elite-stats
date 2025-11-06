@@ -1,33 +1,33 @@
 [
   {
     "player":"Alex",
-    "digs":15,
-    "digs_per_set":1.875,
-    "digs_per_match":1.1538461538
+    "digs":23,
+    "digs_per_set":1.6428571429,
+    "digs_per_match":1.5333333333
   },
   {
     "player":"Ando",
-    "digs":2,
-    "digs_per_set":0.6666666667,
-    "digs_per_match":0.5
+    "digs":3,
+    "digs_per_set":0.6,
+    "digs_per_match":0.6
   },
   {
     "player":"Anton",
-    "digs":8,
-    "digs_per_set":1.6,
-    "digs_per_match":8.0
+    "digs":9,
+    "digs_per_set":0.8181818182,
+    "digs_per_match":3.0
   },
   {
     "player":"Bo",
-    "digs":0,
-    "digs_per_set":0.0,
-    "digs_per_match":0.0
+    "digs":1,
+    "digs_per_set":0.1666666667,
+    "digs_per_match":0.0909090909
   },
   {
     "player":"Bosse",
     "digs":11,
-    "digs_per_set":1.5714285714,
-    "digs_per_match":1.1
+    "digs_per_set":1.1,
+    "digs_per_match":1.0
   },
   {
     "player":"Gustav",
@@ -37,21 +37,33 @@
   },
   {
     "player":"Hjorth",
+    "digs":13,
+    "digs_per_set":1.4444444444,
+    "digs_per_match":4.3333333333
+  },
+  {
+    "player":"Jonas",
+    "digs":0,
+    "digs_per_set":0.0,
+    "digs_per_match":0.0
+  },
+  {
+    "player":"Kristian",
+    "digs":2,
+    "digs_per_set":0.2,
+    "digs_per_match":0.1428571429
+  },
+  {
+    "player":"Lasse",
+    "digs":13,
+    "digs_per_set":1.625,
+    "digs_per_match":1.0
+  },
+  {
+    "player":"Mads",
     "digs":6,
     "digs_per_set":2.0,
-    "digs_per_match":6.0
-  },
-  {
-    "player":"Kristian Krag",
-    "digs":2,
-    "digs_per_set":0.4,
-    "digs_per_match":0.1666666667
-  },
-  {
-    "player":"Lasse Nielsen",
-    "digs":9,
-    "digs_per_set":1.8,
-    "digs_per_match":0.75
+    "digs_per_match":1.0
   },
   {
     "player":"Malthe",
@@ -61,14 +73,14 @@
   },
   {
     "player":"Martin",
-    "digs":12,
-    "digs_per_set":1.5,
-    "digs_per_match":1.0909090909
+    "digs":13,
+    "digs_per_set":1.0,
+    "digs_per_match":1.0
   },
   {
     "player":"Nicola",
-    "digs":10,
-    "digs_per_set":1.25,
-    "digs_per_match":0.8333333333
+    "digs":13,
+    "digs_per_set":1.0833333333,
+    "digs_per_match":0.9285714286
   }
 ]
