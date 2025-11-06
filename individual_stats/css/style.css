@@ -1,0 +1,15 @@
+.navbar {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #0047ab;
+  font-weight: 600;
+  margin: 0 15px;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}

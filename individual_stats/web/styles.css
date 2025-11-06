@@ -1,0 +1,180 @@
+body {
+    font-family: system-ui, sans-serif;
+    margin: 20px;
+    background: #fafafa;
+}
+h1 {
+    margin-bottom: 10px;
+}
+.season-selector {
+    margin-bottom: 20px;
+}
+#topScorer {
+    font-weight: 600;
+    margin-bottom: 10px;
+    font-size: 1em;
+}
+
+/* Tabs */
+.tabs {
+    margin-bottom: 15px;
+}
+.tab-button {
+    border: none;
+    background: #eee;
+    padding: 8px 16px;
+    margin-right: 5px;
+    cursor: pointer;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.tab-button.active {
+    background: #0047ab;;
+    color: white;
+}
+
+/* Table styling */
+#statsTable {
+    font-size: 0.85rem;
+    border-collapse: collapse;
+    width: 80%;
+    table-layout: auto;
+}
+#statsTable thead th {
+    font-weight: 600;
+    font-size: 0.8rem;
+    /* text-transform: uppercase; */
+}
+#statsTable tbody td {
+    padding: 6px 8px;
+}
+
+#statsTable td, #statsTable th {
+    text-align: right; /* all numeric columns */
+}
+
+#statsTable td:first-child, #statsTable th:first-child {
+    text-align: left; /* first column (player names) */
+}
+
+.stats-container {
+    max-width: 800px;  /* choose a comfortable width */
+    margin: 0 auto;    /* center on the page */
+    padding-bottom: 200px;  /* optional extra space */
+
+}
+
+.top-controls {
+    display: flex;
+    flex-direction: column;   /* stack topScorer and tabs vertically */
+    align-items: center;      /* center horizontally */
+    margin-bottom: 20px;
+}
+
+#topScorer {
+    font-weight: 600;
+    margin-bottom: 10px;
+    font-size: 1.1em;
+    text-align: center;
+}
+
+.tabs {
+    display: flex;
+    gap: 10px;               /* space between buttons */
+    flex-wrap: wrap;          /* wrap on small screens */
+    justify-content: center;  /* center buttons */
+}
+
+canvas {
+    margin-top: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    padding: 10px;
+    width: 100% !important;
+    height: auto !important;
+    max-height: 400px;
+}
+
+/* same as your main page */
+body {
+    font-family: system-ui, sans-serif;
+    margin: 20px;
+    background: #fafafa;
+}
+h1 { margin-bottom: 10px; }
+.stats-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding-bottom: 200px;
+}
+#gameChart {
+    margin-top: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    padding: 10px;
+    width: 100% !important;
+    max-height: 400px;
+}
+#gameStatsTable {
+    font-size: 0.85rem;
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0 auto;
+}
+#gameStatsTable th, #gameStatsTable td {
+    text-align: right;
+}
+#gameStatsTable th:first-child,
+#gameStatsTable td:first-child {
+    text-align: left;
+}
+.navbar {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.navbar a {
+    text-decoration: none;
+    color: #0047ab;
+    font-weight: 600;
+    margin: 0 15px;
+}
+.navbar a:hover {
+    text-decoration: underline;
+}
+#gameSelector {
+    text-align: center;
+    margin: 20px 0;
+}
+
+
+/* Styling for theme tabs in game stats section */
+
+.theme-tabs {
+  margin-top: 1rem;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.theme-tab {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 6px;
+  background-color: #ddd;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.2s;
+}
+
+.theme-tab:hover {
+  background-color: #ccc;
+}
+
+.theme-tab.active {
+  background-color: #0047ab;
+  color: white;
+  font-weight: 600;
+}
+
+

@@ -6,6 +6,7 @@
     "error_pct":6.8085106383,
     "positive_pct":66.8085106383,
     "perfect_pct":33.1914893617
+<<<<<<< HEAD
   },
   {
     "player":"Bo",
@@ -14,6 +15,8 @@
     "error_pct":50.0,
     "positive_pct":50.0,
     "perfect_pct":0.0
+=======
+>>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Boerme",
@@ -38,6 +41,7 @@
     "error_pct":28.5714285714,
     "positive_pct":28.5714285714,
     "perfect_pct":14.2857142857
+<<<<<<< HEAD
   },
   {
     "player":"Gustav",
@@ -70,6 +74,8 @@
     "error_pct":0.0,
     "positive_pct":100.0,
     "perfect_pct":0.0
+=======
+>>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Mikkel",

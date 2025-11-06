@@ -19,6 +19,7 @@
   },
   {
     "player":"Anton",
+<<<<<<< HEAD
     "attack_attempts":55,
     "total_kills":21,
     "attack_errors":10,
@@ -34,6 +35,23 @@
     "kill_percentage":60.0,
     "error_percentage":20.0,
     "hitting_efficiency":0.4
+=======
+    "attack_attempts":73,
+    "total_kills":27,
+    "attack_errors":15,
+    "kill_percentage":36.9863013699,
+    "error_percentage":20.5479452055,
+    "hitting_efficiency":0.1643835616
+  },
+  {
+    "player":"Bo",
+    "attack_attempts":6,
+    "total_kills":3,
+    "attack_errors":1,
+    "kill_percentage":50.0,
+    "error_percentage":16.6666666667,
+    "hitting_efficiency":0.3333333333
+>>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Bosse",
@@ -55,6 +73,7 @@
   },
   {
     "player":"Hjorth",
+<<<<<<< HEAD
     "attack_attempts":49,
     "total_kills":17,
     "attack_errors":4,
@@ -70,15 +89,50 @@
     "kill_percentage":50.0,
     "error_percentage":8.3333333333,
     "hitting_efficiency":0.4166666667
+=======
+    "attack_attempts":70,
+    "total_kills":24,
+    "attack_errors":9,
+    "kill_percentage":34.2857142857,
+    "error_percentage":12.8571428571,
+    "hitting_efficiency":0.2142857143
   },
   {
-    "player":"Lasse Nielsen",
-    "attack_attempts":5,
+    "player":"Jonas",
+    "attack_attempts":0,
+    "total_kills":0,
+    "attack_errors":0,
+    "kill_percentage":null,
+    "error_percentage":null,
+    "hitting_efficiency":null
+>>>>>>> multiple-file-setup-with-individual-game-stats
+  },
+  {
+    "player":"Kristian",
+    "attack_attempts":33,
+    "total_kills":16,
+    "attack_errors":4,
+    "kill_percentage":48.4848484848,
+    "error_percentage":12.1212121212,
+    "hitting_efficiency":0.3636363636
+  },
+  {
+    "player":"Lasse",
+    "attack_attempts":9,
+    "total_kills":2,
+    "attack_errors":4,
+    "kill_percentage":22.2222222222,
+    "error_percentage":44.4444444444,
+    "hitting_efficiency":-0.2222222222
+  },
+  {
+    "player":"Mads",
+    "attack_attempts":2,
     "total_kills":1,
-    "attack_errors":2,
-    "kill_percentage":20.0,
-    "error_percentage":40.0,
-    "hitting_efficiency":-0.2
+    "attack_errors":0,
+    "kill_percentage":50.0,
+    "error_percentage":0.0,
+    "hitting_efficiency":0.5
   },
   {
     "player":"Mads Q",
@@ -100,6 +154,7 @@
   },
   {
     "player":"Martin",
+<<<<<<< HEAD
     "attack_attempts":78,
     "total_kills":29,
     "attack_errors":15,
@@ -115,5 +170,22 @@
     "kill_percentage":17.7419354839,
     "error_percentage":22.5806451613,
     "hitting_efficiency":-0.0483870968
+=======
+    "attack_attempts":86,
+    "total_kills":32,
+    "attack_errors":18,
+    "kill_percentage":37.2093023256,
+    "error_percentage":20.9302325581,
+    "hitting_efficiency":0.1627906977
+  },
+  {
+    "player":"Nicola",
+    "attack_attempts":69,
+    "total_kills":13,
+    "attack_errors":15,
+    "kill_percentage":18.8405797101,
+    "error_percentage":21.7391304348,
+    "hitting_efficiency":-0.0289855072
+>>>>>>> multiple-file-setup-with-individual-game-stats
   }
 ]

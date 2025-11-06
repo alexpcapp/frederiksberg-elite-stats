@@ -13,108 +13,15 @@
   <!-- Chart.js -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
-  <style>
-    body {
-      font-family: system-ui, sans-serif;
-      margin: 20px;
-      background: #fafafa;
-    }
-    h1 {
-      margin-bottom: 10px;
-    }
-    .season-selector {
-      margin-bottom: 20px;
-    }
-    #topScorer {
-      font-weight: 600;
-      margin-bottom: 10px;
-      font-size: 1em;
-    }
+  <!-- My custom styles -- local .css-file -->
+  <link rel="stylesheet" href="web/styles.css">
 
-    /* Tabs */
-    .tabs {
-      margin-bottom: 15px;
-    }
-    .tab-button {
-      border: none;
-      background: #eee;
-      padding: 8px 16px;
-      margin-right: 5px;
-      cursor: pointer;
-      font-weight: 600;
-      border-radius: 5px;
-    }
-    .tab-button.active {
-      background: #0047ab;;
-      color: white;
-    }
-
-    /* Table styling */
-    #statsTable {
-      font-size: 0.85rem;
-      border-collapse: collapse;
-      width: 80%;
-      table-layout: auto;
-    }
-    #statsTable thead th {
-      font-weight: 600;
-      font-size: 0.8rem;
-      /* text-transform: uppercase; */
-    }
-    #statsTable tbody td {
-      padding: 6px 8px;
-    }
-
-    #statsTable td, #statsTable th {
-        text-align: right; /* all numeric columns */
-    }
-
-    #statsTable td:first-child, #statsTable th:first-child {
-        text-align: left; /* first column (player names) */
-    }
-
-    .stats-container {
-        max-width: 800px;  /* choose a comfortable width */
-        margin: 0 auto;    /* center on the page */
-        padding-bottom: 200px;  /* optional extra space */
-
-    }
-
-    .top-controls {
-        display: flex;
-        flex-direction: column;   /* stack topScorer and tabs vertically */
-        align-items: center;      /* center horizontally */
-        margin-bottom: 20px;
-    }
-
-    #topScorer {
-        font-weight: 600;
-        margin-bottom: 10px;
-        font-size: 1.1em;
-        text-align: center;
-    }
-
-    .tabs {
-        display: flex;
-        gap: 10px;               /* space between buttons */
-        flex-wrap: wrap;          /* wrap on small screens */
-        justify-content: center;  /* center buttons */
-    }
-
-    canvas {
-      margin-top: 20px;
-      background: white;
-      border-radius: 8px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-      padding: 10px;
-      width: 100% !important;
-      height: auto !important;
-      max-height: 400px;
-    }
-  </style>
 </head>
 <body>
-  <h1>Frederiksberg Elite</h1>
+  <h1>Ranking</h1>
+
+    <script src="web/shared.js"></script>
+
 
   <div class="season-selector">
     <label for="season">Select season:</label>
@@ -129,10 +36,10 @@
 
   <div class="tabs">
         <button class="tab-button active" data-stat="top_scorer">Top Scorers</button>
-        <button class="tab-button" data-stat="top_offense">Most Kills</button>
-        <button class="tab-button" data-stat="top_blocker">Most Blocks</button>
+        <button class="tab-button" data-stat="top_offense">Best Hitter</button>
+        <button class="tab-button" data-stat="top_blocker">Best Blocker</button>
         <button class="tab-button" data-stat="top_digger">Most Digs</button>
-        <button class="tab-button" data-stat="top_server">Most Aces</button>
+        <button class="tab-button" data-stat="top_server">Best Server</button>
         <button class="tab-button" data-stat="top_passer">Best Passer</button>
 
     </div>
@@ -168,8 +75,8 @@
       top_offense: ["player","hitting_efficiency","total_kills","kill_percentage"],
       top_blocker: ["player","blocks","blocks_per_set"],
       top_digger: ["player","digs","digs_per_set"],
-      top_server: ["player","aces","serve_efficiency", "ace_percentage"],
-      top_passer: ["player","average_pass_rating","perfect_pct"]
+      top_server: ["player","aces","average_serve_rating", "ace_percentage", "point_scoring_pct"],
+      top_passer: ["player","average_pass_rating", "positive_pct", "perfect_pct"]
     };
 
     // Column headers for table
@@ -178,8 +85,8 @@
       top_offense: ["Player","Kill Efficiency","Total Kills","Kill %"],
       top_blocker: ["Player","Total Blocks","Blocks/Set"],
       top_digger: ["Player","Total Digs","Digs/Set"],
-      top_server: ["Player","Total Aces","Serve Efficiency", "Ace %"],
-      top_passer: ["Player","Pass Rating", "Perfect %"]
+      top_server: ["Player","Total Aces","Serve Rating", "Ace %", "Points Won %"],
+      top_passer: ["Player","Pass Rating", "Positive %", "Perfect %"]
     };
 
     function getFilePath(season, stat) {
@@ -230,9 +137,9 @@ if (currentStat === "top_offense") {
 
 topScorerDiv.textContent = `🏆 Top ${currentStat.replace("top_","").replace("_"," ")}: ${topPlayer.player} — ${displayValue} ${label}`;
 
-      // Table data
-      const cols = statColumns[currentStat];
-      const headers = columnHeaders[currentStat];
+// Table data
+const cols = statColumns[currentStat];
+const headers = columnHeaders[currentStat];
     
     // Define which columns are integers
         const formatters = {
@@ -251,6 +158,7 @@ topScorerDiv.textContent = `🏆 Top ${currentStat.replace("top_","").replace("_
             blocks_per_set: v => v.toFixed(2),
             digs_per_set: v => v.toFixed(2),
             aces_per_set: v => v.toFixed(2),
+            average_serve_rating: v => v.toFixed(2),
 
             // Percentages (example: 0.45 → 45%)
             ace_percentage: v => (v).toFixed(0) + "%",
@@ -258,6 +166,8 @@ topScorerDiv.textContent = `🏆 Top ${currentStat.replace("top_","").replace("_
             error_pct: v => (v).toFixed(1) + "%",
             positive_pct: v => (v).toFixed(1) + "%",
             perfect_pct: v => (v).toFixed(1) + "%",
+            points_won_percentage: v => (v).toFixed(0) +"%",
+            point_scoring_pct: v => (v).toFixed(0) +"%",
 
             // Ratios like ".123" → show 3 decimals
             serve_efficiency: v => v.toFixed(3),

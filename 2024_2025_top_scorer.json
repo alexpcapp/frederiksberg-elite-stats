@@ -63,7 +63,7 @@
     "errors_per_match":4.7142857143
   },
   {
-    "player":"Kristian Krag",
+    "player":"Kristian",
     "total_earned":55,
     "total_errors":36,
     "points_per_set":1.5714285714,
@@ -72,7 +72,7 @@
     "errors_per_match":3.2727272727
   },
   {
-    "player":"Lasse Nielsen",
+    "player":"Lasse",
     "total_earned":62,
     "total_errors":70,
     "points_per_set":1.55,
@@ -81,7 +81,7 @@
     "errors_per_match":6.3636363636
   },
   {
-    "player":"Mads Q",
+    "player":"Mads",
     "total_earned":18,
     "total_errors":16,
     "points_per_set":0.8571428571,
