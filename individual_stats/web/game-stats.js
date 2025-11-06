@@ -138,6 +138,7 @@ function populateSummaryTable(matchId) {
     { key: "Digs", label: "Most Digs" },
   ];
 
+  
   categories.forEach(cat => {
     let bestPlayer = null;
     let bestValue = -Infinity;
