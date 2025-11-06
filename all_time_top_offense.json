@@ -19,23 +19,6 @@
   },
   {
     "player":"Anton",
-<<<<<<< HEAD
-    "attack_attempts":55,
-    "total_kills":21,
-    "attack_errors":10,
-    "kill_percentage":38.1818181818,
-    "error_pct":18.1818181818,
-    "hitting_efficiency":0.2
-  },
-  {
-    "player":"Bo",
-    "attack_attempts":42,
-    "total_kills":17,
-    "attack_errors":8,
-    "kill_percentage":40.4761904762,
-    "error_pct":19.0476190476,
-    "hitting_efficiency":0.2142857143
-=======
     "attack_attempts":73,
     "total_kills":27,
     "attack_errors":15,
@@ -51,7 +34,6 @@
     "kill_percentage":39.5348837209,
     "error_pct":18.6046511628,
     "hitting_efficiency":0.2093023256
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Boerme",
@@ -91,38 +73,6 @@
   },
   {
     "player":"Hjorth",
-<<<<<<< HEAD
-    "attack_attempts":49,
-    "total_kills":17,
-    "attack_errors":4,
-    "kill_percentage":34.693877551,
-    "error_pct":8.1632653061,
-    "hitting_efficiency":0.2653061224
-  },
-  {
-    "player":"Kristian Krag",
-    "attack_attempts":103,
-    "total_kills":49,
-    "attack_errors":13,
-    "kill_percentage":47.572815534,
-    "error_pct":12.6213592233,
-    "hitting_efficiency":0.3495145631
-  },
-  {
-    "player":"Lasse Nielsen",
-    "attack_attempts":61,
-    "total_kills":23,
-    "attack_errors":10,
-    "kill_percentage":37.7049180328,
-    "error_pct":16.393442623,
-    "hitting_efficiency":0.2131147541
-  },
-  {
-    "player":"Mads Q",
-    "attack_attempts":13,
-    "total_kills":5,
-    "attack_errors":0,
-=======
     "attack_attempts":70,
     "total_kills":24,
     "attack_errors":9,
@@ -162,7 +112,6 @@
     "attack_attempts":13,
     "total_kills":5,
     "attack_errors":0,
->>>>>>> multiple-file-setup-with-individual-game-stats
     "kill_percentage":38.4615384615,
     "error_pct":0.0,
     "hitting_efficiency":0.3846153846
@@ -178,21 +127,12 @@
   },
   {
     "player":"Martin",
-<<<<<<< HEAD
-    "attack_attempts":325,
-    "total_kills":138,
-    "attack_errors":61,
-    "kill_percentage":42.4615384615,
-    "error_pct":18.7692307692,
-    "hitting_efficiency":0.2369230769
-=======
     "attack_attempts":333,
     "total_kills":141,
     "attack_errors":64,
     "kill_percentage":42.3423423423,
     "error_pct":19.2192192192,
     "hitting_efficiency":0.2312312312
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Mikkel",
@@ -214,21 +154,12 @@
   },
   {
     "player":"Nicola",
-<<<<<<< HEAD
-    "attack_attempts":334,
-    "total_kills":125,
-    "attack_errors":51,
-    "kill_percentage":37.4251497006,
-    "error_pct":15.2694610778,
-    "hitting_efficiency":0.2215568862
-=======
     "attack_attempts":341,
     "total_kills":127,
     "attack_errors":52,
     "kill_percentage":37.2434017595,
     "error_pct":15.2492668622,
     "hitting_efficiency":0.219941349
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Soeren",

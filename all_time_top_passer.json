@@ -1,29 +1,6 @@
 [
   {
     "player":"Alex",
-<<<<<<< HEAD
-    "average_pass_rating":1.8861538462,
-    "pass-attempt":272,
-    "error_pct":7.7205882353,
-    "positive_pct":66.5441176471,
-    "perfect_pct":30.8823529412
-  },
-  {
-    "player":"Anton",
-    "average_pass_rating":2.13,
-    "pass-attempt":59,
-    "error_pct":1.6949152542,
-    "positive_pct":77.9661016949,
-    "perfect_pct":35.593220339
-  },
-  {
-    "player":"Bo",
-    "average_pass_rating":1.0,
-    "pass-attempt":2,
-    "error_pct":50.0,
-    "positive_pct":50.0,
-    "perfect_pct":0.0
-=======
     "average_pass_rating":1.8721428571,
     "pass-attempt":293,
     "error_pct":7.8498293515,
@@ -37,7 +14,6 @@
     "error_pct":2.8571428571,
     "positive_pct":77.1428571429,
     "perfect_pct":35.7142857143
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Boerme",
@@ -62,48 +38,6 @@
     "error_pct":28.5714285714,
     "positive_pct":28.5714285714,
     "perfect_pct":14.2857142857
-<<<<<<< HEAD
-  },
-  {
-    "player":"Gustav",
-    "average_pass_rating":1.5,
-    "pass-attempt":5,
-    "error_pct":20.0,
-    "positive_pct":60.0,
-    "perfect_pct":40.0
-  },
-  {
-    "player":"Hjorth",
-    "average_pass_rating":2.405,
-    "pass-attempt":29,
-    "error_pct":0.0,
-    "positive_pct":89.6551724138,
-    "perfect_pct":51.724137931
-  },
-  {
-    "player":"Kristian Krag",
-    "average_pass_rating":2.0,
-    "pass-attempt":5,
-    "error_pct":0.0,
-    "positive_pct":60.0,
-    "perfect_pct":40.0
-  },
-  {
-    "player":"Lasse Nielsen",
-    "average_pass_rating":1.0,
-    "pass-attempt":1,
-    "error_pct":0.0,
-    "positive_pct":0.0,
-    "perfect_pct":0.0
-  },
-  {
-    "player":"Martin",
-    "average_pass_rating":2.0,
-    "pass-attempt":2,
-    "error_pct":0.0,
-    "positive_pct":100.0,
-    "perfect_pct":0.0
-=======
   },
   {
     "player":"Hjorth",
@@ -112,7 +46,6 @@
     "error_pct":4.4444444444,
     "positive_pct":84.4444444444,
     "perfect_pct":40.0
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Mikkel",
@@ -132,19 +65,11 @@
   },
   {
     "player":"Nicola",
-<<<<<<< HEAD
-    "average_pass_rating":1.8876923077,
-    "pass-attempt":244,
-    "error_pct":3.6885245902,
-    "positive_pct":69.6721311475,
-    "perfect_pct":27.4590163934
-=======
     "average_pass_rating":1.86,
     "pass-attempt":256,
     "error_pct":3.515625,
     "positive_pct":69.140625,
     "perfect_pct":26.171875
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Vestbjerg",

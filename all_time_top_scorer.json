@@ -2,19 +2,11 @@
   {
     "player":"Alex",
     "total_earned":2,
-<<<<<<< HEAD
-    "total_errors":73,
-    "points_per_set":0.0363636364,
-    "errors_per_set":1.3272727273,
-    "points_per_match":0.1428571429,
-    "errors_per_match":5.2142857143
-=======
     "total_errors":75,
     "points_per_set":0.0344827586,
     "errors_per_set":1.2931034483,
     "points_per_match":0.1333333333,
     "errors_per_match":5.0
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Ando",
@@ -27,38 +19,21 @@
   },
   {
     "player":"Anton",
-<<<<<<< HEAD
-    "total_earned":27,
-    "total_errors":13,
-    "points_per_set":3.375,
-    "errors_per_set":1.625,
-    "points_per_match":13.5,
-    "errors_per_match":6.5
-=======
     "total_earned":35,
     "total_errors":22,
     "points_per_set":3.1818181818,
     "errors_per_set":2.0,
     "points_per_match":11.6666666667,
     "errors_per_match":7.3333333333
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Bo",
     "total_earned":45,
-<<<<<<< HEAD
-    "total_errors":37,
-    "points_per_set":1.3235294118,
-    "errors_per_set":1.0882352941,
-    "points_per_match":4.5,
-    "errors_per_match":3.7
-=======
     "total_errors":39,
     "points_per_set":1.2857142857,
     "errors_per_set":1.1142857143,
     "points_per_match":4.0909090909,
     "errors_per_match":3.5454545455
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Boerme",
@@ -98,35 +73,6 @@
   },
   {
     "player":"Hjorth",
-<<<<<<< HEAD
-    "total_earned":21,
-    "total_errors":8,
-    "points_per_set":3.5,
-    "errors_per_set":1.3333333333,
-    "points_per_match":10.5,
-    "errors_per_match":4.0
-  },
-  {
-    "player":"Kristian Krag",
-    "total_earned":73,
-    "total_errors":42,
-    "points_per_set":1.7380952381,
-    "errors_per_set":1.0,
-    "points_per_match":5.6153846154,
-    "errors_per_match":3.2307692308
-  },
-  {
-    "player":"Lasse Nielsen",
-    "total_earned":68,
-    "total_errors":77,
-    "points_per_set":1.5111111111,
-    "errors_per_set":1.7111111111,
-    "points_per_match":5.6666666667,
-    "errors_per_match":6.4166666667
-  },
-  {
-    "player":"Mads Q",
-=======
     "total_earned":31,
     "total_errors":20,
     "points_per_set":3.4444444444,
@@ -163,7 +109,6 @@
   },
   {
     "player":"Mads",
->>>>>>> multiple-file-setup-with-individual-game-stats
     "total_earned":23,
     "total_errors":17,
     "points_per_set":0.9583333333,
@@ -182,21 +127,12 @@
   },
   {
     "player":"Martin",
-<<<<<<< HEAD
-    "total_earned":171,
-    "total_errors":119,
-    "points_per_set":4.275,
-    "errors_per_set":2.975,
-    "points_per_match":14.25,
-    "errors_per_match":9.9166666667
-=======
     "total_earned":178,
     "total_errors":124,
     "points_per_set":4.1395348837,
     "errors_per_set":2.8837209302,
     "points_per_match":13.6923076923,
     "errors_per_match":9.5384615385
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Mikkel",
@@ -218,21 +154,12 @@
   },
   {
     "player":"Nicola",
-<<<<<<< HEAD
-    "total_earned":152,
-    "total_errors":84,
-    "points_per_set":3.1666666667,
-    "errors_per_set":1.75,
-    "points_per_match":11.6923076923,
-    "errors_per_match":6.4615384615
-=======
     "total_earned":155,
     "total_errors":86,
     "points_per_set":3.1,
     "errors_per_set":1.72,
     "points_per_match":11.0714285714,
     "errors_per_match":6.1428571429
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Soeren",

@@ -1,15 +1,9 @@
 [
   {
     "player":"Alex",
-<<<<<<< HEAD
-    "digs":132,
-    "digs_per_set":2.4,
-    "digs_per_match":9.4285714286
-=======
     "digs":134,
     "digs_per_set":2.3103448276,
     "digs_per_match":8.9333333333
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Ando",
@@ -19,26 +13,15 @@
   },
   {
     "player":"Anton",
-<<<<<<< HEAD
-    "digs":8,
-    "digs_per_set":1.0,
-    "digs_per_match":4.0
-=======
     "digs":9,
     "digs_per_set":0.8181818182,
     "digs_per_match":3.0
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Bo",
     "digs":15,
-<<<<<<< HEAD
-    "digs_per_set":0.4411764706,
-    "digs_per_match":1.5
-=======
     "digs_per_set":0.4285714286,
     "digs_per_match":1.3636363636
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Boerme",
@@ -66,15 +49,9 @@
   },
   {
     "player":"Hjorth",
-<<<<<<< HEAD
-    "digs":11,
-    "digs_per_set":1.8333333333,
-    "digs_per_match":5.5
-=======
     "digs":13,
     "digs_per_set":1.4444444444,
     "digs_per_match":4.3333333333
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Jonas",
@@ -85,13 +62,8 @@
   {
     "player":"Kristian",
     "digs":23,
-<<<<<<< HEAD
-    "digs_per_set":0.5476190476,
-    "digs_per_match":1.7692307692
-=======
     "digs_per_set":0.5111111111,
     "digs_per_match":1.6428571429
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Lasse",
@@ -100,11 +72,7 @@
     "digs_per_match":7.0769230769
   },
   {
-<<<<<<< HEAD
-    "player":"Mads Q",
-=======
     "player":"Mads",
->>>>>>> multiple-file-setup-with-individual-game-stats
     "digs":23,
     "digs_per_set":0.9583333333,
     "digs_per_match":3.8333333333
@@ -118,13 +86,8 @@
   {
     "player":"Martin",
     "digs":57,
-<<<<<<< HEAD
-    "digs_per_set":1.425,
-    "digs_per_match":4.75
-=======
     "digs_per_set":1.3255813953,
     "digs_per_match":4.3846153846
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Mikkel",
@@ -140,15 +103,9 @@
   },
   {
     "player":"Nicola",
-<<<<<<< HEAD
-    "digs":50,
-    "digs_per_set":1.0416666667,
-    "digs_per_match":3.8461538462
-=======
     "digs":51,
     "digs_per_set":1.02,
     "digs_per_match":3.6428571429
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Soeren",

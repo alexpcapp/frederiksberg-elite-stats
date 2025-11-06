@@ -283,8 +283,6 @@
     "match_name":"hv2-frb",
     "opponent":"Hvidovre VK.2",
     "id_opponent_date":"147434 - Hvidovre VK.2 - 2025.10.12"
-<<<<<<< HEAD
-=======
   },
   {
     "kampnr":147577,
@@ -304,6 +302,5 @@
     "match_name":"frb-ode",
     "opponent":"Odense Volleyball",
     "id_opponent_date":"147577 - Odense Volleyball - 2025.11.01"
->>>>>>> multiple-file-setup-with-individual-game-stats
   }
 ]

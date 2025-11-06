@@ -3,11 +3,7 @@
     "player":"Alex",
     "digs":111,
     "digs_per_set":2.5227272727,
-<<<<<<< HEAD
-    "digs_per_match":7.9285714286
-=======
     "digs_per_match":7.4
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Ando",
@@ -19,11 +15,7 @@
     "player":"Bo",
     "digs":14,
     "digs_per_set":0.4827586207,
-<<<<<<< HEAD
-    "digs_per_match":1.4
-=======
     "digs_per_match":1.2727272727
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Boerme",
@@ -53,11 +45,7 @@
     "player":"Kristian",
     "digs":21,
     "digs_per_set":0.6,
-<<<<<<< HEAD
-    "digs_per_match":1.6153846154
-=======
     "digs_per_match":1.5
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Lasse",
@@ -75,11 +63,7 @@
     "player":"Martin",
     "digs":44,
     "digs_per_set":1.4666666667,
-<<<<<<< HEAD
-    "digs_per_match":3.6666666667
-=======
     "digs_per_match":3.3846153846
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Mikkel",
@@ -97,11 +81,7 @@
     "player":"Nicola",
     "digs":38,
     "digs_per_set":1.0,
-<<<<<<< HEAD
-    "digs_per_match":2.9230769231
-=======
     "digs_per_match":2.7142857143
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Soeren",

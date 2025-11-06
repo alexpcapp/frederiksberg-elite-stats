@@ -18,29 +18,6 @@
     "serve_efficiency":0.0625,
     "ace_percentage":6.25,
     "error_percentage":0.0,
-<<<<<<< HEAD
-    "points_won_percentage":37.5
-  },
-  {
-    "player":"Anton",
-    "average_serve_rating":2.55,
-    "aces":3,
-    "points_won_on_serve":13,
-    "serve_efficiency":0.0,
-    "ace_percentage":10.7142857143,
-    "error_percentage":10.7142857143,
-    "points_won_percentage":46.4285714286
-  },
-  {
-    "player":"Bo",
-    "average_serve_rating":1.44,
-    "aces":0,
-    "points_won_on_serve":3,
-    "serve_efficiency":-0.2,
-    "ace_percentage":0.0,
-    "error_percentage":20.0,
-    "points_won_percentage":30.0
-=======
     "points_won_percentage":37.5,
     "point_scoring_pct":40.0
   },
@@ -65,7 +42,6 @@
     "error_percentage":30.7692307692,
     "points_won_percentage":30.7692307692,
     "point_scoring_pct":23.6
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Bosse",
@@ -91,25 +67,6 @@
   },
   {
     "player":"Hjorth",
-<<<<<<< HEAD
-    "average_serve_rating":2.12,
-    "aces":3,
-    "points_won_on_serve":13,
-    "serve_efficiency":-0.0357142857,
-    "ace_percentage":10.7142857143,
-    "error_percentage":14.2857142857,
-    "points_won_percentage":46.4285714286
-  },
-  {
-    "player":"Kristian Krag",
-    "average_serve_rating":1.345,
-    "aces":0,
-    "points_won_on_serve":3,
-    "serve_efficiency":-0.2857142857,
-    "ace_percentage":0.0,
-    "error_percentage":28.5714285714,
-    "points_won_percentage":21.4285714286
-=======
     "average_serve_rating":1.8866666667,
     "aces":5,
     "points_won_on_serve":17,
@@ -140,7 +97,6 @@
     "error_percentage":29.4117647059,
     "points_won_percentage":17.6470588235,
     "point_scoring_pct":9.1
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Lasse",
@@ -165,16 +121,6 @@
     "point_scoring_pct":63.2
   },
   {
-    "player":"Mads Q",
-    "average_serve_rating":2.32,
-    "aces":2,
-    "points_won_on_serve":12,
-    "serve_efficiency":0.1052631579,
-    "ace_percentage":10.5263157895,
-    "error_percentage":0.0,
-    "points_won_percentage":63.1578947368
-  },
-  {
     "player":"Malthe",
     "average_serve_rating":1.69,
     "aces":0,
@@ -187,25 +133,6 @@
   },
   {
     "player":"Martin",
-<<<<<<< HEAD
-    "average_serve_rating":1.3566666667,
-    "aces":1,
-    "points_won_on_serve":7,
-    "serve_efficiency":-0.2916666667,
-    "ace_percentage":4.1666666667,
-    "error_percentage":33.3333333333,
-    "points_won_percentage":29.1666666667
-  },
-  {
-    "player":"Nicola",
-    "average_serve_rating":1.9466666667,
-    "aces":2,
-    "points_won_on_serve":17,
-    "serve_efficiency":-0.0277777778,
-    "ace_percentage":5.5555555556,
-    "error_percentage":8.3333333333,
-    "points_won_percentage":47.2222222222
-=======
     "average_serve_rating":1.4825,
     "aces":3,
     "points_won_on_serve":10,
@@ -225,6 +152,5 @@
     "error_percentage":9.756097561,
     "points_won_percentage":43.9024390244,
     "point_scoring_pct":40.775
->>>>>>> multiple-file-setup-with-individual-game-stats
   }
 ]

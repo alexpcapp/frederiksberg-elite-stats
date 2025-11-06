@@ -6,17 +6,6 @@
     "error_pct":6.8085106383,
     "positive_pct":66.8085106383,
     "perfect_pct":33.1914893617
-<<<<<<< HEAD
-  },
-  {
-    "player":"Bo",
-    "average_pass_rating":1.0,
-    "pass-attempt":2,
-    "error_pct":50.0,
-    "positive_pct":50.0,
-    "perfect_pct":0.0
-=======
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Boerme",
@@ -41,41 +30,6 @@
     "error_pct":28.5714285714,
     "positive_pct":28.5714285714,
     "perfect_pct":14.2857142857
-<<<<<<< HEAD
-  },
-  {
-    "player":"Gustav",
-    "average_pass_rating":1.5,
-    "pass-attempt":5,
-    "error_pct":20.0,
-    "positive_pct":60.0,
-    "perfect_pct":40.0
-  },
-  {
-    "player":"Kristian Krag",
-    "average_pass_rating":2.0,
-    "pass-attempt":5,
-    "error_pct":0.0,
-    "positive_pct":60.0,
-    "perfect_pct":40.0
-  },
-  {
-    "player":"Lasse Nielsen",
-    "average_pass_rating":1.0,
-    "pass-attempt":1,
-    "error_pct":0.0,
-    "positive_pct":0.0,
-    "perfect_pct":0.0
-  },
-  {
-    "player":"Martin",
-    "average_pass_rating":2.0,
-    "pass-attempt":1,
-    "error_pct":0.0,
-    "positive_pct":100.0,
-    "perfect_pct":0.0
-=======
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Mikkel",

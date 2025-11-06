@@ -19,23 +19,6 @@
   },
   {
     "player":"Anton",
-<<<<<<< HEAD
-    "attack_attempts":55,
-    "total_kills":21,
-    "attack_errors":10,
-    "kill_percentage":38.1818181818,
-    "error_percentage":18.1818181818,
-    "hitting_efficiency":0.2
-  },
-  {
-    "player":"Bo",
-    "attack_attempts":5,
-    "total_kills":3,
-    "attack_errors":1,
-    "kill_percentage":60.0,
-    "error_percentage":20.0,
-    "hitting_efficiency":0.4
-=======
     "attack_attempts":73,
     "total_kills":27,
     "attack_errors":15,
@@ -51,7 +34,6 @@
     "kill_percentage":50.0,
     "error_percentage":16.6666666667,
     "hitting_efficiency":0.3333333333
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Bosse",
@@ -73,23 +55,6 @@
   },
   {
     "player":"Hjorth",
-<<<<<<< HEAD
-    "attack_attempts":49,
-    "total_kills":17,
-    "attack_errors":4,
-    "kill_percentage":34.693877551,
-    "error_percentage":8.1632653061,
-    "hitting_efficiency":0.2653061224
-  },
-  {
-    "player":"Kristian Krag",
-    "attack_attempts":24,
-    "total_kills":12,
-    "attack_errors":2,
-    "kill_percentage":50.0,
-    "error_percentage":8.3333333333,
-    "hitting_efficiency":0.4166666667
-=======
     "attack_attempts":70,
     "total_kills":24,
     "attack_errors":9,
@@ -105,7 +70,6 @@
     "kill_percentage":null,
     "error_percentage":null,
     "hitting_efficiency":null
->>>>>>> multiple-file-setup-with-individual-game-stats
   },
   {
     "player":"Kristian",
@@ -135,15 +99,6 @@
     "hitting_efficiency":0.5
   },
   {
-    "player":"Mads Q",
-    "attack_attempts":2,
-    "total_kills":1,
-    "attack_errors":0,
-    "kill_percentage":50.0,
-    "error_percentage":0.0,
-    "hitting_efficiency":0.5
-  },
-  {
     "player":"Malthe",
     "attack_attempts":19,
     "total_kills":9,
@@ -154,23 +109,6 @@
   },
   {
     "player":"Martin",
-<<<<<<< HEAD
-    "attack_attempts":78,
-    "total_kills":29,
-    "attack_errors":15,
-    "kill_percentage":37.1794871795,
-    "error_percentage":19.2307692308,
-    "hitting_efficiency":0.1794871795
-  },
-  {
-    "player":"Nicola",
-    "attack_attempts":62,
-    "total_kills":11,
-    "attack_errors":14,
-    "kill_percentage":17.7419354839,
-    "error_percentage":22.5806451613,
-    "hitting_efficiency":-0.0483870968
-=======
     "attack_attempts":86,
     "total_kills":32,
     "attack_errors":18,
@@ -186,6 +124,5 @@
     "kill_percentage":18.8405797101,
     "error_percentage":21.7391304348,
     "hitting_efficiency":-0.0289855072
->>>>>>> multiple-file-setup-with-individual-game-stats
   }
 ]
