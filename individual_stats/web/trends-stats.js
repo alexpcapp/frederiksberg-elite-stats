@@ -110,8 +110,8 @@ tabButtons.forEach(btn => {
 // === Load data for team or player ===
 function loadData(type = "team") {
   const path = type === "player"
-    ? "../../per_game_player_stat.json"
-    : "../../per_game_team_stat.json";
+    ? "../per_game_player_stat.json"
+    : "../per_game_team_stat.json";
 
   fetch(path)
     .then(resp => resp.json())
