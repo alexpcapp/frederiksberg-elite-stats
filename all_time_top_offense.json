@@ -19,30 +19,30 @@
   },
   {
     "player":"Anton",
-    "attack_attempts":73,
-    "total_kills":27,
-    "attack_errors":15,
-    "kill_percentage":36.9863013699,
-    "error_pct":20.5479452055,
-    "hitting_efficiency":0.1643835616
+    "attack_attempts":110,
+    "total_kills":39,
+    "attack_errors":23,
+    "kill_percentage":35.4545454545,
+    "error_pct":20.9090909091,
+    "hitting_efficiency":0.1454545455
   },
   {
     "player":"Bo",
-    "attack_attempts":43,
-    "total_kills":17,
-    "attack_errors":8,
-    "kill_percentage":39.5348837209,
-    "error_pct":18.6046511628,
-    "hitting_efficiency":0.2093023256
+    "attack_attempts":45,
+    "total_kills":18,
+    "attack_errors":9,
+    "kill_percentage":40.0,
+    "error_pct":20.0,
+    "hitting_efficiency":0.2
   },
   {
     "player":"Boerme",
-    "attack_attempts":118,
-    "total_kills":46,
-    "attack_errors":20,
-    "kill_percentage":38.9830508475,
-    "error_pct":16.9491525424,
-    "hitting_efficiency":0.2203389831
+    "attack_attempts":128,
+    "total_kills":50,
+    "attack_errors":22,
+    "kill_percentage":39.0625,
+    "error_pct":17.1875,
+    "hitting_efficiency":0.21875
   },
   {
     "player":"Bosse",
@@ -64,48 +64,48 @@
   },
   {
     "player":"Gustav",
-    "attack_attempts":84,
-    "total_kills":31,
-    "attack_errors":13,
-    "kill_percentage":36.9047619048,
-    "error_pct":15.4761904762,
-    "hitting_efficiency":0.2142857143
+    "attack_attempts":95,
+    "total_kills":39,
+    "attack_errors":14,
+    "kill_percentage":41.0526315789,
+    "error_pct":14.7368421053,
+    "hitting_efficiency":0.2631578947
   },
   {
     "player":"Hjorth",
-    "attack_attempts":70,
-    "total_kills":24,
-    "attack_errors":9,
-    "kill_percentage":34.2857142857,
-    "error_pct":12.8571428571,
-    "hitting_efficiency":0.2142857143
+    "attack_attempts":82,
+    "total_kills":31,
+    "attack_errors":11,
+    "kill_percentage":37.8048780488,
+    "error_pct":13.4146341463,
+    "hitting_efficiency":0.243902439
   },
   {
     "player":"Jonas",
-    "attack_attempts":0,
+    "attack_attempts":2,
     "total_kills":0,
     "attack_errors":0,
-    "kill_percentage":null,
-    "error_pct":null,
-    "hitting_efficiency":null
+    "kill_percentage":0.0,
+    "error_pct":0.0,
+    "hitting_efficiency":0.0
   },
   {
     "player":"Kristian",
-    "attack_attempts":112,
-    "total_kills":53,
+    "attack_attempts":119,
+    "total_kills":56,
     "attack_errors":15,
-    "kill_percentage":47.3214285714,
-    "error_pct":13.3928571429,
-    "hitting_efficiency":0.3392857143
+    "kill_percentage":47.0588235294,
+    "error_pct":12.6050420168,
+    "hitting_efficiency":0.3445378151
   },
   {
     "player":"Lasse",
-    "attack_attempts":65,
-    "total_kills":24,
-    "attack_errors":12,
-    "kill_percentage":36.9230769231,
-    "error_pct":18.4615384615,
-    "hitting_efficiency":0.1846153846
+    "attack_attempts":74,
+    "total_kills":28,
+    "attack_errors":13,
+    "kill_percentage":37.8378378378,
+    "error_pct":17.5675675676,
+    "hitting_efficiency":0.2027027027
   },
   {
     "player":"Mads",
@@ -118,21 +118,21 @@
   },
   {
     "player":"Malthe",
-    "attack_attempts":19,
-    "total_kills":9,
-    "attack_errors":5,
-    "kill_percentage":47.3684210526,
-    "error_pct":26.3157894737,
-    "hitting_efficiency":0.2105263158
+    "attack_attempts":23,
+    "total_kills":10,
+    "attack_errors":6,
+    "kill_percentage":43.4782608696,
+    "error_pct":26.0869565217,
+    "hitting_efficiency":0.1739130435
   },
   {
     "player":"Martin",
-    "attack_attempts":333,
-    "total_kills":141,
-    "attack_errors":64,
-    "kill_percentage":42.3423423423,
-    "error_pct":19.2192192192,
-    "hitting_efficiency":0.2312312312
+    "attack_attempts":355,
+    "total_kills":152,
+    "attack_errors":66,
+    "kill_percentage":42.8169014085,
+    "error_pct":18.5915492958,
+    "hitting_efficiency":0.2422535211
   },
   {
     "player":"Mikkel",

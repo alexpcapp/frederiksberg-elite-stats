@@ -308,6 +308,28 @@
     "Points_Won_on_Serve_%":43.6893203883
   },
   {
+    "Pass_Rating":" 1.76",
+    "First_Ball_Side_Out_%":" 38.2%",
+    "":" ",
+    "kampnr":144610,
+    "Serve_Attempts":96.0,
+    "Serve_Rating":" 1.77",
+    "Aces":6.0,
+    "Points_Won_on_Serve":47.0,
+    "Serve_Error_%":" 15.6%",
+    "Ace_%":" 6.3%",
+    "Blocks\/Set":4.0,
+    "Digs\/Set":9.5,
+    "Kills\/Set":12.8,
+    "Attack_Errors\/Set":4.5,
+    "Hitting_Efficiency":" 0.284",
+    "Kill_%":" 44.0%",
+    "season":"2025\/2026",
+    "date":1762560000000,
+    "opponent":"Gentofte Volley.2",
+    "Points_Won_on_Serve_%":48.9583333333
+  },
+  {
     "Pass_Rating":" 1.80",
     "First_Ball_Side_Out_%":" 29.5%",
     "":" ",

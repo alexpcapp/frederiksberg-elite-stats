@@ -1,9 +1,9 @@
 [
   {
     "player":"Alex",
-    "digs":23,
-    "digs_per_set":1.6428571429,
-    "digs_per_match":1.5333333333
+    "digs":34,
+    "digs_per_set":1.8888888889,
+    "digs_per_match":2.125
   },
   {
     "player":"Ando",
@@ -13,15 +13,21 @@
   },
   {
     "player":"Anton",
-    "digs":9,
-    "digs_per_set":0.8181818182,
-    "digs_per_match":3.0
+    "digs":10,
+    "digs_per_set":0.6666666667,
+    "digs_per_match":2.5
   },
   {
     "player":"Bo",
     "digs":1,
-    "digs_per_set":0.1666666667,
-    "digs_per_match":0.0909090909
+    "digs_per_set":0.125,
+    "digs_per_match":0.0833333333
+  },
+  {
+    "player":"Boerme",
+    "digs":5,
+    "digs_per_set":1.6666666667,
+    "digs_per_match":0.625
   },
   {
     "player":"Bosse",
@@ -32,14 +38,14 @@
   {
     "player":"Gustav",
     "digs":2,
-    "digs_per_set":0.6666666667,
-    "digs_per_match":0.25
+    "digs_per_set":0.3333333333,
+    "digs_per_match":0.2222222222
   },
   {
     "player":"Hjorth",
-    "digs":13,
-    "digs_per_set":1.4444444444,
-    "digs_per_match":4.3333333333
+    "digs":21,
+    "digs_per_set":1.75,
+    "digs_per_match":5.25
   },
   {
     "player":"Jonas",
@@ -50,14 +56,14 @@
   {
     "player":"Kristian",
     "digs":2,
-    "digs_per_set":0.2,
-    "digs_per_match":0.1428571429
+    "digs_per_set":0.1428571429,
+    "digs_per_match":0.1333333333
   },
   {
     "player":"Lasse",
-    "digs":13,
-    "digs_per_set":1.625,
-    "digs_per_match":1.0
+    "digs":20,
+    "digs_per_set":1.6666666667,
+    "digs_per_match":1.4285714286
   },
   {
     "player":"Mads",
@@ -67,15 +73,15 @@
   },
   {
     "player":"Malthe",
-    "digs":6,
-    "digs_per_set":1.2,
-    "digs_per_match":6.0
+    "digs":7,
+    "digs_per_set":1.0,
+    "digs_per_match":3.5
   },
   {
     "player":"Martin",
-    "digs":13,
-    "digs_per_set":1.0,
-    "digs_per_match":1.0
+    "digs":18,
+    "digs_per_set":1.0588235294,
+    "digs_per_match":1.2857142857
   },
   {
     "player":"Nicola",

@@ -266,6 +266,25 @@
     "id_opponent_date":"144595 - Hvidovre VK.2 - 2025.10.04"
   },
   {
+    "kampnr":144610,
+    "positive_percentage":3.6363636364,
+    "1-pass":14,
+    "2-pass":21,
+    "3-pass":19,
+    "Pass_Rating":1.765,
+    "season":"2025\/2026",
+    "hjemme":"Frederiksberg Volley",
+    "ude":"Gentofte Volley.2",
+    "spillested":"B\u00fclowsvejhallen 1",
+    "played":"yes",
+    "resultat":"3\u00a0-\u00a01",
+    "result_for_frb":"won",
+    "date":1762560000000,
+    "match_name":"frb-gv2",
+    "opponent":"Gentofte Volley.2",
+    "id_opponent_date":"144610 - Gentofte Volley.2 - 2025.11.08"
+  },
+  {
     "kampnr":147434,
     "positive_percentage":3.0,
     "1-pass":5,

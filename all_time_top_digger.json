@@ -1,9 +1,9 @@
 [
   {
     "player":"Alex",
-    "digs":134,
-    "digs_per_set":2.3103448276,
-    "digs_per_match":8.9333333333
+    "digs":145,
+    "digs_per_set":2.3387096774,
+    "digs_per_match":9.0625
   },
   {
     "player":"Ando",
@@ -13,21 +13,21 @@
   },
   {
     "player":"Anton",
-    "digs":9,
-    "digs_per_set":0.8181818182,
-    "digs_per_match":3.0
+    "digs":10,
+    "digs_per_set":0.6666666667,
+    "digs_per_match":2.5
   },
   {
     "player":"Bo",
     "digs":15,
-    "digs_per_set":0.4285714286,
-    "digs_per_match":1.3636363636
+    "digs_per_set":0.4054054054,
+    "digs_per_match":1.25
   },
   {
     "player":"Boerme",
-    "digs":26,
-    "digs_per_set":1.1818181818,
-    "digs_per_match":3.7142857143
+    "digs":31,
+    "digs_per_set":1.24,
+    "digs_per_match":3.875
   },
   {
     "player":"Bosse",
@@ -44,14 +44,14 @@
   {
     "player":"Gustav",
     "digs":11,
-    "digs_per_set":0.3548387097,
-    "digs_per_match":1.375
+    "digs_per_set":0.3235294118,
+    "digs_per_match":1.2222222222
   },
   {
     "player":"Hjorth",
-    "digs":13,
-    "digs_per_set":1.4444444444,
-    "digs_per_match":4.3333333333
+    "digs":21,
+    "digs_per_set":1.75,
+    "digs_per_match":5.25
   },
   {
     "player":"Jonas",
@@ -62,14 +62,14 @@
   {
     "player":"Kristian",
     "digs":23,
-    "digs_per_set":0.5111111111,
-    "digs_per_match":1.6428571429
+    "digs_per_set":0.4693877551,
+    "digs_per_match":1.5333333333
   },
   {
     "player":"Lasse",
-    "digs":92,
-    "digs_per_set":1.9166666667,
-    "digs_per_match":7.0769230769
+    "digs":99,
+    "digs_per_set":1.9038461538,
+    "digs_per_match":7.0714285714
   },
   {
     "player":"Mads",
@@ -79,15 +79,15 @@
   },
   {
     "player":"Malthe",
-    "digs":6,
-    "digs_per_set":1.2,
-    "digs_per_match":6.0
+    "digs":7,
+    "digs_per_set":1.0,
+    "digs_per_match":3.5
   },
   {
     "player":"Martin",
-    "digs":57,
-    "digs_per_set":1.3255813953,
-    "digs_per_match":4.3846153846
+    "digs":62,
+    "digs_per_set":1.3191489362,
+    "digs_per_match":4.4285714286
   },
   {
     "player":"Mikkel",
