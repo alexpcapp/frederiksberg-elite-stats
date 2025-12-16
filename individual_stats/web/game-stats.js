@@ -11,26 +11,26 @@ const themes = [
     id: "hitting", 
     label: "Hitting", 
     columns: ["Player_Name", "Kills", "Kill_%", "Kills/Game"],
-    players: ["Hjorth", "Anton", "Martin", "Boerme", "Mikkel", "Nico Lang", "Frederik", "Nicola", "Kristian", "Ando", "Malthe", "Gustav"] 
+    players: ["Hjorth", "Anton", "Martin", "Boerme", "Mikkel", "Nico Lang", "Frederik", "Nicola", "Kristian", "Ando", "Malthe", "Gustav", "Bo", "Alex"] 
   },
   
   { 
     id: "serving", 
     label: "Serving", 
     columns: ["Player_Name", "Aces", "Serve_Errors", "Serve_Rating"], 
-    players: ["Martin", "Hjorth", "Bosse", "Alex", "Kristian", "Jonas", "Gustav", "Bo", "Ando", "Anton", "Lasse"] 
+    players: ["Martin", "Hjorth", "Bosse", "Alex", "Kristian", "Jonas", "Gustav", "Bo", "Ando", "Boerme", "Anton", "Lasse", "Malthe", "Bo"] 
   },
   { 
     id: "passing", 
     label: "Passing", 
     columns: ["Player_Name", "Pass_Rating", "3-pass_Percent", "Total_Pass_Error_%"], 
-    players: ["Alex", "Anton", "Boerme", "Hjorth", "Nicola", "Bosse"] 
+    players: ["Alex", "Anton", "Boerme", "Hjorth", "Malthe", "Nicola", "Bosse", "Bo"] 
   },
   { 
     id: "defence", 
     label: "Defence", 
     columns: ["Player_Name", "Digs", "Digs/Game"], 
-    players: ["Alex", "Lasse", "Anton", "Boerme", "Hjorth", "Nicola", "Bosse", "Martin", "Mikkel", "Ando"] // Add the players you want to show for defence
+    players: ["Alex", "Lasse", "Anton", "Boerme", "Hjorth", "Nicola", "Bosse", "Martin", "Mikkel", "Ando", "Malthe", "Gustav", "Ando", "Kristian", "Bo"] // Add the players you want to show for defence
   }
 ];
 
@@ -55,7 +55,8 @@ const columnFormatters = {
   "Serve_Rating": { label: "Serve Rating", format: val => val != null ? val.toFixed(2) : "" },
   "Pass_Rating": { label: "Pass Rating", format: val => val != null ? val.toFixed(2) : "" },
   "Digs": { label: "Digs", format: val => val != null ? val.toString() : "" },
-  "Kills/Game": { label: "Kills / Game", format: val => val != null ? val.toFixed(2) : "" },
+  "Kills/Game": { label: "Kills / Set", format: val => val != null ? val.toFixed(2) : "" },
+  "Digs/Game": { label: "Digs / Set", format: val => val != null ? val.toFixed(2) : "" },
 };
 
 // === Format match label ===
