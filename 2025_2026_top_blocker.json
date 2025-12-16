@@ -2,23 +2,23 @@
   {
     "player":"Alex",
     "blocks":0,
-    "blocks_in_play":0,
+    "blocks_in_play":1,
     "blocks_per_set":0.0,
-    "blocks_in_play_per_set":0.0
+    "blocks_in_play_per_set":0.04
   },
   {
     "player":"Ando",
-    "blocks":3,
-    "blocks_in_play":1,
+    "blocks":6,
+    "blocks_in_play":5,
     "blocks_per_set":0.6,
-    "blocks_in_play_per_set":0.2
+    "blocks_in_play_per_set":0.5
   },
   {
     "player":"Anton",
-    "blocks":6,
-    "blocks_in_play":10,
-    "blocks_per_set":0.4,
-    "blocks_in_play_per_set":0.6666666667
+    "blocks":10,
+    "blocks_in_play":12,
+    "blocks_per_set":0.4545454545,
+    "blocks_in_play_per_set":0.5454545455
   },
   {
     "player":"Bo",
@@ -29,10 +29,10 @@
   },
   {
     "player":"Boerme",
-    "blocks":0,
-    "blocks_in_play":1,
-    "blocks_per_set":0.0,
-    "blocks_in_play_per_set":0.3333333333
+    "blocks":3,
+    "blocks_in_play":2,
+    "blocks_per_set":0.3333333333,
+    "blocks_in_play_per_set":0.2222222222
   },
   {
     "player":"Bosse",
@@ -43,17 +43,17 @@
   },
   {
     "player":"Gustav",
-    "blocks":7,
-    "blocks_in_play":0,
-    "blocks_per_set":1.1666666667,
-    "blocks_in_play_per_set":0.0
+    "blocks":17,
+    "blocks_in_play":7,
+    "blocks_per_set":1.4166666667,
+    "blocks_in_play_per_set":0.5833333333
   },
   {
     "player":"Hjorth",
-    "blocks":5,
+    "blocks":6,
     "blocks_in_play":5,
-    "blocks_per_set":0.4166666667,
-    "blocks_in_play_per_set":0.4166666667
+    "blocks_per_set":0.4,
+    "blocks_in_play_per_set":0.3333333333
   },
   {
     "player":"Jonas",
@@ -64,17 +64,17 @@
   },
   {
     "player":"Kristian",
-    "blocks":13,
-    "blocks_in_play":12,
-    "blocks_per_set":0.9285714286,
-    "blocks_in_play_per_set":0.8571428571
+    "blocks":17,
+    "blocks_in_play":18,
+    "blocks_per_set":0.9444444444,
+    "blocks_in_play_per_set":1.0
   },
   {
     "player":"Lasse",
-    "blocks":9,
-    "blocks_in_play":11,
-    "blocks_per_set":0.75,
-    "blocks_in_play_per_set":0.9166666667
+    "blocks":13,
+    "blocks_in_play":17,
+    "blocks_per_set":0.8666666667,
+    "blocks_in_play_per_set":1.1333333333
   },
   {
     "player":"Mads",
@@ -86,16 +86,16 @@
   {
     "player":"Malthe",
     "blocks":4,
-    "blocks_in_play":3,
-    "blocks_per_set":0.5714285714,
-    "blocks_in_play_per_set":0.4285714286
+    "blocks_in_play":4,
+    "blocks_per_set":0.3636363636,
+    "blocks_in_play_per_set":0.3636363636
   },
   {
     "player":"Martin",
-    "blocks":13,
-    "blocks_in_play":9,
-    "blocks_per_set":0.7647058824,
-    "blocks_in_play_per_set":0.5294117647
+    "blocks":17,
+    "blocks_in_play":12,
+    "blocks_per_set":0.8095238095,
+    "blocks_in_play_per_set":0.5714285714
   },
   {
     "player":"Nicola",

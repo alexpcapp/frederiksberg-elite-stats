@@ -3,13 +3,13 @@
     "player":"Alex",
     "digs":111,
     "digs_per_set":2.5227272727,
-    "digs_per_match":6.9375
+    "digs_per_match":6.1666666667
   },
   {
     "player":"Ando",
     "digs":3,
     "digs_per_set":0.375,
-    "digs_per_match":0.6
+    "digs_per_match":0.4285714286
   },
   {
     "player":"Bo",
@@ -21,13 +21,13 @@
     "player":"Boerme",
     "digs":26,
     "digs_per_set":1.1818181818,
-    "digs_per_match":3.25
+    "digs_per_match":2.6
   },
   {
     "player":"Bosse",
     "digs":7,
     "digs_per_set":0.28,
-    "digs_per_match":0.6363636364
+    "digs_per_match":0.5833333333
   },
   {
     "player":"Frederik",
@@ -39,19 +39,19 @@
     "player":"Gustav",
     "digs":9,
     "digs_per_set":0.3214285714,
-    "digs_per_match":1.0
+    "digs_per_match":0.8181818182
   },
   {
     "player":"Kristian",
     "digs":21,
     "digs_per_set":0.6,
-    "digs_per_match":1.4
+    "digs_per_match":1.2352941176
   },
   {
     "player":"Lasse",
     "digs":79,
     "digs_per_set":1.975,
-    "digs_per_match":5.6428571429
+    "digs_per_match":5.2666666667
   },
   {
     "player":"Mads",
@@ -63,7 +63,7 @@
     "player":"Martin",
     "digs":44,
     "digs_per_set":1.4666666667,
-    "digs_per_match":3.1428571429
+    "digs_per_match":2.9333333333
   },
   {
     "player":"Mikkel",

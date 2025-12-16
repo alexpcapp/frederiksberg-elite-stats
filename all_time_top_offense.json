@@ -1,30 +1,30 @@
 [
   {
     "player":"Alex",
-    "attack_attempts":3,
-    "total_kills":1,
+    "attack_attempts":7,
+    "total_kills":3,
     "attack_errors":1,
-    "kill_percentage":33.3333333333,
-    "error_pct":33.3333333333,
-    "hitting_efficiency":0.0
+    "kill_percentage":42.8571428571,
+    "error_pct":14.2857142857,
+    "hitting_efficiency":0.2857142857
   },
   {
     "player":"Ando",
-    "attack_attempts":26,
-    "total_kills":17,
+    "attack_attempts":33,
+    "total_kills":21,
     "attack_errors":3,
-    "kill_percentage":65.3846153846,
-    "error_pct":11.5384615385,
-    "hitting_efficiency":0.5384615385
+    "kill_percentage":63.6363636364,
+    "error_pct":9.0909090909,
+    "hitting_efficiency":0.5454545455
   },
   {
     "player":"Anton",
-    "attack_attempts":110,
-    "total_kills":39,
-    "attack_errors":23,
-    "kill_percentage":35.4545454545,
-    "error_pct":20.9090909091,
-    "hitting_efficiency":0.1454545455
+    "attack_attempts":173,
+    "total_kills":62,
+    "attack_errors":31,
+    "kill_percentage":35.838150289,
+    "error_pct":17.9190751445,
+    "hitting_efficiency":0.1791907514
   },
   {
     "player":"Bo",
@@ -37,12 +37,12 @@
   },
   {
     "player":"Boerme",
-    "attack_attempts":128,
-    "total_kills":50,
-    "attack_errors":22,
-    "kill_percentage":39.0625,
-    "error_pct":17.1875,
-    "hitting_efficiency":0.21875
+    "attack_attempts":151,
+    "total_kills":60,
+    "attack_errors":27,
+    "kill_percentage":39.7350993377,
+    "error_pct":17.880794702,
+    "hitting_efficiency":0.2185430464
   },
   {
     "player":"Bosse",
@@ -64,21 +64,21 @@
   },
   {
     "player":"Gustav",
-    "attack_attempts":95,
-    "total_kills":39,
-    "attack_errors":14,
-    "kill_percentage":41.0526315789,
-    "error_pct":14.7368421053,
-    "hitting_efficiency":0.2631578947
+    "attack_attempts":122,
+    "total_kills":48,
+    "attack_errors":16,
+    "kill_percentage":39.3442622951,
+    "error_pct":13.1147540984,
+    "hitting_efficiency":0.262295082
   },
   {
     "player":"Hjorth",
-    "attack_attempts":82,
-    "total_kills":31,
+    "attack_attempts":92,
+    "total_kills":37,
     "attack_errors":11,
-    "kill_percentage":37.8048780488,
-    "error_pct":13.4146341463,
-    "hitting_efficiency":0.243902439
+    "kill_percentage":40.2173913043,
+    "error_pct":11.9565217391,
+    "hitting_efficiency":0.2826086957
   },
   {
     "player":"Jonas",
@@ -91,21 +91,21 @@
   },
   {
     "player":"Kristian",
-    "attack_attempts":119,
-    "total_kills":56,
-    "attack_errors":15,
-    "kill_percentage":47.0588235294,
-    "error_pct":12.6050420168,
-    "hitting_efficiency":0.3445378151
+    "attack_attempts":128,
+    "total_kills":61,
+    "attack_errors":16,
+    "kill_percentage":47.65625,
+    "error_pct":12.5,
+    "hitting_efficiency":0.3515625
   },
   {
     "player":"Lasse",
-    "attack_attempts":74,
-    "total_kills":28,
+    "attack_attempts":80,
+    "total_kills":33,
     "attack_errors":13,
-    "kill_percentage":37.8378378378,
-    "error_pct":17.5675675676,
-    "hitting_efficiency":0.2027027027
+    "kill_percentage":41.25,
+    "error_pct":16.25,
+    "hitting_efficiency":0.25
   },
   {
     "player":"Mads",
@@ -118,21 +118,21 @@
   },
   {
     "player":"Malthe",
-    "attack_attempts":23,
-    "total_kills":10,
-    "attack_errors":6,
-    "kill_percentage":43.4782608696,
-    "error_pct":26.0869565217,
-    "hitting_efficiency":0.1739130435
+    "attack_attempts":43,
+    "total_kills":16,
+    "attack_errors":9,
+    "kill_percentage":37.2093023256,
+    "error_pct":20.9302325581,
+    "hitting_efficiency":0.1627906977
   },
   {
     "player":"Martin",
-    "attack_attempts":355,
-    "total_kills":152,
-    "attack_errors":66,
-    "kill_percentage":42.8169014085,
-    "error_pct":18.5915492958,
-    "hitting_efficiency":0.2422535211
+    "attack_attempts":397,
+    "total_kills":172,
+    "attack_errors":70,
+    "kill_percentage":43.3249370277,
+    "error_pct":17.6322418136,
+    "hitting_efficiency":0.2569269521
   },
   {
     "player":"Mikkel",
